@@ -1,0 +1,254 @@
+{% extends "base.html" %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/game.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="game-container">
+
+    <!-- Quit Button -->
+    <div class="quit-btn-container">
+        <button id="dynamicButton" class="quit-btn">{{ ui_text.get('quit') }}</button>
+    </div>
+
+    <!-- Game Header -->
+    <div class="game-header">
+        <h2 class="category-title">{{ ui_text.get(category, category.replace('_', ' ').title()) }}</h2>
+
+        <div class="level-indicator">{{ ui_text.get(level, level.replace('_', ' ').title()) }}</div>
+        <div class="points-display">
+            🏆 {{ ui_text.get('points') }}: <span id="pointsValue">{{ user_points }}</span>
+            <span id="pointsChange" class="points-change"></span>
+        </div>
+    </div>
+
+    <!-- Optional: Progress Bar -->
+    <!-- <div class="progress-bar-container">
+        <div class="progress-bar" style="width: {{ (current_page / total_pages) * 100 }}%;"></div>
+    </div> -->
+
+    <!-- Game Form -->
+    <form id="gameForm">
+        {% for question in questions %}
+        <div class="question">
+            <p>{{ question.question }}</p>
+            {% for option in question.options %}
+            <div>
+                <input type="radio" name="answer_{{ question.id }}" value="{{ option }}" required> {{ option }}
+            </div>
+            {% endfor %}
+            <input type="hidden" name="question_id" value="{{ question.id }}">
+        </div>
+        {% endfor %}
+
+        <button type="submit"> {{ ui_text.get('submit') }}</button>
+    </form>
+
+    <!-- Explanation Popup -->
+    <div id="explanationPopup">
+        <p id="explanationText"></p>
+        <button id="nextQuestionButton">{{ ui_text.get('next_question') }}</button>
+        <button id="tryAgainButton" style="display: none;">{{ ui_text.get('try_again') }}</button>
+    </div>
+
+    <!-- Pagination Controls -->
+    <div class="pagination">
+        {% if current_page > 1 %}
+        <a href="{{ url_for('play_game', category=category, level=level, page=current_page - 1) }}" class="page-link prev-page">
+            ← {{ _('Previous') }}
+        </a>
+        {% endif %}
+
+        <span class="page-info">
+            {{ _('Question') }} {{ current_page }} {{ _('of') }} {{ total_pages }}
+        </span>
+
+        {% if current_page < total_pages %}
+        <a href="{{ url_for('play_game', category=category, level=level, page=current_page + 1) }}" class="page-link next-page">
+            {{ _('Next') }} →
+        </a>
+        {% endif %}
+    </div>
+
+    <!-- Celebration Popup -->
+    <div id="badgePopup" class="badge-popup" style="display: none;">
+        <div class="popup-content">
+            <h3>🎉 Congratulations! 🎉</h3>
+            <p id="badgeText"></p>
+            <img id="badgeImage" src="" alt="Badge Icon" class="badge-img">
+            <button onclick="closeBadgePopup()">Continue</button>
+        </div>
+    </div>
+
+
+    
+
+
+</div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const form = document.getElementById("gameForm");
+        const popup = document.getElementById("explanationPopup");
+        const explanationText = document.getElementById("explanationText");
+        const nextButton = document.getElementById("nextQuestionButton");
+        const tryAgainButton = document.getElementById("tryAgainButton");
+    
+        form.addEventListener("submit", async (e) => {
+            e.preventDefault();
+    
+            const formData = new FormData(form);
+            const answers = {};
+            let questionId = "";
+    
+            formData.forEach((value, key) => {
+                if (key.startsWith("answer_")) {
+                    answers["answer"] = value;
+                    questionId = key.split("_")[1];
+                } else if (key === "question_id") {
+                    answers["question_id"] = value;
+                }
+            });
+    
+            // Add current category and level from template variables
+            answers["category"] = "{{ category }}";
+            answers["level"] = "{{ level }}";
+    
+            const response = await fetch("{{ url_for('submit_answer') }}", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify(answers)
+            });
+    
+            const result = await response.json();
+    
+            if (result.error) {
+                alert(result.error);
+                return;
+            }
+    
+            // Show the explanation popup
+            document.getElementById('explanationText').innerHTML = result.correct
+                ? "✅ Correct!<br>" + result.explanation
+            : "❌ Incorrect.<br>" + result.explanation;
+
+            document.getElementById('explanationPopup').style.display = 'block';
+
+              // Handle button visibility
+        if (result.correct) {
+            document.getElementById('nextQuestionButton').style.display = 'inline-block';
+            document.getElementById('tryAgainButton').style.display = 'none';
+            
+            // Update dynamic button if level is complete
+            if (result.level_completed) {
+                const dynamicBtn = document.getElementById('dynamicButton');
+                dynamicBtn.textContent = "{{ _('Next Level') }}";
+                dynamicBtn.classList.add('next-level');
+                dynamicBtn.onclick = function() {
+                    window.location.href = "{{ url_for('play_game', category=category, level=next_level, page=1) }}";
+                };
+            }
+        } else {
+            document.getElementById('nextQuestionButton').style.display = 'none';
+            document.getElementById('tryAgainButton').style.display = 'inline-block';
+        }
+
+        });
+    
+        nextButton.addEventListener("click", () => {
+            // Reload page to next question (handled by server pagination)
+            window.location.href = "{{ url_for('play_game', category=category, level=level, page=current_page + 1) }}";
+        });
+    
+        tryAgainButton.addEventListener("click", () => {
+            popup.style.display = "none";
+        });
+    
+        // Quit button functionality
+        document.getElementById("dynamicButton").addEventListener("click", () => {
+            if (confirm("Are you sure you want to quit? Your progress will be saved.")) {
+                window.location.href = "{{ url_for('main') }}";
+            }
+        });
+      
+
+        if (result.points !== undefined) {
+    const pointsValue = document.getElementById('pointsValue');
+    const pointsChange = document.getElementById('pointsChange');
+
+    const previousPoints = parseInt(pointsValue.textContent);
+    const newPoints = result.points;
+    const delta = newPoints - previousPoints;
+
+    // Update visible total points
+    pointsValue.textContent = newPoints;
+
+    if (delta > 0) {
+        // Show "+X"
+        pointsChange.textContent = `+${delta}`;
+        pointsChange.style.opacity = 1;
+        pointsChange.style.transform = "translateY(-10px)";
+
+        // Hide after a short delay
+        setTimeout(() => {
+            pointsChange.style.opacity = 0;
+            pointsChange.style.transform = "translateY(0)";
+        }, 1000);
+    }
+
+    // Animate main points value
+    pointsValue.style.transition = "transform 0.3s ease";
+    pointsValue.style.transform = "scale(1.3)";
+    setTimeout(() => {
+        pointsValue.style.transform = "scale(1)";
+    }, 300);
+    }
+
+
+    if (result.badge) {
+    const badgeText = document.getElementById('badgeText');
+    const badgeImage = document.getElementById('badgeImage');
+    const badgePopup = document.getElementById('badgePopup');
+
+    badgeText.textContent = `You've earned a badge for completing ${result.badge.replace(/_/g, ' ')}!`;
+    badgeImage.src = `/static/badges/${result.badge}.png`;  // Make sure image exists
+
+    badgePopup.style.display = 'block';
+    }
+
+    function closeBadgePopup() {
+    document.getElementById("badgePopup").style.display = "none";
+    }
+
+
+
+
+    const correctSound = new Audio('{{ url_for("static", filename="sounds/correct.mp3") }}');
+    const incorrectSound = new Audio('{{ url_for("static", filename="sounds/incorrect.mp3") }}');
+    const levelCompleteSound = new Audio('{{ url_for("static", filename="sounds/level_complete.mp3") }}');
+
+    
+    if (result.correct) {
+    correctSound.play();
+
+    if (result.level_completed) {
+        setTimeout(() => levelCompleteSound.play(), 500);  // Slight delay
+    }
+    } else {
+    incorrectSound.play();
+    }
+
+
+
+
+    });
+    </script>
+    
+</div>
+{% endblock %}
+

@@ -1,0 +1,1086 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Me mene 'sahihin carbon' ke aunawa?"
+msgstr "Adadin iskar carbon dioxide da ake fitarwa"
+
+msgid "Adadin iskar oxygen da ake samarwa"
+msgstr "Adadin iskar oxygen da ake samarwa"
+
+msgid "Adadin iskar carbon dioxide da ake fitarwa"
+msgstr "Adadin iskar carbon dioxide da ake fitarwa"
+
+msgid "Matsayin zafin duniya"
+msgstr "Matsayin zafin duniya"
+
+msgid "Adadin bishiyoyi a duniya"
+msgstr "Adadin bishiyoyi a duniya"
+
+msgid ""
+"Sahihin carbon yana aunawa fitar iskar carbon dioxide da mutane ko ayyuka ke"
+" haifarwa."
+msgstr ""
+"Sahihin carbon yana aunawa fitar iskar carbon dioxide da mutane ko ayyuka ke"
+" haifarwa."
+
+msgid ""
+"Wanne daga cikin wadannan yana haifar da mafi yawan carbon a gidajen "
+"Najeriya?"
+msgstr "Hada itace"
+
+msgid "Hada itace"
+msgstr "Hada itace"
+
+msgid "Amfani da hasken rana"
+msgstr "Amfani da hasken rana"
+
+msgid "Amfani da iska"
+msgstr "Amfani da iska"
+
+msgid "Amfani da ruwan dam"
+msgstr "Amfani da ruwan dam"
+
+msgid ""
+"Hada itace yana daga cikin abubuwan da aka saba yi a Najeriya wanda ke "
+"haifar da yawan iskar carbon dioxide."
+msgstr ""
+"Hada itace yana daga cikin abubuwan da aka saba yi a Najeriya wanda ke "
+"haifar da yawan iskar carbon dioxide."
+
+msgid "Ta yaya shuka itatuwa zai taimaka rage fitar da carbon?"
+msgstr "Itatuwa yana sha carbon dioxide"
+
+msgid "Itatuwa yana sha carbon dioxide"
+msgstr "Itatuwa yana sha carbon dioxide"
+
+msgid "Itatuwa yana fitar da carbon dioxide"
+msgstr "Itatuwa yana fitar da carbon dioxide"
+
+msgid "Itatuwa yana ƙara zafin duniya"
+msgstr "Itatuwa yana ƙara zafin duniya"
+
+msgid "Itatuwa yana fitar da oxygen kawai"
+msgstr "Itatuwa yana fitar da oxygen kawai"
+
+msgid ""
+"Itatuwa yana taimakawa rage carbon ta hanyar shan carbon dioxide da fitar da"
+" oxygen."
+msgstr ""
+"Itatuwa yana taimakawa rage carbon ta hanyar shan carbon dioxide da fitar da"
+" oxygen."
+
+msgid "Menene babban tushe na fitar da carbon a biranen Najeriya?"
+msgstr "Janareto"
+
+msgid "Janareto"
+msgstr "Janareto"
+
+msgid "Allon rana"
+msgstr "Allon rana"
+
+msgid "Jirgin jama'a"
+msgstr "Jirgin jama'a"
+
+msgid "Shuka itatuwa"
+msgstr "Shuka itatuwa"
+
+msgid ""
+"Janareto yana haifar da yawan fitar da carbon dioxide saboda rashin wutan "
+"lantarki mai tsaro."
+msgstr ""
+"Janareto yana haifar da yawan fitar da carbon dioxide saboda rashin wutan "
+"lantarki mai tsaro."
+
+msgid ""
+"Me yasa kona shara ke haifar da matsala kan fitar da carbon a Najeriya?"
+msgstr "Yana fitar da carbon dioxide"
+
+msgid "Yana fitar da carbon dioxide"
+msgstr "Yana fitar da carbon dioxide"
+
+msgid "Yana inganta ingancin iska"
+msgstr "Yana inganta ingancin iska"
+
+msgid "Yana adana kuzari"
+msgstr "Yana adana kuzari"
+
+msgid "Yana rage sharar matattarar kasa"
+msgstr "Yana rage sharar matattarar kasa"
+
+msgid ""
+"Kona shara yana sakin iskar gas mai cutarwa kamar carbon dioxide wanda ke "
+"lalata muhalli."
+msgstr ""
+"Kona shara yana sakin iskar gas mai cutarwa kamar carbon dioxide wanda ke "
+"lalata muhalli."
+
+msgid "Menene illar flare na iskar gas a masana'antar man fetur ta Najeriya?"
+msgstr "Yana sakin iskar greehouse"
+
+msgid "Yana sakin iskar greehouse"
+msgstr "Yana sakin iskar greehouse"
+
+msgid "Yana karawa kasar gona karfi"
+msgstr "Yana karawa kasar gona karfi"
+
+msgid "Yana rage datsewar iska"
+msgstr "Yana rage datsewar iska"
+
+msgid "Yana inganta muhalli dabbobi"
+msgstr "Yana inganta muhalli dabbobi"
+
+msgid ""
+"Flare na gas daga masana'antar man Najeriya yana taimakawa haifar da sauyin "
+"yanayi ta hanyar sakin iskar gas mai kara dumamar duniya."
+msgstr ""
+"Flare na gas daga masana'antar man Najeriya yana taimakawa haifar da sauyin "
+"yanayi ta hanyar sakin iskar gas mai kara dumamar duniya."
+
+msgid "Wanne irin aikin gona ne a Najeriya ke haifar da yawan fitar carbon?"
+msgstr "Noma kona kasa"
+
+msgid "Noma kona kasa"
+msgstr "Noma kona kasa"
+
+msgid "Juyin amfanin gona"
+msgstr "Juyin amfanin gona"
+
+msgid "Ruwan shayar da ruwan kadan"
+msgstr "Ruwan shayar da ruwan kadan"
+
+msgid "Noman sinadarai"
+msgstr "Noman sinadarai"
+
+msgid ""
+"Noma kona kasa yana sakin iskar carbon dioxide da wasu iskar gas masu "
+"cutarwa saboda kona tsirrai."
+msgstr ""
+"Noma kona kasa yana sakin iskar carbon dioxide da wasu iskar gas masu "
+"cutarwa saboda kona tsirrai."
+
+msgid "Ta yaya sare dazuzzuka a Najeriya ke kara yawan carbon?"
+msgstr "Yana rage bishiyoyi da ke shakar carbon dioxide"
+
+msgid "Yana rage bishiyoyi da ke shakar carbon dioxide"
+msgstr "Yana rage bishiyoyi da ke shakar carbon dioxide"
+
+msgid "Yana kara kuzarin da za'a iya sabuntawa"
+msgstr "Yana kara kuzarin da za'a iya sabuntawa"
+
+msgid "Yana inganta ingancin kasa"
+msgstr "Yana inganta ingancin kasa"
+
+msgid "Yana kara bambancin halitta"
+msgstr "Yana kara bambancin halitta"
+
+msgid ""
+"Sare daji yana rage bishiyoyin dake shakar carbon dioxide wanda hakan ke "
+"kara iskar carbon a sararin samaniya."
+msgstr ""
+"Sare daji yana rage bishiyoyin dake shakar carbon dioxide wanda hakan ke "
+"kara iskar carbon a sararin samaniya."
+
+msgid ""
+"Me yasa amfani da wutar lantarki daga gas yafi karfin amfani da wutar rana "
+"wajen fitar da carbon a Najeriya?"
+msgstr "Wutar gas tana fitar da greehouse mai yawa"
+
+msgid "Wutar gas tana fitar da greehouse mai yawa"
+msgstr "Wutar gas tana fitar da greehouse mai yawa"
+
+msgid "Wutar rana tana bukatar filin kasa mai yawa"
+msgstr "Wutar rana tana bukatar filin kasa mai yawa"
+
+msgid "Wutar gas tana da sabuntawa sosai"
+msgstr "Wutar gas tana da sabuntawa sosai"
+
+msgid "Wutar rana tana samar da karamin kuzari"
+msgstr "Wutar rana tana samar da karamin kuzari"
+
+msgid ""
+"Amfani da gas wajen samar da wuta yana haifar da sakin iskar greehouse mai "
+"yawa fiye da amfani da wutar rana wacce bata fitar da iskar gas."
+msgstr ""
+"Amfani da gas wajen samar da wuta yana haifar da sakin iskar greehouse mai "
+"yawa fiye da amfani da wutar rana wacce bata fitar da iskar gas."
+
+msgid "Wanne hanyar sufuri ke da mafi karancin fitar da carbon a Najeriya?"
+msgstr "Tafiya a kafa"
+
+msgid "Tafiya a kafa"
+msgstr "Tafiya a kafa"
+
+msgid "Babur"
+msgstr "Babur"
+
+msgid "Adaidaita sahu (Napep)"
+msgstr "Adaidaita sahu (Napep)"
+
+msgid "Motar bas"
+msgstr "Motar bas"
+
+msgid ""
+"Tafiya a kafa ba ta fitar da hayaki mai dumama yanayi, hakan ya sa shi mafi "
+"inganci wajen kula da muhalli."
+msgstr ""
+"Tafiya a kafa ba ta fitar da hayaki mai dumama yanayi, hakan ya sa shi mafi "
+"inganci wajen kula da muhalli."
+
+msgid ""
+"Me amfanin amfani da motocin bas na jama'a maimakon na mota ta kashin kai a "
+"Najeriya?"
+msgstr "Rage cunkoson hanya"
+
+msgid "Rage cunkoson hanya"
+msgstr "Rage cunkoson hanya"
+
+msgid "Karawa fitar hayaki carbon"
+msgstr "Karawa fitar hayaki carbon"
+
+msgid "Yafi tsada ga mutum daya"
+msgstr "Yafi tsada ga mutum daya"
+
+msgid "Na bukatar karin mai"
+msgstr "Na bukatar karin mai"
+
+msgid ""
+"Motar bas na daukar mutane dayawa a lokaci daya, hakan yana rage cinkoso na "
+"motocin kan hanya."
+msgstr ""
+"Motar bas na daukar mutane dayawa a lokaci daya, hakan yana rage cinkoso na "
+"motocin kan hanya."
+
+msgid ""
+"Wanne tsari na gwamnati zai iya rage fitar hayaki sufuri sosai a Najeriya?"
+msgstr "Tallafawa motocin lantarki"
+
+msgid "Tallafawa motocin lantarki"
+msgstr "Tallafawa motocin lantarki"
+
+msgid "Kara tallafin mai"
+msgstr "Kara tallafin mai"
+
+msgid "Inganta siyar da janareta"
+msgstr "Inganta siyar da janareta"
+
+msgid "Yawaitar mallakar mota ta kashin kai"
+msgstr "Yawaitar mallakar mota ta kashin kai"
+
+msgid ""
+"Motocin lantarki basa fitar hayaki kai tsaye kuma zasu iya rage sahihin "
+"carbon din sufuri sosai a Najeriya."
+msgstr ""
+"Motocin lantarki basa fitar hayaki kai tsaye kuma zasu iya rage sahihin "
+"carbon din sufuri sosai a Najeriya."
+
+msgid "Menene babban sanadin gurbatar iska daga sufuri a Najeriya?"
+msgstr "Fitar da carbon daga motocin sufuri"
+
+msgid "Hayakin iskar da ake fitarwa daga motoci"
+msgstr "Hayakin iskar da ake fitarwa daga motoci"
+
+msgid "Tashin hayaki daga shara da aka kona a bude"
+msgstr "Tashin hayaki daga shara da aka kona a bude"
+
+msgid "Fitar da carbon daga motocin sufuri"
+msgstr "Fitar da carbon daga motocin sufuri"
+
+msgid "Tsananin kura daga hanyoyi da ba a gyara sosai ba"
+msgstr "Tsananin kura daga hanyoyi da ba a gyara sosai ba"
+
+msgid ""
+"Motocin sufuri suna daga cikin manyan hanyoyin fitar da carbon, suna kara "
+"gurbatar iska sosai a Najeriya."
+msgstr ""
+"Motocin sufuri suna daga cikin manyan hanyoyin fitar da carbon, suna kara "
+"gurbatar iska sosai a Najeriya."
+
+msgid ""
+"Wanne birnin Najeriya ne ya fara amfani da motocin bas na gas da aka matsa "
+"(CNG) don rage fitar da hayaki?"
+msgstr "Lagos"
+
+msgid "Abuja"
+msgstr "Abuja"
+
+msgid "Lagos"
+msgstr "Lagos"
+
+msgid "Port Harcourt"
+msgstr "Port Harcourt"
+
+msgid "Kano"
+msgstr "Kano"
+
+msgid ""
+"Lagos ta fara amfani da motocin bas na gas (CNG) don rage fitar da hayaki "
+"mai gurbata."
+msgstr ""
+"Lagos ta fara amfani da motocin bas na gas (CNG) don rage fitar da hayaki "
+"mai gurbata."
+
+msgid ""
+"Ta yaya amfani da mota daya tsakanin mutane zai taimaka rage fitar hayaki "
+"carbon a Najeriya?"
+msgstr "Yana rage adadin motocin da ke kan hanya"
+
+msgid "Yana rage adadin motocin da ke kan hanya"
+msgstr "Yana rage adadin motocin da ke kan hanya"
+
+msgid "Yana kara amfani da mai"
+msgstr "Yana kara amfani da mai"
+
+msgid "Yana kara gurbatar iska"
+msgstr "Yana kara gurbatar iska"
+
+msgid "Yana karfafa mallakar mota ta kashin kai"
+msgstr "Yana karfafa mallakar mota ta kashin kai"
+
+msgid ""
+"Amfani da mota daya yana rage adadin motocin da ke kan hanya, wanda hakan "
+"zai taimaka rage cinkoso da fitar da hayaki carbon."
+msgstr ""
+"Amfani da mota daya yana rage adadin motocin da ke kan hanya, wanda hakan "
+"zai taimaka rage cinkoso da fitar da hayaki carbon."
+
+msgid ""
+"Menene tasirin muhalli na amfani da motocin da ke amfani da man fetur a "
+"cikin garuruwan Najeriya?"
+msgstr "Yana ƙara fitar da hayakin gas greenhouse"
+
+msgid "Yana ƙara fitar da hayakin gas greenhouse"
+msgstr "Yana ƙara fitar da hayakin gas greenhouse"
+
+msgid "Yana karfafa shukar birane"
+msgstr "Yana karfafa shukar birane"
+
+msgid "Yana rage gurbatar ruwa"
+msgstr "Yana rage gurbatar ruwa"
+
+msgid "Yana ƙara mummunan gona"
+msgstr "Yana ƙara mummunan gona"
+
+msgid ""
+"Motocin da ke amfani da man fetur na fitar da hayaki na gas greenhouse kamar"
+" carbon dioxide, wanda hakan ke haifar da dumamar duniya da lalacewar "
+"muhalli."
+msgstr ""
+"Motocin da ke amfani da man fetur na fitar da hayaki na gas greenhouse kamar"
+" carbon dioxide, wanda hakan ke haifar da dumamar duniya da lalacewar "
+"muhalli."
+
+msgid ""
+"Ta yaya motocin lantarki (EVs) zai taimaka rage fitar da hayaki carbon daga "
+"sufuri a Najeriya?"
+msgstr "Suna amfani da hanyoyin samar da makamashi masu sabuntawa"
+
+msgid "Suna amfani da hanyoyin samar da makamashi masu sabuntawa"
+msgstr "Suna amfani da hanyoyin samar da makamashi masu sabuntawa"
+
+msgid "Suna ƙara amfani da mai"
+msgstr "Suna ƙara amfani da mai"
+
+msgid "Suna buƙatar kulawa mai yawa"
+msgstr "Suna buƙatar kulawa mai yawa"
+
+msgid "Suna haifar da cinkoson mota"
+msgstr "Suna haifar da cinkoson mota"
+
+msgid ""
+"Motocin lantarki (EVs) suna fitar da ƙanƙara ko kuma babu hayaki yayin da "
+"ake amfani da hanyoyin samar da makamashi masu sabuntawa, wanda ke taimakawa"
+" rage fitar da hayaki carbon a cikin sufuri."
+msgstr ""
+"Motocin lantarki (EVs) suna fitar da ƙanƙara ko kuma babu hayaki yayin da "
+"ake amfani da hanyoyin samar da makamashi masu sabuntawa, wanda ke taimakawa"
+" rage fitar da hayaki carbon a cikin sufuri."
+
+msgid ""
+"Wanne dokar sufuri Najeriya zata iya aiwatarwa don rage sahihin carbon a "
+"cikin sashen sufuri?"
+msgstr "Goƙa sabbin hanyoyin sufuri na jama'a"
+
+msgid "Goƙa sabbin hanyoyin sufuri na jama'a"
+msgstr "Goƙa sabbin hanyoyin sufuri na jama'a"
+
+msgid "Kara haraji kan motocin kashin kai"
+msgstr "Kara haraji kan motocin kashin kai"
+
+msgid "Gina ƙarin hanyoyin mota"
+msgstr "Gina ƙarin hanyoyin mota"
+
+msgid "Karfafawa amfani da kekunan tafi"
+msgstr "Karfafawa amfani da kekunan tafi"
+
+msgid ""
+"Ta hanyar goƙa sabbin hanyoyin sufuri na jama'a, Najeriya na iya ƙarfafa "
+"mutane da dama suyi amfani da bas da jiragen ƙasa maimakon motocin kashin "
+"kai, wanda zai rage fitar da hayaki carbon."
+msgstr ""
+"Ta hanyar goƙa sabbin hanyoyin sufuri na jama'a, Najeriya na iya ƙarfafa "
+"mutane da dama suyi amfani da bas da jiragen ƙasa maimakon motocin kashin "
+"kai, wanda zai rage fitar da hayaki carbon."
+
+msgid "Menene rarraba shara?"
+msgstr "Tsarin ware shara cikin rukuni"
+
+msgid "Tsarin ware shara cikin rukuni"
+msgstr "Tsarin ware shara cikin rukuni"
+
+msgid "Aikin kone shara"
+msgstr "Aikin kone shara"
+
+msgid "Aikin sake amfani da shara"
+msgstr "Aikin sake amfani da shara"
+
+msgid "Aikin zubar da shara a cikin ramukan shara"
+msgstr "Aikin zubar da shara a cikin ramukan shara"
+
+msgid ""
+"Rarraba shara hanya ce ta ware shara cikin nau'o'i daban-daban kamar "
+"filastik, ƙarfe, shara na halitta, da sauransu."
+msgstr ""
+"Rarraba shara hanya ce ta ware shara cikin nau'o'i daban-daban kamar "
+"filastik, ƙarfe, shara na halitta, da sauransu."
+
+msgid "Wanne daga cikin wadannan kayan ne zai iya rushewa?"
+msgstr "Takarda"
+
+msgid "Filastik"
+msgstr "Filastik"
+
+msgid "Gilashi"
+msgstr "Gilashi"
+
+msgid "Takarda"
+msgstr "Takarda"
+
+msgid "Karfe"
+msgstr "Karfe"
+
+msgid ""
+"Takarda tana iya rushewa, wanda ke nufin zai iya rushewa ta hanyar dabi'u na"
+" halitta ta hanyar ayyukan halittu, wanda ya sha bamban da filastik ko "
+"ƙarfe."
+msgstr ""
+"Takarda tana iya rushewa, wanda ke nufin zai iya rushewa ta hanyar dabi'u na"
+" halitta ta hanyar ayyukan halittu, wanda ya sha bamban da filastik ko "
+"ƙarfe."
+
+msgid "Menene babban manufa na sake amfani?"
+msgstr "Don rage shara da kuma adana albarkatu"
+
+msgid "Don rage shara da kuma adana albarkatu"
+msgstr "Don rage shara da kuma adana albarkatu"
+
+msgid "Don ƙara gurbatarwa"
+msgstr "Don ƙara gurbatarwa"
+
+msgid "Don kone ƙarin shara"
+msgstr "Don kone ƙarin shara"
+
+msgid "Don sanya kayayyaki su fi tsada"
+msgstr "Don sanya kayayyaki su fi tsada"
+
+msgid ""
+"Sake amfani na taimaka rage adadin shara ta hanyar sake amfani da kayan aiki"
+" da kuma adana albarkatun halitta kamar ruwa da ma'adinai."
+msgstr ""
+"Sake amfani na taimaka rage adadin shara ta hanyar sake amfani da kayan aiki"
+" da kuma adana albarkatun halitta kamar ruwa da ma'adinai."
+
+msgid "Menene shara ta da za a iya amfani da shi wajen noman gona?"
+msgstr "Juya shara na kayan taki"
+
+msgid "Juya shara na kayan taki"
+msgstr "Juya shara na kayan taki"
+
+msgid "Kone shara filastik"
+msgstr "Kone shara filastik"
+
+msgid "Zubar da shara a cikin teku"
+msgstr "Zubar da shara a cikin teku"
+
+msgid "Daskare shara na halitta"
+msgstr "Daskare shara na halitta"
+
+msgid ""
+"Shara ta da za a iya amfani da shi wajen noman gona yana nufin juya shara na"
+" halitta kamar sauran abinci da shara na gona zuwa kayan taki mai dauke da "
+"sinadaran gina jiki."
+msgstr ""
+"Shara ta da za a iya amfani da shi wajen noman gona yana nufin juya shara na"
+" halitta kamar sauran abinci da shara na gona zuwa kayan taki mai dauke da "
+"sinadaran gina jiki."
+
+msgid "Menene babban amfanin sake amfani ga muhalli?"
+msgstr "Yana rage gurbatarwa"
+
+msgid "Yana rage gurbatarwa"
+msgstr "Yana rage gurbatarwa"
+
+msgid "Yana ƙara yawan shara"
+msgstr "Yana ƙara yawan shara"
+
+msgid "Yana ƙara amfani da albarkatu"
+msgstr "Yana ƙara amfani da albarkatu"
+
+msgid "Yana haifar da dumamar duniya"
+msgstr "Yana haifar da dumamar duniya"
+
+msgid ""
+"Sake amfani yana taimakawa rage gurbatarwa ta hanyar sake amfani da kayan "
+"aiki maimakon zubar da su, wanda ke rage yawan shara da zai tafi cikin "
+"ramukan shara ko cikin teku."
+msgstr ""
+"Sake amfani yana taimakawa rage gurbatarwa ta hanyar sake amfani da kayan "
+"aiki maimakon zubar da su, wanda ke rage yawan shara da zai tafi cikin "
+"ramukan shara ko cikin teku."
+
+msgid "Menene ma'anar kalmar 'zero waste'?"
+msgstr "Kada a samar da shara kwata-kwata"
+
+msgid "Kada a samar da shara kwata-kwata"
+msgstr "Kada a samar da shara kwata-kwata"
+
+msgid "Samar da shara ƙasa da yadda aka saba"
+msgstr "Samar da shara ƙasa da yadda aka saba"
+
+msgid "Amfani da kayan aiki na halitta kawai"
+msgstr "Amfani da kayan aiki na halitta kawai"
+
+msgid "Sake amfani da dukkan kayan shara"
+msgstr "Sake amfani da dukkan kayan shara"
+
+msgid ""
+"'Zero waste' yana nufin rayuwa ko da samar da shara kwata-kwata, yana nufin "
+"rage amfani da kaya da sake amfani da duk kayan shara."
+msgstr ""
+"'Zero waste' yana nufin rayuwa ko da samar da shara kwata-kwata, yana nufin "
+"rage amfani da kaya da sake amfani da duk kayan shara."
+
+msgid "Menene tasirin shara na filastik ga muhalli?"
+msgstr "Yana daukar shekaru dubu don zubar da shi"
+
+msgid "Yana daukar shekaru dubu don zubar da shi"
+msgstr "Yana daukar shekaru dubu don zubar da shi"
+
+msgid "Yana taimakawa wajen inganta ƙasa"
+msgstr "Yana taimakawa wajen inganta ƙasa"
+
+msgid "Yana da sauƙin lalacewa"
+msgstr "Yana da sauƙin lalacewa"
+
+msgid "Yana taimakawa wajen girma shuka"
+msgstr "Yana taimakawa wajen girma shuka"
+
+msgid ""
+"Shara na filastik yana daukar shekaru dubu don rushewa, wanda hakan yana "
+"haifar da gurbatar muhalli na dogon lokaci da kuma cutar da dabbobi."
+msgstr ""
+"Shara na filastik yana daukar shekaru dubu don rushewa, wanda hakan yana "
+"haifar da gurbatar muhalli na dogon lokaci da kuma cutar da dabbobi."
+
+msgid "Ta yaya rarraba shara ke taimakawa wajen gudanar da shara?"
+msgstr ""
+"Yana ba da damar sake amfani da kuma fitar da shara daban-daban cikin "
+"inganci"
+
+msgid ""
+"Yana ba da damar sake amfani da kuma fitar da shara daban-daban cikin "
+"inganci"
+msgstr ""
+"Yana ba da damar sake amfani da kuma fitar da shara daban-daban cikin "
+"inganci"
+
+msgid "Yana ƙara adadin shara"
+msgstr "Yana ƙara adadin shara"
+
+msgid "Yana rage yawan sake amfani"
+msgstr "Yana rage yawan sake amfani"
+
+msgid "Bai yi tasiri a kan gudanar da shara ba"
+msgstr "Bai yi tasiri a kan gudanar da shara ba"
+
+msgid ""
+"Rarraba shara yana taimakawa wajen rarrabe shara daga juna, wanda ke sauƙaƙe"
+" sake amfani da su da kuma zubar da su yadda ya kamata, yana rage "
+"gurbatarwa."
+msgstr ""
+"Rarraba shara yana taimakawa wajen rarrabe shara daga juna, wanda ke sauƙaƙe"
+" sake amfani da su da kuma zubar da su yadda ya kamata, yana rage "
+"gurbatarwa."
+
+msgid ""
+"Menene tasirin rashin zubar da shara yadda ya kamata ga lafiyar jama'a?"
+msgstr "Zai iya haifar da yaduwar cututtuka"
+
+msgid "Zai iya haifar da yaduwar cututtuka"
+msgstr "Zai iya haifar da yaduwar cututtuka"
+
+msgid "Zai inganta ingancin iska"
+msgstr "Zai inganta ingancin iska"
+
+msgid "Zai karfafa rayuwa mai kyau"
+msgstr "Zai karfafa rayuwa mai kyau"
+
+msgid "Bai yi tasiri ga lafiyar jama'a ba"
+msgstr "Bai yi tasiri ga lafiyar jama'a ba"
+
+msgid ""
+"Rashin zubar da shara yadda ya kamata, musamman a wuraren buɗe, na iya jawo "
+"kwari da kuma haifar da yaduwar cututtuka kamar su malaria, cholera, da "
+"typhoid."
+msgstr ""
+"Rashin zubar da shara yadda ya kamata, musamman a wuraren buɗe, na iya jawo "
+"kwari da kuma haifar da yaduwar cututtuka kamar su malaria, cholera, da "
+"typhoid."
+
+msgid "Menene makamancin wutar lantarki?"
+msgstr "Makamanin wuta wanda yake fitowa daga tushen halitta"
+
+msgid "Makamanin wuta wanda yake fitowa daga tushen halitta"
+msgstr "Makamanin wuta wanda yake fitowa daga tushen halitta"
+
+msgid "Makamanin wuta daga man fetur"
+msgstr "Makamanin wuta daga man fetur"
+
+msgid "Makamanin wuta daga hanyoyin da ba za a iya sabunta su ba"
+msgstr "Makamanin wuta daga hanyoyin da ba za a iya sabunta su ba"
+
+msgid "Makamanin wuta wanda aka shigo da shi"
+msgstr "Makamanin wuta wanda aka shigo da shi"
+
+msgid ""
+"Makamancin wutar lantarki yana fitowa daga tushen halitta kamar rana, iska, "
+"da ruwa wanda aka sabunta kuma mai dorewa."
+msgstr ""
+"Makamancin wutar lantarki yana fitowa daga tushen halitta kamar rana, iska, "
+"da ruwa wanda aka sabunta kuma mai dorewa."
+
+msgid ""
+"Wanne daga cikin wadannan shine tushen makamancin wuta wanda ba zai iya "
+"sabuntawa ba?"
+msgstr "Kwal"
+
+msgid "Makamanin rana"
+msgstr "Makamanin rana"
+
+msgid "Makamanin iska"
+msgstr "Makamanin iska"
+
+msgid "Kwal"
+msgstr "Kwal"
+
+msgid "Hadin ruwa"
+msgstr "Hadin ruwa"
+
+msgid ""
+"Kwal wani tushen makamancin wuta ne wanda ba za a iya sabunta shi ba, wato "
+"ba zai iya dawo da kansa bayan an gama shi ba."
+msgstr ""
+"Kwal wani tushen makamancin wuta ne wanda ba za a iya sabunta shi ba, wato "
+"ba zai iya dawo da kansa bayan an gama shi ba."
+
+msgid "Ta yaya amfani da makamancin wuta ke taimakawa wajen canjin yanayi?"
+msgstr "Yana haifar da ƙaruwa fitar da iskar carbon"
+
+msgid "Yana rage fitar da iskar gas mai ƙonewa"
+msgstr "Yana rage fitar da iskar gas mai ƙonewa"
+
+msgid "Yana haifar da ƙaruwa fitar da iskar carbon"
+msgstr "Yana haifar da ƙaruwa fitar da iskar carbon"
+
+msgid "Yana taimakawa wajen rage zafin duniya"
+msgstr "Yana taimakawa wajen rage zafin duniya"
+
+msgid "Bai yi tasiri ga canjin yanayi ba"
+msgstr "Bai yi tasiri ga canjin yanayi ba"
+
+msgid ""
+"Amfani da makamancin wuta, musamman daga man fetur kamar kwal da mai, yana "
+"haifar da fitar da iskar gas mai ƙonewa, wanda ke taimakawa wajen dumamar "
+"duniya da canjin yanayi."
+msgstr ""
+"Amfani da makamancin wuta, musamman daga man fetur kamar kwal da mai, yana "
+"haifar da fitar da iskar gas mai ƙonewa, wanda ke taimakawa wajen dumamar "
+"duniya da canjin yanayi."
+
+msgid ""
+"Wanne daga cikin wadannan shine babban tushen makamancin wuta a Najeriya?"
+msgstr "Makamanin rana"
+
+msgid "Makamanin rana"
+msgstr "Makamanin rana"
+
+msgid "Kwal"
+msgstr "Kwal"
+
+msgid "Gas ɗin halitta"
+msgstr "Gas ɗin halitta"
+
+msgid "Makamanin nukiliya"
+msgstr "Makamanin nukiliya"
+
+msgid ""
+"Makamanin rana shine daya daga cikin manyan tushen makamancin wuta a "
+"Najeriya, musamman a arewacin kasar inda rana take yawan fitowa."
+msgstr ""
+"Makamanin rana shine daya daga cikin manyan tushen makamancin wuta a "
+"Najeriya, musamman a arewacin kasar inda rana take yawan fitowa."
+
+msgid ""
+"Ta yaya kayan aikin da ke da amfani mai kyau zai taimaka wajen rage amfani "
+"da makamancin wuta?"
+msgstr "Suna amfani da ƙaramin wuta"
+
+msgid "Suna amfani da ƙaramin wuta"
+msgstr "Suna amfani da ƙaramin wuta"
+
+msgid "Suna ƙara ƙirƙirar shara"
+msgstr "Suna ƙara ƙirƙirar shara"
+
+msgid "Suna amfani da makamancin wuta da yawa"
+msgstr "Suna amfani da makamancin wuta da yawa"
+
+msgid "Suna da tsada"
+msgstr "Suna da tsada"
+
+msgid ""
+"Kayan aikin da ke da amfani mai kyau an tsara su don amfani da ƙaramin wuta,"
+" wanda zai taimaka wajen rage amfani da makamancin wuta da kuma rage kudaden"
+" wutar lantarki."
+msgstr ""
+"Kayan aikin da ke da amfani mai kyau an tsara su don amfani da ƙaramin wuta,"
+" wanda zai taimaka wajen rage amfani da makamancin wuta da kuma rage kudaden"
+" wutar lantarki."
+
+msgid "Menene tasirin amfani da makamancin wuta fiye da kima akan muhalli?"
+msgstr "Yana haifar da canjin yanayi"
+
+msgid "Yana rage gurbatar da muhalli"
+msgstr "Yana rage gurbatar da muhalli"
+
+msgid "Yana haifar da canjin yanayi"
+msgstr "Yana haifar da canjin yanayi"
+
+msgid "Yana inganta ingancin iska"
+msgstr "Yana inganta ingancin iska"
+
+msgid "Yana taimakawa wajen adana ruwa"
+msgstr "Yana taimakawa wajen adana ruwa"
+
+msgid ""
+"Amfani da makamancin wuta fiye da kima, musamman daga tushen da ba za a iya "
+"sabunta shi ba, yana haifar da ƙaruwa fitar da iskar carbon wanda ke "
+"taimakawa wajen canjin yanayi da lalata muhalli."
+msgstr ""
+"Amfani da makamancin wuta fiye da kima, musamman daga tushen da ba za a iya "
+"sabunta shi ba, yana haifar da ƙaruwa fitar da iskar carbon wanda ke "
+"taimakawa wajen canjin yanayi da lalata muhalli."
+
+msgid ""
+"Menene rawar da ajiyar makamancin wuta ke takawa a cikin tsarin makamancin "
+"wuta?"
+msgstr "Yana adana makamancin wuta domin amfani na gaba"
+
+msgid "Yana adana makamancin wuta domin amfani na gaba"
+msgstr "Yana adana makamancin wuta domin amfani na gaba"
+
+msgid "Yana ƙara samar da makamancin wuta"
+msgstr "Yana ƙara samar da makamancin wuta"
+
+msgid "Yana rage kudin makamancin wuta"
+msgstr "Yana rage kudin makamancin wuta"
+
+msgid "Yana kawar da buƙatar amfani da makamancin wuta"
+msgstr "Yana kawar da buƙatar amfani da makamancin wuta"
+
+msgid ""
+"Tsarin adana makamancin wuta, kamar batir, yana adana makamancin wuta da aka"
+" samar fiye da kima daga tushen makamancin wuta, yana tabbatar da cewa akwai"
+" makamancin wuta idan bukata ta karu ko kuma lokacin da samarwa ke kasa."
+msgstr ""
+"Tsarin adana makamancin wuta, kamar batir, yana adana makamancin wuta da aka"
+" samar fiye da kima daga tushen makamancin wuta, yana tabbatar da cewa akwai"
+" makamancin wuta idan bukata ta karu ko kuma lokacin da samarwa ke kasa."
+
+msgid ""
+"Menene smart grid, kuma ta yaya yake taimakawa wajen adana makamancin wuta?"
+msgstr ""
+"Fasahar da ke ba da damar sadarwa biyu tsakanin masu samar da makamancin "
+"wuta da masu amfani"
+
+msgid ""
+"Fasahar da ke ba da damar sadarwa biyu tsakanin masu samar da makamancin "
+"wuta da masu amfani"
+msgstr ""
+"Fasahar da ke ba da damar sadarwa biyu tsakanin masu samar da makamancin "
+"wuta da masu amfani"
+
+msgid "Na'urar da ke adana makamancin wuta domin amfani a gaba"
+msgstr "Na'urar da ke adana makamancin wuta domin amfani a gaba"
+
+msgid "Nau'in makamancin wuta wanda zai iya sabuntawa"
+msgstr "Nau'in makamancin wuta wanda zai iya sabuntawa"
+
+msgid "Tsarin da ke ƙara amfani da makamancin wuta"
+msgstr "Tsarin da ke ƙara amfani da makamancin wuta"
+
+msgid ""
+"Smart grid tsarin wutar lantarki ne mai ci gaba wanda ke amfani da fasahar "
+"dijital don sadarwa da kuma sarrafa amfani da wutar lantarki cikin inganci, "
+"yana taimakawa wajen adana makamancin wuta."
+msgstr ""
+"Smart grid tsarin wutar lantarki ne mai ci gaba wanda ke amfani da fasahar "
+"dijital don sadarwa da kuma sarrafa amfani da wutar lantarki cikin inganci, "
+"yana taimakawa wajen adana makamancin wuta."
+
+msgid ""
+"Me ya sa yake da muhimmanci rage amfani da makamancin wuta a yankunan zama?"
+msgstr "Domin kare muhalli"
+
+msgid "Domin rage kudaden wutar lantarki"
+msgstr "Domin rage kudaden wutar lantarki"
+
+msgid "Domin hana samar da makamancin wuta fiye da kima"
+msgstr "Domin hana samar da makamancin wuta fiye da kima"
+
+msgid "Domin kare muhalli"
+msgstr "Domin kare muhalli"
+
+msgid "Domin ƙara kudaden shiga na gwamnati"
+msgstr "Domin ƙara kudaden shiga na gwamnati"
+
+msgid ""
+"Rage amfani da makamancin wuta yana taimakawa wajen rage gurbatar da "
+"muhalli, rage fitar da iskar carbon, da kuma rage mummunan tasirin canjin "
+"yanayi."
+msgstr ""
+"Rage amfani da makamancin wuta yana taimakawa wajen rage gurbatar da "
+"muhalli, rage fitar da iskar carbon, da kuma rage mummunan tasirin canjin "
+"yanayi."
+
+msgid "Wane abinci ne babban tushen fitar da sahihin carbon?"
+msgstr "Nama ja"
+
+msgid "Fruits da kayan lambu"
+msgstr "Fruits da kayan lambu"
+
+msgid "Shinkafa da wake"
+msgstr "Shinkafa da wake"
+
+msgid "Nama ja"
+msgstr "Nama ja"
+
+msgid "Hadin hatsi duka"
+msgstr "Hadin hatsi duka"
+
+msgid ""
+"Nama ja na daukaka sahihin carbon saboda yawan makamancin wuta da ake bukata"
+" don kiwon dabbobi."
+msgstr ""
+"Nama ja na daukaka sahihin carbon saboda yawan makamancin wuta da ake bukata"
+" don kiwon dabbobi."
+
+msgid ""
+"Ta yaya abincin da aka samo daga shuka yake taimakawa wajen rage fitar da "
+"sahihin carbon?"
+msgstr "Yana buƙatar ƙarancin makamancin wuta don samarwa"
+
+msgid "Yana buƙatar ƙarancin makamancin wuta don samarwa"
+msgstr "Yana buƙatar ƙarancin makamancin wuta don samarwa"
+
+msgid "Yana da ƙarin abincin gina jiki"
+msgstr "Yana da ƙarin abincin gina jiki"
+
+msgid "Yana haifar da ƙarin shara"
+msgstr "Yana haifar da ƙarin shara"
+
+msgid "Yana amfani da ruwa mai yawa don samarwa"
+msgstr "Yana amfani da ruwa mai yawa don samarwa"
+
+msgid ""
+"Abincin da aka samo daga shuka, kamar su fruits, kayan lambu, da hatsi, yana"
+" buƙatar ƙarancin makamancin wuta fiye da abincin dabbobi."
+msgstr ""
+"Abincin da aka samo daga shuka, kamar su fruits, kayan lambu, da hatsi, yana"
+" buƙatar ƙarancin makamancin wuta fiye da abincin dabbobi."
+
+msgid ""
+"Me ya sa yake da muhimmanci rage shara abinci a cikin dangantaka da fitar da"
+" sahihin carbon?"
+msgstr "Domin rage sahihin carbon na samar da abinci"
+
+msgid "Domin rage sahihin carbon na samar da abinci"
+msgstr "Domin rage sahihin carbon na samar da abinci"
+
+msgid "Domin ƙara samun abinci"
+msgstr "Domin ƙara samun abinci"
+
+msgid "Domin rage farashin abinci"
+msgstr "Domin rage farashin abinci"
+
+msgid "Domin hana rashin tsaro na abinci"
+msgstr "Domin hana rashin tsaro na abinci"
+
+msgid ""
+"Samar da abinci yana buƙatar babban makamancin wuta da albarkatu. Rage shara"
+" yana nufin cewa za a buƙaci albarkatu kaɗan, wanda zai rage fitar da "
+"sahihin carbon da ke tattare da samar da abinci."
+msgstr ""
+"Samar da abinci yana buƙatar babban makamancin wuta da albarkatu. Rage shara"
+" yana nufin cewa za a buƙaci albarkatu kaɗan, wanda zai rage fitar da "
+"sahihin carbon da ke tattare da samar da abinci."
+
+msgid ""
+"Wane irin samar da abinci ne ke haifar da sahihin carbon dioxide mafi yawa?"
+msgstr "Noma dabbobi"
+
+msgid "Shinkafa da alkama"
+msgstr "Shinkafa da alkama"
+
+msgid "Noma dabbobi"
+msgstr "Noma dabbobi"
+
+msgid "Kifi da samar da abincin ruwa"
+msgstr "Kifi da samar da abincin ruwa"
+
+msgid "Noma kayan lambu da fruits"
+msgstr "Noma kayan lambu da fruits"
+
+msgid ""
+"Noma dabbobi, musamman shanu, yana samar da babban adadin methane da sahihin"
+" carbon dioxide, wanda ke mai da shi babban mai bayar da gudummawa ga fitar "
+"da iskar gas."
+msgstr ""
+"Noma dabbobi, musamman shanu, yana samar da babban adadin methane da sahihin"
+" carbon dioxide, wanda ke mai da shi babban mai bayar da gudummawa ga fitar "
+"da iskar gas."
+
+msgid ""
+"Wane irin aikin noma ne ke taimakawa wajen rage fitar da sahihin carbon a "
+"cikin samar da abinci?"
+msgstr "Agroforestry"
+
+msgid "Noman monoculture mai yawa"
+msgstr "Noman monoculture mai yawa"
+
+msgid "Agroforestry"
+msgstr "Agroforestry"
+
+msgid "Amfani da taki na sinadarai"
+msgstr "Amfani da taki na sinadarai"
+
+msgid "Noman da ke amfani da ruwa mai yawa"
+msgstr "Noman da ke amfani da ruwa mai yawa"
+
+msgid ""
+"Agroforestry yana hada itatu da bishiyoyi cikin tsarin noma, wanda ke "
+"taimakawa wajen sha sahihin carbon dioxide, rage ambaliya, da kuma kula da "
+"bambancin halittu."
+msgstr ""
+"Agroforestry yana hada itatu da bishiyoyi cikin tsarin noma, wanda ke "
+"taimakawa wajen sha sahihin carbon dioxide, rage ambaliya, da kuma kula da "
+"bambancin halittu."
+
+msgid "Me ya sa tafiye-tafiye abinci zai iya shafar fitar da sahihin carbon?"
+msgstr "Yana ƙara sahihin carbon saboda amfani da man fetur"
+
+msgid "Yana ƙara sahihin carbon saboda amfani da man fetur"
+msgstr "Yana ƙara sahihin carbon saboda amfani da man fetur"
+
+msgid ""
+"Yana rage sahihin carbon ta amfani da motoci masu amfani da wutar lantarki"
+msgstr ""
+"Yana rage sahihin carbon ta amfani da motoci masu amfani da wutar lantarki"
+
+msgid "Bai da tasiri akan sahihin carbon"
+msgstr "Bai da tasiri akan sahihin carbon"
+
+msgid "Yana taimakawa wajen kama sahihin carbon daga cikin marufi na abinci"
+msgstr "Yana taimakawa wajen kama sahihin carbon daga cikin marufi na abinci"
+
+msgid ""
+"Tafiye-tafiye abinci yana buƙatar amfani da man fetur, wanda ke haifar da "
+"sahihin carbon ta hanyar konewar man fetur."
+msgstr ""
+"Tafiye-tafiye abinci yana buƙatar amfani da man fetur, wanda ke haifar da "
+"sahihin carbon ta hanyar konewar man fetur."
+
+msgid "Ta yaya ɓata abinci ke taimakawa wajen haifar da sahihin carbon?"
+msgstr "Tossan abinci yana samar da methane a cikin wuraren shara"
+
+msgid "Tossan abinci yana samar da methane a cikin wuraren shara"
+msgstr "Tossan abinci yana samar da methane a cikin wuraren shara"
+
+msgid "Tossan abinci yana rage sahihin carbon"
+msgstr "Tossan abinci yana rage sahihin carbon"
+
+msgid "Tossan abinci ba ya shafar sahihin carbon"
+msgstr "Tossan abinci ba ya shafar sahihin carbon"
+
+msgid "Tossan abinci yana iya rushewa kuma ba ya fitar da gasa"
+msgstr "Tossan abinci yana iya rushewa kuma ba ya fitar da gasa"
+
+msgid ""
+"Idan abinci yana rushewa a cikin wuraren shara yana samar da methane, wani "
+"gas mai ƙarfi wanda ke taimakawa wajen canjin yanayi."
+msgstr ""
+"Idan abinci yana rushewa a cikin wuraren shara yana samar da methane, wani "
+"gas mai ƙarfi wanda ke taimakawa wajen canjin yanayi."
+
+msgid "Wane irin abinci ne ke da sahihin carbon mafi ƙanƙanta?"
+msgstr "Abinci da aka gina daga shuka"
+
+msgid "Abinci da aka gina daga shuka"
+msgstr "Abinci da aka gina daga shuka"
+
+msgid "Abinci mai dauke da nama"
+msgstr "Abinci mai dauke da nama"
+
+msgid "Abinci mai dauke da abinci masu sarrafawa"
+msgstr "Abinci mai dauke da abinci masu sarrafawa"
+
+msgid "Abinci mai dauke da kayayyakin madara"
+msgstr "Abinci mai dauke da kayayyakin madara"
+
+msgid ""
+"Abinci da aka gina daga shuka yana da sahihin carbon mafi ƙanƙanta saboda "
+"suna buƙatar ƙananan albarkatu, ciki har da ruwa da wutar lantarki, kuma "
+"suna samar da ƙananan gas masu samar da zafi."
+msgstr ""
+"Abinci da aka gina daga shuka yana da sahihin carbon mafi ƙanƙanta saboda "
+"suna buƙatar ƙananan albarkatu, ciki har da ruwa da wutar lantarki, kuma "
+"suna samar da ƙananan gas masu samar da zafi."
+
+msgid "Me ya sa marufin abinci ke haifar da sahihin carbon a cikin muhalli?"
+msgstr ""
+"Marufin yana amfani da filastik, wanda ke taimakawa wajen haifar da gurbatar"
+" filastik"
+
+msgid ""
+"Marufin yana amfani da filastik, wanda ke taimakawa wajen haifar da gurbatar"
+" filastik"
+msgstr ""
+"Marufin yana amfani da filastik, wanda ke taimakawa wajen haifar da gurbatar"
+" filastik"
+
+msgid "Marufin yana rage ɓata abinci"
+msgstr "Marufin yana rage ɓata abinci"
+
+msgid "Marufin ba ya shafar sahihin carbon"
+msgstr "Marufin ba ya shafar sahihin carbon"
+
+msgid "Marufin yana taimakawa wajen adana abinci na tsawon lokaci"
+msgstr "Marufin yana taimakawa wajen adana abinci na tsawon lokaci"
+
+msgid ""
+"Marufin abinci yana amfani da filastik, wanda ke taimakawa wajen gurbatar "
+"filastik da buƙatar albarkatu don samar da shi, wanda ke haifar da sahihin "
+"carbon mai girma."
+msgstr ""
+"Marufin abinci yana amfani da filastik, wanda ke taimakawa wajen gurbatar "
+"filastik da buƙatar albarkatu don samar da shi, wanda ke haifar da sahihin "
+"carbon mai girma."

@@ -1,0 +1,143 @@
+
+### **1. User Authentication Functions**
+These functions handle user registration, login, and session management.
+
+- **`login()`**
+  - Purpose: Manages user login, authenticates the user based on email and password, and starts a session.
+
+- **`register()`**
+  - Purpose: Handles new user registration by accepting a username, email, and password, storing them in the database.
+
+- **`logout()`**
+  - Purpose: Logs the user out by clearing the session.
+
+- **`is_logged_in()`**
+  - Purpose: Checks if the user is logged in by checking the session for `user_id`.
+
+---
+
+### **2. Game Category and Level Functions**
+These functions are responsible for managing and displaying categories and their corresponding levels.
+
+- **`main()`**
+  - Purpose: Renders the main game page displaying all available categories and their levels.
+
+- **`play(category, level)`**
+  - Purpose: Displays the selected category and level, loads corresponding questions, and handles the start of the game.
+
+- **`toggleLevels(category)` (JavaScript)**
+  - Purpose: Toggles visibility of levels when a category is clicked on the main page.
+
+- **`startGame(category, level)` (JavaScript)**
+  - Purpose: Redirects the user to the selected category and level to start the game.
+
+---
+
+### **3. Language Change Functions**
+These functions handle the switching of languages.
+
+- **`change_language(language)`**
+  - Purpose: Changes the language of the app based on the selected language, updates the session with the new language.
+
+- **`get_locale()`**
+  - Purpose: A Babel function to select the correct language for the app based on the session or default to English.
+
+---
+
+### **4. Game Play Functions**
+These functions handle the gameplay, including fetching questions and handling answers.
+
+- **`load_questions(category, level)`**
+  - Purpose: Loads the questions for the selected category and level from the JSON files.
+
+- **`submit_answer()`**
+  - Purpose: Processes the answer submitted by the player, checks if it’s correct, updates the user's points, and returns the new points.
+
+- **`update_user_points(user_id, points)`**
+  - Purpose: Updates the user’s points in the database after answering correctly or incorrectly.
+
+- **`get_question_data(question_id)`**
+  - Purpose: Fetches and returns specific data for a question when needed (used in the answer checking process).
+
+---
+
+### **5. Game Logic Functions**
+These functions handle the internal logic of progressing through the game and scoring.
+
+- **`check_answer(answer, correct_answer)`**
+  - Purpose: Compares the player's answer with the correct one and returns whether the answer is correct.
+
+- **`calculate_points(is_correct)`**
+  - Purpose: Calculates and returns points based on whether the answer was correct (5 points for correct answers, 4 points for re-attempted correct answers).
+
+- **`get_user_progress(user_id)`**
+  - Purpose: Retrieves the user’s current progress, such as their level, points, and badges.
+
+- **`level_up(user_id)`**
+  - Purpose: Checks if the user has enough points to level up and updates their status.
+
+---
+
+### **6. Helper Functions**
+These functions provide general utility to the app.
+
+- **`get_db_connection()`**
+  - Purpose: Establishes a connection to the SQLite database.
+
+- **`flash_message(message)`**
+  - Purpose: Displays a flash message to the user (for success or error notifications).
+
+- **`load_translation_file(language)`**
+  - Purpose: Loads the translation file for the specified language, used to render dynamic content in the user's language.
+
+- **`render_template_with_language(template, **kwargs)`**
+  - Purpose: Renders a template with translations applied based on the session language.
+
+- **`save_user_progress(user_id, progress)`**
+  - Purpose: Saves the user's progress, including points, badges, and level, to the database.
+
+---
+
+### **7. UI and Front-End Functions (JavaScript)**
+These are the client-side functions that enhance the user interface.
+
+- **`toggleLevels(category)` (JavaScript)**
+  - Purpose: Toggles the visibility of levels for a given category when clicked.
+
+- **`startGame(category, level)` (JavaScript)**
+  - Purpose: Redirects to the `/play/<category>/<level>` route when a level is selected.
+
+- **`update_points_display(points)` (JavaScript)**
+  - Purpose: Updates the displayed points on the game screen after a player answers a question.
+
+- **`display_popup(message)` (JavaScript)**
+  - Purpose: Shows pop-up notifications, such as when a user levels up or earns a badge.
+
+---
+
+### **8. Database Functions**
+These functions interact with the database to retrieve and store user data.
+
+- **`get_user_data(user_id)`**
+  - Purpose: Retrieves the user’s data (username, points, level, badges) from the database.
+
+- **`update_user_data(user_id, data)`**
+  - Purpose: Updates user information (points, level, badges) in the database after a game session.
+
+- **`get_user_leaderboard()`**
+  - Purpose: Retrieves the leaderboard data to display rankings based on points.
+
+---
+
+### **9. Game State Functions**
+These functions help manage the state of the game (such as level progression and badges).
+
+- **`check_level_progress(user_id, category, level)`**
+  - Purpose: Checks if the user has completed a level and if they should progress to the next one.
+
+- **`award_badge(user_id, badge_name)`**
+  - Purpose: Awards a badge to the user after completing a significant achievement, such as completing all levels in a category.
+
+---
+
+This structure organizes the functions into categories based on their purpose within the game. It ensures that the game's functionality is modular and that each function has a clear responsibility in the flow of the game.

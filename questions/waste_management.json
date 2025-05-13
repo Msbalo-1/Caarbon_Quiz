@@ -1,0 +1,257 @@
+{
+  "categories": {
+      "waste_management": {
+          "level_1": [
+              {
+                  "id": "wm-l1-q1",
+                  "question": {
+                      "en": "What is waste segregation?",
+                      "yo": "Kini iyatọ egbin?",
+                      "ig": "Gịnị bụ nkewa ihe mkpofu?",
+                      "ha": "Menene rarraba shara?"
+                  },
+                  "options": {
+                      "en": ["The process of sorting waste into categories", "The act of burning waste", "The act of recycling waste", "The disposal of waste into landfills"],
+                      "yo": ["Ilana ti dida egbin si awọn ẹka", "Iṣe ti jijo egbin", "Iṣe ti atunlo egbin", "Iṣẹ ti idasilẹ egbin si awọn ibi idalẹnu"],
+                      "ig": ["Usoro nke ịkọkọta ihe mkpofu n'ọdịiche", "Omume nke ọkụ mkpofu", "Omume nke imegharị ihe mkpofu", "Iwu nke itinye mkpofu na ebe mkpọchi"],
+                      "ha": ["Tsarin ware shara cikin rukuni", "Aikin kone shara", "Aikin sake amfani da shara", "Aikin zubar da shara a cikin ramukan shara"]
+                  },
+                  "answer": {
+                      "en": "The process of sorting waste into categories",
+                      "yo": "Ilana ti dida egbin si awọn ẹka",
+                      "ig": "Usoro nke ịkọkọta ihe mkpofu n'ọdịiche",
+                      "ha": "Tsarin ware shara cikin rukuni"
+                  },
+                  "explanation": {
+                      "en": "Waste segregation is the process of sorting waste materials into different categories such as plastic, metal, organic waste, etc.",
+                      "yo": "Iyatọ egbin jẹ ilana ti dida awọn ohun elo egbin si awọn ẹka oriṣiriṣi bii plastiki, irin, egbin ti ara, ati bẹbẹ lọ.",
+                      "ig": "Nkewa ihe mkpofu bụ usoro nke ịkọkọta ihe mkpofu n'ọdịiche dị iche iche dịka plastik, ígwè, mkpofu anụ, wdg.",
+                      "ha": "Rarraba shara hanya ce ta ware shara cikin nau'o'i daban-daban kamar filastik, ƙarfe, shara na halitta, da sauransu."
+                  }
+              },
+              {
+                  "id": "wm-l1-q2",
+                  "question": {
+                      "en": "Which of these materials is biodegradable?",
+                      "yo": "Ewo ninu awọn ohun elo wọnyi ni o le bajẹ?",
+                      "ig": "Kedu nke n'ime ihe ndị a bụ ihe na-eme ka ọkpụkpụ?",
+                      "ha": "Wanne daga cikin wadannan kayan ne zai iya rushewa?"
+                  },
+                  "options": {
+                      "en": ["Plastic", "Glass", "Paper", "Metal"],
+                      "yo": ["Plastiki", "Gilasi", "Pepa", "Irin"],
+                      "ig": ["Plastik", "Akwụkwọ", "Ákwá", "Mmetụta"],
+                      "ha": ["Filastik", "Gilashi", "Takarda", "Karfe"]
+                  },
+                  "answer": {
+                      "en": "Paper",
+                      "yo": "Pepa",
+                      "ig": "Ákwá",
+                      "ha": "Takarda"
+                  },
+                  "explanation": {
+                      "en": "Paper is biodegradable, meaning it can break down naturally through biological processes, unlike plastic or metal.",
+                      "yo": "Pepa jẹ ti o le bajẹ, ti o tumọ si pe o le fọ ara rẹ ni ọna adayeba nipasẹ awọn ilana ti awọn ẹda, ni idakeji si plastiki tabi irin.",
+                      "ig": "Akwụkwọ bụ ihe na-eme ka ọkpụkpụ, nke pụtara na ọ nwere ike ịda n'ụzọ nke ọma site na usoro bioloji, nke dị iche na plastik ma ọ bụ ígwè.",
+                      "ha": "Takarda tana iya rushewa, wanda ke nufin zai iya rushewa ta hanyar dabi'u na halitta ta hanyar ayyukan halittu, wanda ya sha bamban da filastik ko ƙarfe."
+                  }
+              },
+              {
+                  "id": "wm-l1-q3",
+                  "question": {
+                      "en": "What is the main goal of recycling?",
+                      "yo": "Kini ibi-afẹde pataki ti atunlo?",
+                      "ig": "Gịnị bụ isi ebumnuche nke imegharị?",
+                      "ha": "Menene babban manufa na sake amfani?"
+                  },
+                  "options": {
+                      "en": ["To reduce waste and conserve resources", "To create more pollution", "To burn more waste", "To make products more expensive"],
+                      "yo": ["Lati dinku egbin ati fipamọ awọn orisun", "Lati ṣẹda idoti diẹ sii", "Lati jo egbin diẹ sii", "Lati jẹ ki awọn ọja ni owo diẹ sii"],
+                      "ig": ["Iji belata mkpofu na-echekwa akụ", "Iji mepụta mmetọ ọzọ", "Iji na-emepụta ọkụ mkpofu ọzọ", "Iji mee ka ngwaahịa nwee ọnụahịa dị elu"],
+                      "ha": ["Don rage shara da kuma adana albarkatu", "Don ƙara gurbatarwa", "Don kone ƙarin shara", "Don sanya kayayyaki su fi tsada"]
+                  },
+                  "answer": {
+                      "en": "To reduce waste and conserve resources",
+                      "yo": "Lati dinku egbin ati fipamọ awọn orisun",
+                      "ig": "Iji belata mkpofu na-echekwa akụ",
+                      "ha": "Don rage shara da kuma adana albarkatu"
+                  },
+                  "explanation": {
+                      "en": "Recycling helps reduce the amount of waste by reusing materials and conserving natural resources like water and minerals.",
+                      "yo": "Atunlo ṣe iranlọwọ lati dinku iye egbin nipa tun-lo awọn ohun elo ati fipamọ awọn orisun adayeba bi omi ati awọn ohun alumọni.",
+                      "ig": "Imegharị na-enyere aka belata ụkpụrụ mkpofu site na iji akụrụngwa na-echekwa akụ na akụ ndị ọzọ dịka mmiri na ndị na-emepụta mineral.",
+                      "ha": "Sake amfani na taimaka rage adadin shara ta hanyar sake amfani da kayan aiki da kuma adana albarkatun halitta kamar ruwa da ma'adinai."
+                  }
+              }
+          ],
+          "level_2": [
+              {
+                  "id": "wm-l2-q1",
+                  "question": {
+                      "en": "What is composting?",
+                      "yo": "Kini atunlo egbin ti o jẹ unjẹ fun awọn irugbin?",
+                      "ig": "Gịnị bụ ịkụziri ihe mkpofu?",
+                      "ha": "Menene shara ta da za a iya amfani da shi wajen noman gona?"
+                  },
+                  "options": {
+                      "en": ["Turning organic waste into fertilizer", "Burning plastic waste", "Dumping waste in the ocean", "Freezing organic waste"],
+                      "yo": ["Yipada egbin ti ara si oje ile-ogbin", "Jijo egbin plastiki", "Dasilẹ egbin sinu okun", "Tutu egbin ti ara"],
+                      "ig": ["Ịgbanwe mkpofu anụ na ntụziaka", "Na-ekpo ọkụ plastik", "Na-edepụta mkpofu n'osimiri", "Na-ama mkpofu anụ"],
+                      "ha": ["Juya shara na kayan taki", "Kone shara filastik", "Zubar da shara a cikin teku", "Daskare shara na halitta"]
+                  },
+                  "answer": {
+                      "en": "Turning organic waste into fertilizer",
+                      "yo": "Yipada egbin ti ara si oje ile-ogbin",
+                      "ig": "Ịgbanwe mkpofu anụ na ntụziaka",
+                      "ha": "Juya shara na kayan taki"
+                  },
+                  "explanation": {
+                      "en": "Composting is the process of turning organic waste like food scraps and yard waste into nutrient-rich fertilizer for plants.",
+                      "yo": "Atunlo egbin ti o jẹ unjẹ fun awọn irugbin jẹ ilana ti yiyipada egbin ti ara gẹgẹ bi awọn idoti ounje ati egbin ọgba si oje ile-ogbin to ni awọn eroja-ounje.",
+                      "ig": "Ịkụziri mkpofu anụ bụ usoro nke ịgbanwe mkpofu anụ dịka nri fọdụrụ na mkpofu ubi na ntụziaka bara ụba nke nwere nri maka osisi.",
+                      "ha": "Shara ta da za a iya amfani da shi wajen noman gona yana nufin juya shara na halitta kamar sauran abinci da shara na gona zuwa kayan taki mai dauke da sinadaran gina jiki."
+                  }
+              },
+              {
+                  "id": "wm-l2-q2",
+                  "question": {
+                      "en": "What is the main environmental benefit of recycling?",
+                      "yo": "Kini anfani pataki ti atunlo lori ayika?",
+                      "ig": "Gịnị bụ uru nke reciclị nke nchekwa gburugburu ebe obibi?",
+                      "ha": "Menene babban amfanin sake amfani ga muhalli?"
+                  },
+                  "options": {
+                      "en": ["It reduces pollution", "It increases waste", "It increases resource consumption", "It causes global warming"],
+                      "yo": ["O dinku idoti", "O pọ si egbin", "O pọ si lilo awọn orisun", "O fa igbona agbaye"],
+                      "ig": ["Ọ na-eme ka mmetọ belata", "Ọ na-eme ka mkpofu na-abawanye", "Ọ na-eme ka ojiji akụ na-abawanye", "Ọ na-eme ka okpomọkụ ụwa na-arị elu"],
+                      "ha": ["Yana rage gurbatarwa", "Yana ƙara yawan shara", "Yana ƙara amfani da albarkatu", "Yana haifar da dumamar duniya"]
+                  },
+                  "answer": {
+                      "en": "It reduces pollution",
+                      "yo": "O dinku idoti",
+                      "ig": "Ọ na-eme ka mmetọ belata",
+                      "ha": "Yana rage gurbatarwa"
+                  },
+                  "explanation": {
+                      "en": "Recycling helps reduce pollution by reusing materials instead of throwing them away, which cuts down on waste that would otherwise end up in landfills or the ocean.",
+                      "yo": "Atunlo ṣe iranlọwọ lati dinku idoti nipa tun-lo awọn ohun elo dipo ki o jẹ ki wọn parẹ, eyiti o dinku egbin ti yoo pari ni awọn ibi idalẹnu tabi okun.",
+                      "ig": "Imegharị na-enyere aka belata mmetọ site na iji akụrụngwa ọzọ kama ịhapụ ha, nke na-ebelata mkpofu nke ga-esite na ebe mkpọchi ma ọ bụ osimiri.",
+                      "ha": "Sake amfani yana taimakawa rage gurbatarwa ta hanyar sake amfani da kayan aiki maimakon zubar da su, wanda ke rage yawan shara da zai tafi cikin ramukan shara ko cikin teku."
+                  }
+              },
+              {
+                  "id": "wm-l2-q3",
+                  "question": {
+                      "en": "What does the term 'zero waste' refer to?",
+                      "yo": "Kini itumọ ọrọ 'aibikita egbin'?",
+                      "ig": "Gịnị bụ nkọwa nke okwu 'zero waste'?",
+                      "ha": "Menene ma'anar kalmar 'zero waste'?"
+                  },
+                  "options": {
+                      "en": ["Not producing any waste at all", "Producing less waste than before", "Using only biodegradable materials", "Recycling all waste materials"],
+                      "yo": ["Ko ṣe iṣelọpọ eyikeyi egbin rara", "Ṣiṣẹda egbin diẹ sii ju ti tẹlẹ lọ", "Lilo awọn ohun elo ti o bajẹ nikan", "Atunlo gbogbo awọn ohun elo egbin"],
+                      "ig": ["Ịmepụta mkpofu ọ bụla", "Ịmepụta mkpofu nke pere mpe karịa gara aga", "Iji naanị ihe ndị na-eme ka ọkpụkpụ", "Imegharị ihe niile mkpofu"],
+                      "ha": ["Kada a samar da shara kwata-kwata", "Samar da shara ƙasa da yadda aka saba", "Amfani da kayan aiki na halitta kawai", "Sake amfani da dukkan kayan shara"]
+                  },
+                  "answer": {
+                      "en": "Not producing any waste at all",
+                      "yo": "Ko ṣe iṣelọpọ eyikeyi egbin rara",
+                      "ig": "Ịmepụta mkpofu ọ bụla",
+                      "ha": "Kada a samar da shara kwata-kwata"
+                  },
+                  "explanation": {
+                      "en": "'Zero waste' refers to a lifestyle or practice where no waste is produced, aiming to reduce consumption and recycle all materials.",
+                      "yo": "'Aibikita egbin' n tọka si aṣa tabi iṣẹ ti ko ṣe iṣelọpọ egbin rara, pẹlu ibi-afẹde lati dinku lilo ati atunlo gbogbo awọn ohun elo.",
+                      "ig": "'Zero waste' pụtara ndụmọdụ ma ọ bụ omume ebe a naghị emepụta mkpofu ọ bụla, na-eburu ụzọ belata ihe na-eji ma meegharị ihe niile.",
+                      "ha": "'Zero waste' yana nufin rayuwa ko da samar da shara kwata-kwata, yana nufin rage amfani da kaya da sake amfani da duk kayan shara."
+                  }
+              }
+          ],
+          "level_3": [
+              {
+                  "id": "wm-l3-q1",
+                  "question": {
+                      "en": "What is the environmental impact of plastic waste?",
+                      "yo": "Kini ipa ayika ti egbin plastiki?",
+                      "ig": "Gịnị bụ mmetụta nke mkpofu plastik na gburugburu ebe obibi?",
+                      "ha": "Menene tasirin shara na filastik ga muhalli?"
+                  },
+                  "options": {
+                      "en": ["It takes hundreds of years to decompose", "It helps fertilize soil", "It is easily biodegradable", "It promotes plant growth"],
+                      "yo": ["O gba ọgọrọ awọn ọdun lati yọ", "O ṣe iranlọwọ lati pese ilẹ-ogbin", "O rọrun lati ba jẹ", "O mu idagbasoke irugbin"],
+                      "ig": ["Ọ na-ewe ọtụtụ afọ iji wepụta", "Ọ na-enyere aka iji kwalite ala", "Ọ dị mfe ka ọkpụkpụ", "Ọ na-eme ka osisi too"],
+                      "ha": ["Yana daukar shekaru dubu don zubar da shi", "Yana taimakawa wajen inganta ƙasa", "Yana da sauƙin lalacewa", "Yana taimakawa wajen girma shuka"]
+                  },
+                  "answer": {
+                      "en": "It takes hundreds of years to decompose",
+                      "yo": "O gba ọgọrọ awọn ọdun lati yọ",
+                      "ig": "Ọ na-ewe ọtụtụ afọ iji wepụta",
+                      "ha": "Yana daukar shekaru dubu don zubar da shi"
+                  },
+                  "explanation": {
+                      "en": "Plastic waste takes hundreds of years to break down, leading to long-term environmental pollution and harm to wildlife.",
+                      "yo": "Egbin plastiki gba ọgọrọ ọdun lati parẹ, eyi ti o ja si idoti ayika igba pipẹ ati iparun si ẹranko ati ewé.",
+                      "ig": "Mkpofu plastik na-ewe ọtụtụ afọ iji kpọrọ ya, nke na-eduga na mmetọ gburugburu ebe obibi nke na-adịru ogologo oge na ihe ize ndụ na anụ ọhịa.",
+                      "ha": "Shara na filastik yana daukar shekaru dubu don rushewa, wanda hakan yana haifar da gurbatar muhalli na dogon lokaci da kuma cutar da dabbobi."
+                  }
+              },
+              {
+                  "id": "wm-l3-q2",
+                  "question": {
+                      "en": "How does waste segregation benefit waste management?",
+                      "yo": "Bawo ni pipin egbin ṣe jẹ anfani fun iṣakoso egbin?",
+                      "ig": "Kedu ka ịkewa mkpofu si enyere njikwa mkpofu?",
+                      "ha": "Ta yaya rarraba shara ke taimakawa wajen gudanar da shara?"
+                  },
+                  "options": {
+                      "en": ["It allows for recycling and proper disposal of different types of waste", "It increases the amount of waste", "It decreases the recycling rate", "It has no effect on waste management"],
+                      "yo": ["O jẹ ki atunlo ati itusilẹ to tọ ti awọn oriṣiriṣi egbin", "O pọ si iye egbin", "O dinku oṣuwọn atunlo", "Ko ni ipa lori iṣakoso egbin"],
+                      "ig": ["Ọ na-enye ohere maka imegharị na nkwupụta nke ụdị mkpofu dị iche iche", "Ọ na-eme ka ọnụ ọgụgụ mkpofu nwee ike", "Ọ na-eme ka ụkpụrụ nke imegharị belata", "Ọ nweghị mmetụta na njikwa mkpofu"],
+                      "ha": ["Yana ba da damar sake amfani da kuma fitar da shara daban-daban cikin inganci", "Yana ƙara adadin shara", "Yana rage yawan sake amfani", "Bai yi tasiri a kan gudanar da shara ba"]
+                  },
+                  "answer": {
+                      "en": "It allows for recycling and proper disposal of different types of waste",
+                      "yo": "O jẹ ki atunlo ati itusilẹ to tọ ti awọn oriṣiriṣi egbin",
+                      "ig": "Ọ na-enye ohere maka imegharị na nkwupụta nke ụdị mkpofu dị iche iche",
+                      "ha": "Yana ba da damar sake amfani da kuma fitar da shara daban-daban cikin inganci"
+                  },
+                  "explanation": {
+                      "en": "Waste segregation helps to sort and separate different types of waste, making it easier to recycle and dispose of properly, reducing pollution.",
+                      "yo": "Pipin egbin ṣe iranlọwọ lati ya ati pin awọn egbin oriṣiriṣi, ṣiṣe atunlo ati itusilẹ wọn ni ọna to tọ, eyi ti o dinku idoti.",
+                      "ig": "Ịkewa mkpofu na-enyere aka iji nwee usoro nke ịkewa ụdị mkpofu dị iche iche, nke na-eme ka ọ dị mfe imegharị na itinye ya n'ọrụ nke ọma, na-ebelata mmetọ.",
+                      "ha": "Rarraba shara yana taimakawa wajen rarrabe shara daga juna, wanda ke sauƙaƙe sake amfani da su da kuma zubar da su yadda ya kamata, yana rage gurbatarwa."
+                  }
+              },
+              {
+                  "id": "wm-l3-q3",
+                  "question": {
+                      "en": "What is the effect of improper waste disposal on public health?",
+                      "yo": "Kini ipa ti itusilẹ egbin ti ko tọ lori ilera gbogbogbo?",
+                      "ig": "Kedu ihe bụ mmetụta nke itinye mkpofu na-enweghị isi na ahụike ọha?",
+                      "ha": "Menene tasirin rashin zubar da shara yadda ya kamata ga lafiyar jama'a?"
+                  },
+                  "options": {
+                      "en": ["It can lead to the spread of diseases", "It improves air quality", "It encourages healthy living", "It has no effect on public health"],
+                      "yo": ["O le ja si itankalẹ awọn arun", "O mu didara afẹfẹ pọ si", "O nmu ilera ti ara dara", "Ko ni ipa lori ilera gbogbogbo"],
+                      "ig": ["Ọ nwere ike ime ka ọrịa gbasaa", "Ọ na-eme ka mma ikuku", "Ọ na-akwado ndụ dị mma", "Ọ nweghị mmetụta na ahụike ọha"],
+                      "ha": ["Zai iya haifar da yaduwar cututtuka", "Zai inganta ingancin iska", "Zai karfafa rayuwa mai kyau", "Bai yi tasiri ga lafiyar jama'a ba"]
+                  },
+                  "answer": {
+                      "en": "It can lead to the spread of diseases",
+                      "yo": "O le ja si itankalẹ awọn arun",
+                      "ig": "Ọ nwere ike ime ka ọrịa gbasaa",
+                      "ha": "Zai iya haifar da yaduwar cututtuka"
+                  },
+                  "explanation": {
+                      "en": "Improper waste disposal, especially in open areas, can attract pests and lead to the spread of diseases such as malaria, cholera, and typhoid.",
+                      "yo": "Itusilẹ egbin ti ko tọ, paapaa ni awọn agbegbe ṣiṣi, le fa awọn kokoro ati ja si itankalẹ awọn arun bi malaria, cholera, ati typhoid.",
+                      "ig": "Ịtụpụ mkpofu na-enweghị isi, karịsịa n'ogige emeghe, nwere ike ịkpọpụta pests ma na-ebute ọrịa dịka malaria, cholera, na typhoid.",
+                      "ha": "Rashin zubar da shara yadda ya kamata, musamman a wuraren buɗe, na iya jawo kwari da kuma haifar da yaduwar cututtuka kamar su malaria, cholera, da typhoid."
+                  }
+              }
+          ]
+
+
+      }
+  }
+}

@@ -1,0 +1,1028 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Kedu ihe 'carbon footprint' na-atụgharị?"
+msgstr "Ọnụ ọgụgụ carbon dioxide na-atụpụta"
+
+msgid "Ọnụ ọgụgụ oxygen na-emepụta"
+msgstr "Ọnụ ọgụgụ oxygen na-emepụta"
+
+msgid "Ọnụ ọgụgụ carbon dioxide na-atụpụta"
+msgstr "Ọnụ ọgụgụ carbon dioxide na-atụpụta"
+
+msgid "Ọkwa okpomọkụ ụwa"
+msgstr "Ọkwa okpomọkụ ụwa"
+
+msgid "Ọnụ ọgụgụ osisi n'ụwa"
+msgstr "Ọnụ ọgụgụ osisi n'ụwa"
+
+msgid ""
+"Carbon footprint na-atụgharị na ọnụ ọgụgụ nke carbon dioxide mmadụ ma ọ bụ "
+"ihe omume na-eme."
+msgstr ""
+"Carbon footprint na-atụgharị na ọnụ ọgụgụ nke carbon dioxide mmadụ ma ọ bụ "
+"ihe omume na-eme."
+
+msgid "Kedu ihe n’ime ndị a na-emetụta carbon emissions n’ezinụlọ Naijiria?"
+msgstr "Ịkụ ọkụ osisi"
+
+msgid "Ịkụ ọkụ osisi"
+msgstr "Ịkụ ọkụ osisi"
+
+msgid "Ike anyanwụ"
+msgstr "Ike anyanwụ"
+
+msgid "Ike ifufe"
+msgstr "Ike ifufe"
+
+msgid "Ike mmiri"
+msgstr "Ike mmiri"
+
+msgid ""
+"Ịkụ ọkụ osisi bụ omume a na-ahụkarị na Naijiria na-ebute ikuku CO2 nke "
+"ukwuu."
+msgstr ""
+"Ịkụ ọkụ osisi bụ omume a na-ahụkarị na Naijiria na-ebute ikuku CO2 nke "
+"ukwuu."
+
+msgid "Olee otú ịkụ osisi nwere ike ibelata carbon emissions?"
+msgstr "Osisi na-ewepụ CO2"
+
+msgid "Osisi na-ewepụ CO2"
+msgstr "Osisi na-ewepụ CO2"
+
+msgid "Osisi na-emepụta CO2"
+msgstr "Osisi na-emepụta CO2"
+
+msgid "Osisi na-ebuli ọkụ ụwa"
+msgstr "Osisi na-ebuli ọkụ ụwa"
+
+msgid "Osisi na-emepụta oxygen naanị"
+msgstr "Osisi na-emepụta oxygen naanị"
+
+msgid ""
+"Osisi na-enyere aka belata carbon emissions site n’ịmị CO2 na ịtụpụ oxygen."
+msgstr ""
+"Osisi na-enyere aka belata carbon emissions site n’ịmị CO2 na ịtụpụ oxygen."
+
+msgid "Kedu otu isi mmalite nke carbon emissions na obodo Nigeria?"
+msgstr "Jeniretọ"
+
+msgid "Jeniretọ"
+msgstr "Jeniretọ"
+
+msgid "Ụgbọ mmiri anyanwụ"
+msgstr "Ụgbọ mmiri anyanwụ"
+
+msgid "Ụgbọ njem ọha"
+msgstr "Ụgbọ njem ọha"
+
+msgid "Ịkụ osisi"
+msgstr "Ịkụ osisi"
+
+msgid ""
+"Jeniretọ ndị a na-eji maka enweghị ọkụ na-akpọpụta nnukwu CO2 na obodo dị na"
+" Nigeria."
+msgstr ""
+"Jeniretọ ndị a na-eji maka enweghị ọkụ na-akpọpụta nnukwu CO2 na obodo dị na"
+" Nigeria."
+
+msgid ""
+"Kedu ihe mere ọkụkọ mkpofu ji bụrụ nsogbu maka carbon emissions na Nigeria?"
+msgstr "Ọ na-atụpụ CO2"
+
+msgid "Ọ na-atụpụ CO2"
+msgstr "Ọ na-atụpụ CO2"
+
+msgid "Ọ na-eme ka ikuku dị ọcha"
+msgstr "Ọ na-eme ka ikuku dị ọcha"
+
+msgid "Ọ na-echekwa ume"
+msgstr "Ọ na-echekwa ume"
+
+msgid "Ọ na-ebelata mkpofu ala"
+msgstr "Ọ na-ebelata mkpofu ala"
+
+msgid ""
+"Ịkụ ọkụ mkpofu na-atụpụ ikuku ndị na-egbu egbu, tinyere CO2, nke na-eduga na"
+" mmetọ gburugburu ebe obibi."
+msgstr ""
+"Ịkụ ọkụ mkpofu na-atụpụ ikuku ndị na-egbu egbu, tinyere CO2, nke na-eduga na"
+" mmetọ gburugburu ebe obibi."
+
+msgid ""
+"Kedu ihe mmetụta gburugburu ebe obibi nke gas flaring na ụlọ ọrụ mmanụ "
+"Nigeria?"
+msgstr "Ọ na-atụpụ ikuku ụlọ ọkụ"
+
+msgid "Ọ na-atụpụ ikuku ụlọ ọkụ"
+msgstr "Ọ na-atụpụ ikuku ụlọ ọkụ"
+
+msgid "Ọ na-eme ka ala dị mma"
+msgstr "Ọ na-eme ka ala dị mma"
+
+msgid "Ọ na-ebelata mmetọ ikuku"
+msgstr "Ọ na-ebelata mmetọ ikuku"
+
+msgid "Ọ na-eme ka ebe obibi anụ ọhịa dị mma"
+msgstr "Ọ na-eme ka ebe obibi anụ ọhịa dị mma"
+
+msgid ""
+"Ịtụpụ gas na ụlọ ọrụ mmanụ Nigeria na-akpọpụta nnukwu ikuku ụlọ ọkụ nke na-"
+"emetụta mgbanwe ihu igwe."
+msgstr ""
+"Ịtụpụ gas na ụlọ ọrụ mmanụ Nigeria na-akpọpụta nnukwu ikuku ụlọ ọkụ nke na-"
+"emetụta mgbanwe ihu igwe."
+
+msgid ""
+"Kedu omume ugbo na Nigeria nke na-enyere aka na nnukwu carbon emissions?"
+msgstr "Ọrụ ọkụ ala"
+
+msgid "Ọrụ ọkụ ala"
+msgstr "Ọrụ ọkụ ala"
+
+msgid "Ọgbanọta mkpụrụ"
+msgstr "Ọgbanọta mkpụrụ"
+
+msgid "Irrigation mmiri dị obere"
+msgstr "Irrigation mmiri dị obere"
+
+msgid "Ọrụ ugbo na-akọwapụtara"
+msgstr "Ọrụ ugbo na-akọwapụtara"
+
+msgid ""
+"Ọrụ ọkụ ala na-atụpụ CO2 na ikuku ndị ọzọ na-egbu egbu site na ọkụ osisi."
+msgstr ""
+"Ọrụ ọkụ ala na-atụpụ CO2 na ikuku ndị ọzọ na-egbu egbu site na ọkụ osisi."
+
+msgid "Kedu ka ibelata ọhịa si enye aka na oke carbon na Nigeria?"
+msgstr "Ọ na-ebelata osisi na-etinye CO2"
+
+msgid "Ọ na-ebelata osisi na-etinye CO2"
+msgstr "Ọ na-ebelata osisi na-etinye CO2"
+
+msgid "Ọ na-abawanye ume nke nwere ike ịzọpụta"
+msgstr "Ọ na-abawanye ume nke nwere ike ịzọpụta"
+
+msgid "Ọ na-eme ka ala dị mma"
+msgstr "Ọ na-eme ka ala dị mma"
+
+msgid "Ọ na-akwalite ụdịdị ihe dị ndụ"
+msgstr "Ọ na-akwalite ụdịdị ihe dị ndụ"
+
+msgid ""
+"Ibelata ọhịa na-eme ka ọnụ ọgụgụ osisi na-etinye CO2 dị obere, nke na-eme ka"
+" carbon dị n'ikuku bawanye."
+msgstr ""
+"Ibelata ọhịa na-eme ka ọnụ ọgụgụ osisi na-etinye CO2 dị obere, nke na-eme ka"
+" carbon dị n'ikuku bawanye."
+
+msgid ""
+"Kedu ihe mere ọkụ eletrik sitere na gas ji nwee nnukwu carbon karịa ọkụ "
+"anyanwụ na Nigeria?"
+msgstr "Ọkụ sitere na gas na-atụpụ nnukwu ikuku ụlọ ọkụ"
+
+msgid "Ọkụ sitere na gas na-atụpụ nnukwu ikuku ụlọ ọkụ"
+msgstr "Ọkụ sitere na gas na-atụpụ nnukwu ikuku ụlọ ọkụ"
+
+msgid "Ọkụ anyanwụ chọrọ nnukwu ala"
+msgstr "Ọkụ anyanwụ chọrọ nnukwu ala"
+
+msgid "Ọkụ sitere na gas nwere ume pụrụ iche"
+msgstr "Ọkụ sitere na gas nwere ume pụrụ iche"
+
+msgid "Ọkụ anyanwụ na-ebute obere ume"
+msgstr "Ọkụ anyanwụ na-ebute obere ume"
+
+msgid ""
+"Ọkụ eletrik sitere na gas na-eme ka ikuku ụlọ ọkụ buru ibu, ebe ọkụ anyanwụ "
+"dị ọcha na nke nwere ike ịzọpụta."
+msgstr ""
+"Ọkụ eletrik sitere na gas na-eme ka ikuku ụlọ ọkụ buru ibu, ebe ọkụ anyanwụ "
+"dị ọcha na nke nwere ike ịzọpụta."
+
+msgid "Kedu n’ime ụzọ njem ndị a na-amụpụta carbon nke kacha nta na Naijiria?"
+msgstr "Ịga ije"
+
+msgid "Ịga ije"
+msgstr "Ịga ije"
+
+msgid "Nkeji ụgbọ ala"
+msgstr "Nkeji ụgbọ ala"
+
+msgid "Ụgbọala Keke Napep"
+msgstr "Ụgbọala Keke Napep"
+
+msgid "Ụgbọ bọsị"
+msgstr "Ụgbọ bọsị"
+
+msgid ""
+"Ịga ije anaghị emepụta carbon, nke na-eme ka ọ bụrụ ụzọ njem kachasị mma "
+"n'ebe nchekwa gburugburu."
+msgstr ""
+"Ịga ije anaghị emepụta carbon, nke na-eme ka ọ bụrụ ụzọ njem kachasị mma "
+"n'ebe nchekwa gburugburu."
+
+msgid ""
+"Kedu uru dị mkpa nke iji ụgbọ ala ọha n’ime ụgbọ ala nkeonwe na Naijiria?"
+msgstr "Na-ebelata mgbago okporo ụzọ"
+
+msgid "Na-ebelata mgbago okporo ụzọ"
+msgstr "Na-ebelata mgbago okporo ụzọ"
+
+msgid "Na-emepụta carbon karịa"
+msgstr "Na-emepụta carbon karịa"
+
+msgid "Na-efu ọnụ dị elu maka mmadụ ọ bụla"
+msgstr "Na-efu ọnụ dị elu maka mmadụ ọ bụla"
+
+msgid "Na-achọkwa mmanụ ọkụ karịa"
+msgstr "Na-achọkwa mmanụ ọkụ karịa"
+
+msgid ""
+"Ụgbọ bọsị ọha na-ebuga ọtụtụ ndị njem otu oge, na-ebelata nọmba ụgbọ ala na "
+"ụzọ okporo ụzọ."
+msgstr ""
+"Ụgbọ bọsị ọha na-ebuga ọtụtụ ndị njem otu oge, na-ebelata nọmba ụgbọ ala na "
+"ụzọ okporo ụzọ."
+
+msgid ""
+"Kedu iwu gọọmentị nwere ike belata mmepụta carbon site n'ụzọ njem nke ukwuu "
+"na Naijiria?"
+msgstr "Ịkwado ụgbọ ala eletrik"
+
+msgid "Ịkwado ụgbọ ala eletrik"
+msgstr "Ịkwado ụgbọ ala eletrik"
+
+msgid "Ibelata ụgwọ mmanụ ọkụ"
+msgstr "Ibelata ụgwọ mmanụ ọkụ"
+
+msgid "Ịkwalite ire nke generator"
+msgstr "Ịkwalite ire nke generator"
+
+msgid "Ịkwalite ịzụ ụgbọ ala nkeonwe"
+msgstr "Ịkwalite ịzụ ụgbọ ala nkeonwe"
+
+msgid ""
+"Ụgbọ ala eletrik anaghị emepụta ikuku ọkụ ma ọ bụ gas ọkụ ọ bụla, nke nwere "
+"ike belata carbon footprint nke ụzọ njem na Naijiria."
+msgstr ""
+"Ụgbọ ala eletrik anaghị emepụta ikuku ọkụ ma ọ bụ gas ọkụ ọ bụla, nke nwere "
+"ike belata carbon footprint nke ụzọ njem na Naijiria."
+
+msgid "Gịnị bụ isi kpatara mmetọ ikuku sitere na njem na Naijiria?"
+msgstr "Itujade carbon site n'ụgbọ ala"
+
+msgid "Ngwunye ikuku si-esi na ụgbọ bọsị"
+msgstr "Ngwunye ikuku si-esi na ụgbọ bọsị"
+
+msgid "Anwụ na-ekpo ọkụ si site na ire ihe ọjọọ"
+msgstr "Anwụ na-ekpo ọkụ si site na ire ihe ọjọọ"
+
+msgid "Itujade carbon site n'ụgbọ ala"
+msgstr "Itujade carbon site n'ụgbọ ala"
+
+msgid "Nsụgharị nke okporo ụzọ dị jụụ na-enweghị ndozi"
+msgstr "Nsụgharị nke okporo ụzọ dị jụụ na-enweghị ndozi"
+
+msgid ""
+"Ụgbọ ala bụ isi iyi nke itujade carbon, nke na-eme ka mmetọ ikuku dị na "
+"Naijiria dị ukwuu."
+msgstr ""
+"Ụgbọ ala bụ isi iyi nke itujade carbon, nke na-eme ka mmetọ ikuku dị na "
+"Naijiria dị ukwuu."
+
+msgid ""
+"Kedu obodo Naijiria nke nyere iwu iji bọsị gas a na-agbasa (CNG) belata "
+"itujade?"
+msgstr "Lagos"
+
+msgid "Abuja"
+msgstr "Abuja"
+
+msgid "Lagos"
+msgstr "Lagos"
+
+msgid "Port Harcourt"
+msgstr "Port Harcourt"
+
+msgid "Kano"
+msgstr "Kano"
+
+msgid ""
+"Lagos nyere iwu iji bọsị CNG belata mmeghachi omume ọjọọ nke ụgbọ njem ọha."
+msgstr ""
+"Lagos nyere iwu iji bọsị CNG belata mmeghachi omume ọjọọ nke ụgbọ njem ọha."
+
+msgid ""
+"Kedu ka ịkekọrịta ụgbọala nwere ike nyere belata itujade carbon nke metụtara"
+" njem na Naijiria?"
+msgstr "Ọ na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ"
+
+msgid "Ọ na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ"
+msgstr "Ọ na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ"
+
+msgid "Ọ na-agbakwunye mmanụ ọkụ"
+msgstr "Ọ na-agbakwunye mmanụ ọkụ"
+
+msgid "Ọ na-eme ka mmetọ ikuku dịkwuo elu"
+msgstr "Ọ na-eme ka mmetọ ikuku dịkwuo elu"
+
+msgid "Ọ na-agbakwụnye itinye ụgbọ ala nkeonwe"
+msgstr "Ọ na-agbakwụnye itinye ụgbọ ala nkeonwe"
+
+msgid ""
+"Ịkekọrịta ụgbọala na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ, nke na-enyere aka "
+"belata mgbago okporo ụzọ na itujade carbon."
+msgstr ""
+"Ịkekọrịta ụgbọala na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ, nke na-enyere aka "
+"belata mgbago okporo ụzọ na itujade carbon."
+
+msgid ""
+"Gịnị bụ mmetụta gburugburu ebe obibi nke iji ụgbọ ala nwere ike ike mmịpụta "
+"ọkụ na obodo Naijiria?"
+msgstr "Na-eme ka itujade gas greenhouse dịkwuo elu"
+
+msgid "Na-eme ka itujade gas greenhouse dịkwuo elu"
+msgstr "Na-eme ka itujade gas greenhouse dịkwuo elu"
+
+msgid "Na-eme ka osisi obodo bụrụ nke ọma"
+msgstr "Na-eme ka osisi obodo bụrụ nke ọma"
+
+msgid "Na-ebelata mmetọ mmiri"
+msgstr "Na-ebelata mmetọ mmiri"
+
+msgid "Na-eme ka mmanụ mmiri dịkwuo elu"
+msgstr "Na-eme ka mmanụ mmiri dịkwuo elu"
+
+msgid ""
+"Ụgbọ ala nke nwere ike ọkụ na-emepụta gas greenhouse dịka carbon dioxide, "
+"nke na-eme ka ụwa na-ekpo ọkụ ma na-emebi gburugburu ebe obibi."
+msgstr ""
+"Ụgbọ ala nke nwere ike ọkụ na-emepụta gas greenhouse dịka carbon dioxide, "
+"nke na-eme ka ụwa na-ekpo ọkụ ma na-emebi gburugburu ebe obibi."
+
+msgid ""
+"Kedu ka ụgbọ ala eletrik (EVs) nwere ike nyere belata itujade carbon nke "
+"metụtara njem na Naijiria?"
+msgstr "Ha na-eji oru ike na-emegharịgharị"
+
+msgid "Ha na-eji oru ike na-emegharịgharị"
+msgstr "Ha na-eji oru ike na-emegharịgharị"
+
+msgid "Ha na-eme ka mmanụ ọkụ dịkwuo elu"
+msgstr "Ha na-eme ka mmanụ ọkụ dịkwuo elu"
+
+msgid "Ha na-achọ nhazi nke ukwuu"
+msgstr "Ha na-achọ nhazi nke ukwuu"
+
+msgid "Ha na-eme ka mgbagwoju ụgbọ ala dịkwuo elu"
+msgstr "Ha na-eme ka mgbagwoju ụgbọ ala dịkwuo elu"
+
+msgid ""
+"Ụgbọ ala eletrik (EVs) anaghị emepụta gas, ma ọ bụ na-emepụta obere, mgbe "
+"eji ike sitere na oru ike na-emegharịgharị, na-enyere aka belata itujade "
+"carbon na njem."
+msgstr ""
+"Ụgbọ ala eletrik (EVs) anaghị emepụta gas, ma ọ bụ na-emepụta obere, mgbe "
+"eji ike sitere na oru ike na-emegharịgharị, na-enyere aka belata itujade "
+"carbon na njem."
+
+msgid ""
+"Kedu iwu nke njem Naijiria nwere ike iweta iji belata ụkpụrụ carbon ha n'ime"
+" ngalaba njem?"
+msgstr "Kwadoro njem ọha"
+
+msgid "Kwadoro njem ọha"
+msgstr "Kwadoro njem ọha"
+
+msgid "Gbatịa ụtụ isi na ụgbọ ala nkeonwe"
+msgstr "Gbatịa ụtụ isi na ụgbọ ala nkeonwe"
+
+msgid "Wulite ọtụtụ ụzọ ụgbọala"
+msgstr "Wulite ọtụtụ ụzọ ụgbọala"
+
+msgid "Gbalịsie ike iji okpukpu moto"
+msgstr "Gbalịsie ike iji okpukpu moto"
+
+msgid ""
+"Site na-akwado njem ọha, Naijiria nwere ike ịkwado ndị mmadụ iji bọsị na "
+"ụgbọ oloko kama ịnyịnya ụgbọ ala nkeonwe, belata itujade carbon."
+msgstr ""
+"Site na-akwado njem ọha, Naijiria nwere ike ịkwado ndị mmadụ iji bọsị na "
+"ụgbọ oloko kama ịnyịnya ụgbọ ala nkeonwe, belata itujade carbon."
+
+msgid "Gịnị bụ nkewa ihe mkpofu?"
+msgstr "Usoro nke ịkọkọta ihe mkpofu n'ọdịiche"
+
+msgid "Usoro nke ịkọkọta ihe mkpofu n'ọdịiche"
+msgstr "Usoro nke ịkọkọta ihe mkpofu n'ọdịiche"
+
+msgid "Omume nke ọkụ mkpofu"
+msgstr "Omume nke ọkụ mkpofu"
+
+msgid "Omume nke imegharị ihe mkpofu"
+msgstr "Omume nke imegharị ihe mkpofu"
+
+msgid "Iwu nke itinye mkpofu na ebe mkpọchi"
+msgstr "Iwu nke itinye mkpofu na ebe mkpọchi"
+
+msgid ""
+"Nkewa ihe mkpofu bụ usoro nke ịkọkọta ihe mkpofu n'ọdịiche dị iche iche dịka"
+" plastik, ígwè, mkpofu anụ, wdg."
+msgstr ""
+"Nkewa ihe mkpofu bụ usoro nke ịkọkọta ihe mkpofu n'ọdịiche dị iche iche dịka"
+" plastik, ígwè, mkpofu anụ, wdg."
+
+msgid "Kedu nke n'ime ihe ndị a bụ ihe na-eme ka ọkpụkpụ?"
+msgstr "Ákwá"
+
+msgid "Plastik"
+msgstr "Plastik"
+
+msgid "Akwụkwọ"
+msgstr "Akwụkwọ"
+
+msgid "Ákwá"
+msgstr "Ákwá"
+
+msgid "Mmetụta"
+msgstr "Mmetụta"
+
+msgid ""
+"Akwụkwọ bụ ihe na-eme ka ọkpụkpụ, nke pụtara na ọ nwere ike ịda n'ụzọ nke "
+"ọma site na usoro bioloji, nke dị iche na plastik ma ọ bụ ígwè."
+msgstr ""
+"Akwụkwọ bụ ihe na-eme ka ọkpụkpụ, nke pụtara na ọ nwere ike ịda n'ụzọ nke "
+"ọma site na usoro bioloji, nke dị iche na plastik ma ọ bụ ígwè."
+
+msgid "Gịnị bụ isi ebumnuche nke imegharị?"
+msgstr "Iji belata mkpofu na-echekwa akụ"
+
+msgid "Iji belata mkpofu na-echekwa akụ"
+msgstr "Iji belata mkpofu na-echekwa akụ"
+
+msgid "Iji mepụta mmetọ ọzọ"
+msgstr "Iji mepụta mmetọ ọzọ"
+
+msgid "Iji na-emepụta ọkụ mkpofu ọzọ"
+msgstr "Iji na-emepụta ọkụ mkpofu ọzọ"
+
+msgid "Iji mee ka ngwaahịa nwee ọnụahịa dị elu"
+msgstr "Iji mee ka ngwaahịa nwee ọnụahịa dị elu"
+
+msgid ""
+"Imegharị na-enyere aka belata ụkpụrụ mkpofu site na iji akụrụngwa na-echekwa"
+" akụ na akụ ndị ọzọ dịka mmiri na ndị na-emepụta mineral."
+msgstr ""
+"Imegharị na-enyere aka belata ụkpụrụ mkpofu site na iji akụrụngwa na-echekwa"
+" akụ na akụ ndị ọzọ dịka mmiri na ndị na-emepụta mineral."
+
+msgid "Gịnị bụ ịkụziri ihe mkpofu?"
+msgstr "Ịgbanwe mkpofu anụ na ntụziaka"
+
+msgid "Ịgbanwe mkpofu anụ na ntụziaka"
+msgstr "Ịgbanwe mkpofu anụ na ntụziaka"
+
+msgid "Na-ekpo ọkụ plastik"
+msgstr "Na-ekpo ọkụ plastik"
+
+msgid "Na-edepụta mkpofu n'osimiri"
+msgstr "Na-edepụta mkpofu n'osimiri"
+
+msgid "Na-ama mkpofu anụ"
+msgstr "Na-ama mkpofu anụ"
+
+msgid ""
+"Ịkụziri mkpofu anụ bụ usoro nke ịgbanwe mkpofu anụ dịka nri fọdụrụ na mkpofu"
+" ubi na ntụziaka bara ụba nke nwere nri maka osisi."
+msgstr ""
+"Ịkụziri mkpofu anụ bụ usoro nke ịgbanwe mkpofu anụ dịka nri fọdụrụ na mkpofu"
+" ubi na ntụziaka bara ụba nke nwere nri maka osisi."
+
+msgid "Gịnị bụ uru nke reciclị nke nchekwa gburugburu ebe obibi?"
+msgstr "Ọ na-eme ka mmetọ belata"
+
+msgid "Ọ na-eme ka mmetọ belata"
+msgstr "Ọ na-eme ka mmetọ belata"
+
+msgid "Ọ na-eme ka mkpofu na-abawanye"
+msgstr "Ọ na-eme ka mkpofu na-abawanye"
+
+msgid "Ọ na-eme ka ojiji akụ na-abawanye"
+msgstr "Ọ na-eme ka ojiji akụ na-abawanye"
+
+msgid "Ọ na-eme ka okpomọkụ ụwa na-arị elu"
+msgstr "Ọ na-eme ka okpomọkụ ụwa na-arị elu"
+
+msgid ""
+"Imegharị na-enyere aka belata mmetọ site na iji akụrụngwa ọzọ kama ịhapụ ha,"
+" nke na-ebelata mkpofu nke ga-esite na ebe mkpọchi ma ọ bụ osimiri."
+msgstr ""
+"Imegharị na-enyere aka belata mmetọ site na iji akụrụngwa ọzọ kama ịhapụ ha,"
+" nke na-ebelata mkpofu nke ga-esite na ebe mkpọchi ma ọ bụ osimiri."
+
+msgid "Gịnị bụ nkọwa nke okwu 'zero waste'?"
+msgstr "Ịmepụta mkpofu ọ bụla"
+
+msgid "Ịmepụta mkpofu ọ bụla"
+msgstr "Ịmepụta mkpofu ọ bụla"
+
+msgid "Ịmepụta mkpofu nke pere mpe karịa gara aga"
+msgstr "Ịmepụta mkpofu nke pere mpe karịa gara aga"
+
+msgid "Iji naanị ihe ndị na-eme ka ọkpụkpụ"
+msgstr "Iji naanị ihe ndị na-eme ka ọkpụkpụ"
+
+msgid "Imegharị ihe niile mkpofu"
+msgstr "Imegharị ihe niile mkpofu"
+
+msgid ""
+"'Zero waste' pụtara ndụmọdụ ma ọ bụ omume ebe a naghị emepụta mkpofu ọ bụla,"
+" na-eburu ụzọ belata ihe na-eji ma meegharị ihe niile."
+msgstr ""
+"'Zero waste' pụtara ndụmọdụ ma ọ bụ omume ebe a naghị emepụta mkpofu ọ bụla,"
+" na-eburu ụzọ belata ihe na-eji ma meegharị ihe niile."
+
+msgid "Gịnị bụ mmetụta nke mkpofu plastik na gburugburu ebe obibi?"
+msgstr "Ọ na-ewe ọtụtụ afọ iji wepụta"
+
+msgid "Ọ na-ewe ọtụtụ afọ iji wepụta"
+msgstr "Ọ na-ewe ọtụtụ afọ iji wepụta"
+
+msgid "Ọ na-enyere aka iji kwalite ala"
+msgstr "Ọ na-enyere aka iji kwalite ala"
+
+msgid "Ọ dị mfe ka ọkpụkpụ"
+msgstr "Ọ dị mfe ka ọkpụkpụ"
+
+msgid "Ọ na-eme ka osisi too"
+msgstr "Ọ na-eme ka osisi too"
+
+msgid ""
+"Mkpofu plastik na-ewe ọtụtụ afọ iji kpọrọ ya, nke na-eduga na mmetọ "
+"gburugburu ebe obibi nke na-adịru ogologo oge na ihe ize ndụ na anụ ọhịa."
+msgstr ""
+"Mkpofu plastik na-ewe ọtụtụ afọ iji kpọrọ ya, nke na-eduga na mmetọ "
+"gburugburu ebe obibi nke na-adịru ogologo oge na ihe ize ndụ na anụ ọhịa."
+
+msgid "Kedu ka ịkewa mkpofu si enyere njikwa mkpofu?"
+msgstr "Ọ na-enye ohere maka imegharị na nkwupụta nke ụdị mkpofu dị iche iche"
+
+msgid "Ọ na-enye ohere maka imegharị na nkwupụta nke ụdị mkpofu dị iche iche"
+msgstr "Ọ na-enye ohere maka imegharị na nkwupụta nke ụdị mkpofu dị iche iche"
+
+msgid "Ọ na-eme ka ọnụ ọgụgụ mkpofu nwee ike"
+msgstr "Ọ na-eme ka ọnụ ọgụgụ mkpofu nwee ike"
+
+msgid "Ọ na-eme ka ụkpụrụ nke imegharị belata"
+msgstr "Ọ na-eme ka ụkpụrụ nke imegharị belata"
+
+msgid "Ọ nweghị mmetụta na njikwa mkpofu"
+msgstr "Ọ nweghị mmetụta na njikwa mkpofu"
+
+msgid ""
+"Ịkewa mkpofu na-enyere aka iji nwee usoro nke ịkewa ụdị mkpofu dị iche iche,"
+" nke na-eme ka ọ dị mfe imegharị na itinye ya n'ọrụ nke ọma, na-ebelata "
+"mmetọ."
+msgstr ""
+"Ịkewa mkpofu na-enyere aka iji nwee usoro nke ịkewa ụdị mkpofu dị iche iche,"
+" nke na-eme ka ọ dị mfe imegharị na itinye ya n'ọrụ nke ọma, na-ebelata "
+"mmetọ."
+
+msgid "Kedu ihe bụ mmetụta nke itinye mkpofu na-enweghị isi na ahụike ọha?"
+msgstr "Ọ nwere ike ime ka ọrịa gbasaa"
+
+msgid "Ọ nwere ike ime ka ọrịa gbasaa"
+msgstr "Ọ nwere ike ime ka ọrịa gbasaa"
+
+msgid "Ọ na-eme ka mma ikuku"
+msgstr "Ọ na-eme ka mma ikuku"
+
+msgid "Ọ na-akwado ndụ dị mma"
+msgstr "Ọ na-akwado ndụ dị mma"
+
+msgid "Ọ nweghị mmetụta na ahụike ọha"
+msgstr "Ọ nweghị mmetụta na ahụike ọha"
+
+msgid ""
+"Ịtụpụ mkpofu na-enweghị isi, karịsịa n'ogige emeghe, nwere ike ịkpọpụta "
+"pests ma na-ebute ọrịa dịka malaria, cholera, na typhoid."
+msgstr ""
+"Ịtụpụ mkpofu na-enweghị isi, karịsịa n'ogige emeghe, nwere ike ịkpọpụta "
+"pests ma na-ebute ọrịa dịka malaria, cholera, na typhoid."
+
+msgid "Kedu ihe bụ ume nwere ike ịzọpụta?"
+msgstr "Ume si na-apụta n'ọtụtụ nke ihe ndị sitere n'okike"
+
+msgid "Ume si na-apụta n'ọtụtụ nke ihe ndị sitere n'okike"
+msgstr "Ume si na-apụta n'ọtụtụ nke ihe ndị sitere n'okike"
+
+msgid "Ume sitere na mmanụ ụlọ"
+msgstr "Ume sitere na mmanụ ụlọ"
+
+msgid "Ume sitere na ihe ndị na-adịghị nwere ike ịzọpụta"
+msgstr "Ume sitere na ihe ndị na-adịghị nwere ike ịzọpụta"
+
+msgid "Ume nke a na-ebupụ"
+msgstr "Ume nke a na-ebupụ"
+
+msgid ""
+"Ume nwere ike ịzọpụta bụ nke sitere na orisun ndị dị ka anyanwụ, ikuku, na "
+"mmiri, nke nwere ike ịkụziri na nke a pụrụ iche."
+msgstr ""
+"Ume nwere ike ịzọpụta bụ nke sitere na orisun ndị dị ka anyanwụ, ikuku, na "
+"mmiri, nke nwere ike ịkụziri na nke a pụrụ iche."
+
+msgid "Kedu nke bụ orisun ume na-adịghị nwere ike ịzọpụta?"
+msgstr "Ebe ọwụwa"
+
+msgid "Ume anyanwụ"
+msgstr "Ume anyanwụ"
+
+msgid "Ume ikuku"
+msgstr "Ume ikuku"
+
+msgid "Ebe ọwụwa"
+msgstr "Ebe ọwụwa"
+
+msgid "Agba mmiri"
+msgstr "Agba mmiri"
+
+msgid ""
+"Ebe ọwụwa bụ orisun ume na-adịghị nwere ike ịzọpụta, nke pụtara na ọ gaghị "
+"abịarute mgbe ọ na-agwụ."
+msgstr ""
+"Ebe ọwụwa bụ orisun ume na-adịghị nwere ike ịzọpụta, nke pụtara na ọ gaghị "
+"abịarute mgbe ọ na-agwụ."
+
+msgid "Kedu ka iji ume si na-eme ka mgbanwe ihu igwe?"
+msgstr "Ọ na-ebute itufu carbon dioxide"
+
+msgid "Ọ na-ebelata itujade gas nke ụlọ elu"
+msgstr "Ọ na-ebelata itujade gas nke ụlọ elu"
+
+msgid "Ọ na-ebute itufu carbon dioxide"
+msgstr "Ọ na-ebute itufu carbon dioxide"
+
+msgid "Ọ na-enyere aka ịbelata okpomọkụ ụwa"
+msgstr "Ọ na-enyere aka ịbelata okpomọkụ ụwa"
+
+msgid "Ọ nweghị mmetụta na mgbanwe ihu igwe"
+msgstr "Ọ nweghị mmetụta na mgbanwe ihu igwe"
+
+msgid ""
+"Iji ume, karịsịa site na orisun mmanụ ụlọ dịka ebe ọwụwa na mmanụ, na-eduga "
+"na itusịrị gas nke ụlọ elu, nke na-enyere na ọkụ ụwa na mgbanwe ihu igwe."
+msgstr ""
+"Iji ume, karịsịa site na orisun mmanụ ụlọ dịka ebe ọwụwa na mmanụ, na-eduga "
+"na itusịrị gas nke ụlọ elu, nke na-enyere na ọkụ ụwa na mgbanwe ihu igwe."
+
+msgid "Kedu nke bụ isi orisun ume nwere ike ịzọpụta na Naịjịrịa?"
+msgstr "Ume anyanwụ"
+
+msgid "Ume anyanwụ"
+msgstr "Ume anyanwụ"
+
+msgid "Ebe ọwụwa"
+msgstr "Ebe ọwụwa"
+
+msgid "Gesi nke a na-ahụkarị"
+msgstr "Gesi nke a na-ahụkarị"
+
+msgid "Ume nke a na-eme n'ụlọ ọrụ"
+msgstr "Ume nke a na-eme n'ụlọ ọrụ"
+
+msgid ""
+"Ume anyanwụ bụ otu n'ime isi orisun ume nwere ike ịzọpụta na Naịjịrịa, "
+"karịsịa na mpaghara ugwu ebe anyanwụ na-apụta nke ukwuu."
+msgstr ""
+"Ume anyanwụ bụ otu n'ime isi orisun ume nwere ike ịzọpụta na Naịjịrịa, "
+"karịsịa na mpaghara ugwu ebe anyanwụ na-apụta nke ukwuu."
+
+msgid ""
+"Kedu ka ngwaọrụ nke nwere ike ịrụ ọrụ nke ọma si enyere belata iji ume?"
+msgstr "Ha na-eji ume pere"
+
+msgid "Ha na-eji ume pere"
+msgstr "Ha na-eji ume pere"
+
+msgid "Ha na-emepụta oke mkpofu"
+msgstr "Ha na-emepụta oke mkpofu"
+
+msgid "Ha na-eji ume nke ukwuu"
+msgstr "Ha na-eji ume nke ukwuu"
+
+msgid "Ha bụ ndị na-eri ego"
+msgstr "Ha bụ ndị na-eri ego"
+
+msgid ""
+"Ngwaọrụ nke nwere ike ịrụ ọrụ nke ọma bụ ndị e mere iji jiri ọkụ eletrik "
+"pere, nke na-enyere belata iji ume na ọnụ ahịa nke ụgwọ ọkụ."
+msgstr ""
+"Ngwaọrụ nke nwere ike ịrụ ọrụ nke ọma bụ ndị e mere iji jiri ọkụ eletrik "
+"pere, nke na-enyere belata iji ume na ọnụ ahịa nke ụgwọ ọkụ."
+
+msgid "Kedu ihe bụ mmetụta nke iji ume nke ukwuu na gburugburu ebe obibi?"
+msgstr "Ọ na-eme ka mgbanwe ihu igwe"
+
+msgid "Ọ na-ebelata mmetọ"
+msgstr "Ọ na-ebelata mmetọ"
+
+msgid "Ọ na-eme ka mgbanwe ihu igwe"
+msgstr "Ọ na-eme ka mgbanwe ihu igwe"
+
+msgid "Ọ na-eme ka mma ikuku"
+msgstr "Ọ na-eme ka mma ikuku"
+
+msgid "Ọ na-enyere aka n'ịchekwa mmiri"
+msgstr "Ọ na-enyere aka n'ịchekwa mmiri"
+
+msgid ""
+"Iji ume nke ukwuu, karịsịa site na orisun ndị na-adịghị nwere ike ịzọpụta, "
+"na-eduga na itufu carbon dioxide nke na-enyere aka na mgbanwe ihu igwe na "
+"mmebi gburugburu ebe obibi."
+msgstr ""
+"Iji ume nke ukwuu, karịsịa site na orisun ndị na-adịghị nwere ike ịzọpụta, "
+"na-eduga na itufu carbon dioxide nke na-enyere aka na mgbanwe ihu igwe na "
+"mmebi gburugburu ebe obibi."
+
+msgid "Kedu ọrụ nke nchekwa ume na usoro ume nke nwere ike ịzọpụta?"
+msgstr "Ọ na-echekwa ume maka iji n'ọdịnihu"
+
+msgid "Ọ na-echekwa ume maka iji n'ọdịnihu"
+msgstr "Ọ na-echekwa ume maka iji n'ọdịnihu"
+
+msgid "Ọ na-eme ka nrụpụta ume too"
+msgstr "Ọ na-eme ka nrụpụta ume too"
+
+msgid "Ọ na-ebelata ụgwọ ume"
+msgstr "Ọ na-ebelata ụgwọ ume"
+
+msgid "Ọ na-ewepụ mkpa iji ume"
+msgstr "Ọ na-ewepụ mkpa iji ume"
+
+msgid ""
+"Usoro nchekwa ume, dịka batrị, na-echekwa ume nke na-emepụta site na orisun "
+"ume nke nwere ike ịzọpụta, na-eme ka ume dị mgbe a chọrọ ya ma ọ bụ mgbe "
+"nrụpụta ume dị ala."
+msgstr ""
+"Usoro nchekwa ume, dịka batrị, na-echekwa ume nke na-emepụta site na orisun "
+"ume nke nwere ike ịzọpụta, na-eme ka ume dị mgbe a chọrọ ya ma ọ bụ mgbe "
+"nrụpụta ume dị ala."
+
+msgid "Gịnị bụ smart grid, na kedu ka ọ na-enyere aka n'ịchekwa ume?"
+msgstr ""
+"Teknụzụ nke na-enye nkwurịta okwu abụọ n'etiti ndị na-enye ume na ndị na-azụ"
+
+msgid ""
+"Teknụzụ nke na-enye nkwurịta okwu abụọ n'etiti ndị na-enye ume na ndị na-azụ"
+msgstr ""
+"Teknụzụ nke na-enye nkwurịta okwu abụọ n'etiti ndị na-enye ume na ndị na-azụ"
+
+msgid "Ngwaọrụ nke na-echekwa ume maka iji n'ọdịnihu"
+msgstr "Ngwaọrụ nke na-echekwa ume maka iji n'ọdịnihu"
+
+msgid "Uru nke ume nke nwere ike ịzọpụta"
+msgstr "Uru nke ume nke nwere ike ịzọpụta"
+
+msgid "Usoro nke na-eme ka iji ume too"
+msgstr "Usoro nke na-eme ka iji ume too"
+
+msgid ""
+"Smart grid bụ usoro ọkụ eletrik dị elu nke na-eji teknụzụ dijitalụ iji nwee "
+"nkwurịta okwu na jikwaa iji ọkụ eletrik nke ọma, na-enyere aka n'ịchekwa "
+"ume."
+msgstr ""
+"Smart grid bụ usoro ọkụ eletrik dị elu nke na-eji teknụzụ dijitalụ iji nwee "
+"nkwurịta okwu na jikwaa iji ọkụ eletrik nke ọma, na-enyere aka n'ịchekwa "
+"ume."
+
+msgid "Gịnị mere o ji mkpa iji belata iji ume na mpaghara obibi?"
+msgstr "Iji chekwaa gburugburu ebe obibi"
+
+msgid "Iji belata ụgwọ ọkụ eletrik"
+msgstr "Iji belata ụgwọ ọkụ eletrik"
+
+msgid "Iji gbochie nrụpụta ume nke ukwuu"
+msgstr "Iji gbochie nrụpụta ume nke ukwuu"
+
+msgid "Iji chekwaa gburugburu ebe obibi"
+msgstr "Iji chekwaa gburugburu ebe obibi"
+
+msgid "Iji mee ka ego gọọmenti nwee ike"
+msgstr "Iji mee ka ego gọọmenti nwee ike"
+
+msgid ""
+"Ibelata iji ume na-enyere aka belata mmetọ, belata itufu carbon, na ịchịkwa "
+"mmetụta ọjọọ nke mgbanwe ihu igwe."
+msgstr ""
+"Ibelata iji ume na-enyere aka belata mmetọ, belata itufu carbon, na ịchịkwa "
+"mmetụta ọjọọ nke mgbanwe ihu igwe."
+
+msgid "Kedu nri bụ isi iyi nke itufu carbon?"
+msgstr "Atụrụ pụta"
+
+msgid "Mmanụ na mkpụrụ osisi"
+msgstr "Mmanụ na mkpụrụ osisi"
+
+msgid "Osikapa na agwa"
+msgstr "Osikapa na agwa"
+
+msgid "Atụrụ pụta"
+msgstr "Atụrụ pụta"
+
+msgid "Akara niile"
+msgstr "Akara niile"
+
+msgid ""
+"Atụrụ pụta, dị ka anụ ezi, nwere nnukwu carbon footprint n'ihi nnukwu ume a "
+"chọrọ iji were anụmanụ."
+msgstr ""
+"Atụrụ pụta, dị ka anụ ezi, nwere nnukwu carbon footprint n'ihi nnukwu ume a "
+"chọrọ iji were anụmanụ."
+
+msgid "Kedu ka nri nke sitere na osisi na-enyere belata itufu carbon?"
+msgstr "Ọ na-achọ obere ume iji mepụta"
+
+msgid "Ọ na-achọ obere ume iji mepụta"
+msgstr "Ọ na-achọ obere ume iji mepụta"
+
+msgid "Ọ nwere nnukwu uru nri"
+msgstr "Ọ nwere nnukwu uru nri"
+
+msgid "Ọ na-emepụta ihe mkpofu karịa"
+msgstr "Ọ na-emepụta ihe mkpofu karịa"
+
+msgid "Ọ na-eji mmiri karịa iji mepụta"
+msgstr "Ọ na-eji mmiri karịa iji mepụta"
+
+msgid ""
+"Nri nke sitere na osisi, dịka mkpụrụ osisi, akwụkwọ nri, na akpọrọ, chọrọ "
+"obere ume iji mepụta ma ọ bụ nke na-azọpụta ume karịa nri nke sitere na "
+"anụmanụ."
+msgstr ""
+"Nri nke sitere na osisi, dịka mkpụrụ osisi, akwụkwọ nri, na akpọrọ, chọrọ "
+"obere ume iji mepụta ma ọ bụ nke na-azọpụta ume karịa nri nke sitere na "
+"anụmanụ."
+
+msgid "Gịnị mere o ji mkpa ibelata efu nri na ihe metụtara itufu carbon?"
+msgstr "Iji belata carbon footprint nke imepụta nri"
+
+msgid "Iji belata carbon footprint nke imepụta nri"
+msgstr "Iji belata carbon footprint nke imepụta nri"
+
+msgid "Iji mepụta nri dị"
+msgstr "Iji mepụta nri dị"
+
+msgid "Iji belata ọnụ ahịa nri"
+msgstr "Iji belata ọnụ ahịa nri"
+
+msgid "Iji chekwaa ịdị ndụ nri"
+msgstr "Iji chekwaa ịdị ndụ nri"
+
+msgid ""
+"Imepụta nri chọrọ nnukwu ume na akụ. Ibelata efu nri pụtara na a ga-eji "
+"obere akụ mee ya, nke na-enyere aka belata itufu carbon nke jikọrọ na "
+"imepụta nri."
+msgstr ""
+"Imepụta nri chọrọ nnukwu ume na akụ. Ibelata efu nri pụtara na a ga-eji "
+"obere akụ mee ya, nke na-enyere aka belata itufu carbon nke jikọrọ na "
+"imepụta nri."
+
+msgid "Kedu ụdị nri na-emepụta carbon dioxide kacha ukwuu?"
+msgstr "Ụlọ ọrụ anụmanụ"
+
+msgid "Osikapa na ọka"
+msgstr "Osikapa na ọka"
+
+msgid "Ụlọ ọrụ anụmanụ"
+msgstr "Ụlọ ọrụ anụmanụ"
+
+msgid "Ịkụ azụ na mmepụta azụ"
+msgstr "Ịkụ azụ na mmepụta azụ"
+
+msgid "Ụlọ ọrụ mkpụrụ osisi na akwụkwọ nri"
+msgstr "Ụlọ ọrụ mkpụrụ osisi na akwụkwọ nri"
+
+msgid ""
+"Ọgbin anụmanụ, ọkachasị anụ ezi, na-emepụta nnukwu methane na carbon "
+"dioxide, nke na-eme ka ọ bụrụ otu n'ime ndị na-emepụta gas na-emepụta "
+"okpomọkụ ụwa."
+msgstr ""
+"Ọgbin anụmanụ, ọkachasị anụ ezi, na-emepụta nnukwu methane na carbon "
+"dioxide, nke na-eme ka ọ bụrụ otu n'ime ndị na-emepụta gas na-emepụta "
+"okpomọkụ ụwa."
+
+msgid "Kedu omume ugbo na-enyere belata itufu carbon na mmepụta nri?"
+msgstr "Agroforestry"
+
+msgid "Ụgbọ ugbo monoculture na-emepụta ọtụtụ nri"
+msgstr "Ụgbọ ugbo monoculture na-emepụta ọtụtụ nri"
+
+msgid "Agroforestry"
+msgstr "Agroforestry"
+
+msgid "Ịrụ ọrụ na ọgwụgwọ kemịkalụ"
+msgstr "Ịrụ ọrụ na ọgwụgwọ kemịkalụ"
+
+msgid "Ugbo nke na-achọkarị mmiri"
+msgstr "Ugbo nke na-achọkarị mmiri"
+
+msgid ""
+"Agroforestry bụ ịkekọrịta osisi na usoro ugbo, nke na-enyere aka ịwụnye "
+"carbon dioxide, belata mmerụ ala, na ịnọgide na-enwe ọdịiche nke ndụ."
+msgstr ""
+"Agroforestry bụ ịkekọrịta osisi na usoro ugbo, nke na-enyere aka ịwụnye "
+"carbon dioxide, belata mmerụ ala, na ịnọgide na-enwe ọdịiche nke ndụ."
+
+msgid "Gịnị bụ mmetụta gburugburu ebe obibi nke njem nri na itufu carbon?"
+msgstr "Ọ na-abawanye itufu carbon n'ihi iji mmanụ"
+
+msgid "Ọ na-abawanye itufu carbon n'ihi iji mmanụ"
+msgstr "Ọ na-abawanye itufu carbon n'ihi iji mmanụ"
+
+msgid "Ọ na-ebelata itufu carbon site n'iji ụgbọ ala eletrik"
+msgstr "Ọ na-ebelata itufu carbon site n'iji ụgbọ ala eletrik"
+
+msgid "Ọ naghị enwe mmetụta na itufu carbon"
+msgstr "Ọ naghị enwe mmetụta na itufu carbon"
+
+msgid "Ọ na-enyere ị nweta itufu carbon site na akpa nri"
+msgstr "Ọ na-enyere ị nweta itufu carbon site na akpa nri"
+
+msgid ""
+"Ije ozi nri chọrọ mmanụ, nke na-enyere aka itufu carbon site na ọkụ nke "
+"mmanụ fossil."
+msgstr ""
+"Ije ozi nri chọrọ mmanụ, nke na-enyere aka itufu carbon site na ọkụ nke "
+"mmanụ fossil."
+
+msgid "Olee otú nkụcha nri si na-enyere aka na itufu carbon?"
+msgstr "Nkwụcha nri na-emepụta methane na ebe mkpofu"
+
+msgid "Nkwụcha nri na-emepụta methane na ebe mkpofu"
+msgstr "Nkwụcha nri na-emepụta methane na ebe mkpofu"
+
+msgid "Nkwụcha nri na-ebelata itufu carbon"
+msgstr "Nkwụcha nri na-ebelata itufu carbon"
+
+msgid "Nkwụcha nri anaghị enwe mmetụta na itufu carbon"
+msgstr "Nkwụcha nri anaghị enwe mmetụta na itufu carbon"
+
+msgid "Nkwụcha nri bụ ihe nwere ike idozi ma ọ naghị emepụta gas"
+msgstr "Nkwụcha nri bụ ihe nwere ike idozi ma ọ naghị emepụta gas"
+
+msgid ""
+"Mgbe nkụcha nri na-emepe na ebe mkpofu, ọ na-emepụta methane, gas na-akpali "
+"ọkụ nke na-enyere aka na mgbanwe ihu igwe."
+msgstr ""
+"Mgbe nkụcha nri na-emepe na ebe mkpofu, ọ na-emepụta methane, gas na-akpali "
+"ọkụ nke na-enyere aka na mgbanwe ihu igwe."
+
+msgid "Kedu nri nke a nwere carbon footprint kacha nta?"
+msgstr "Nri sitere na osisi"
+
+msgid "Nri sitere na osisi"
+msgstr "Nri sitere na osisi"
+
+msgid "Nri nwere anụ"
+msgstr "Nri nwere anụ"
+
+msgid "Nri nwere nri emere"
+msgstr "Nri nwere nri emere"
+
+msgid "Nri nchịkọta nwere ọtụtụ ngwaahịa dairy"
+msgstr "Nri nchịkọta nwere ọtụtụ ngwaahịa dairy"
+
+msgid ""
+"Nri sitere na osisi na-adịkarị na carbon footprint nke nta n'ihi na ha chọrọ"
+" obere ihe, gụnyere mmiri na ike, na na-emepụta obere gas na-emepụta "
+"okpomọkụ ụwa."
+msgstr ""
+"Nri sitere na osisi na-adịkarị na carbon footprint nke nta n'ihi na ha chọrọ"
+" obere ihe, gụnyere mmiri na ike, na na-emepụta obere gas na-emepụta "
+"okpomọkụ ụwa."
+
+msgid "Kedu mmetụta carbon nke ịkụ nri na gburugburu ebe obibi?"
+msgstr "Ngwaahịa eji eme ngwugwu na-eji plastik, nke na-eme ka mmetọ plastik"
+
+msgid "Ngwaahịa eji eme ngwugwu na-eji plastik, nke na-eme ka mmetọ plastik"
+msgstr "Ngwaahịa eji eme ngwugwu na-eji plastik, nke na-eme ka mmetọ plastik"
+
+msgid "Ngwugwu na-ebelata nkụcha nri"
+msgstr "Ngwugwu na-ebelata nkụcha nri"
+
+msgid "Ngwugwu anaghị enwe mmetụta na itufu carbon"
+msgstr "Ngwugwu anaghị enwe mmetụta na itufu carbon"
+
+msgid "Ngwugwu na-enyere nchekwa nri maka oge ogologo"
+msgstr "Ngwugwu na-enyere nchekwa nri maka oge ogologo"
+
+msgid ""
+"Ngwugwu nri na-eji plastik, nke na-eme ka mmetọ plastik na ụkọ nke ihe, ma "
+"na-achọ ihe na-enye nri, na-eme ka carbon footprint dị elu."
+msgstr ""
+"Ngwugwu nri na-eji plastik, nke na-eme ka mmetọ plastik na ụkọ nke ihe, ma "
+"na-achọ ihe na-enye nri, na-eme ka carbon footprint dị elu."

@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="dashboard">
+    <!-- Welcome Section -->
+    <section id="welcome" class="section welcome">
+        <h2>{{ category_text.get('welcome') }}</h2>
+        <p class="intro-text">{{ category_text.get('intro_text') }}</p>
+    </section>
+
+    <!-- Carbon Literacy Section -->
+    <section id="carbon-literacy" class="section carbon-literacy">
+        <h3>{{ category_text.get('understanding_carbon_literacy') }}</h3>
+        <p>
+            {{ category_text.get('carbon_literacy_description') }}
+        </p>
+        <h3>{{ category_text.get('why_focus_on_carbon_literacy') }}</h3>
+        <p>
+            {{ category_text.get('why_focus_description') }}
+        </p>
+        <ul class="carbon-benefits">
+            <li><strong>{{ category_text.get('climate_change_awareness') }}:</strong> {{ category_text.get('climate_change_description') }}</li>
+            <li><strong>{{ category_text.get('cultural_relevance') }}:</strong> {{ category_text.get('cultural_relevance_description') }}</li>
+            <li><strong>{{ category_text.get('economic_benefits') }}:</strong> {{ category_text.get('economic_benefits_description') }}</li>
+            <li><strong>{{ category_text.get('global_responsibility') }}:</strong> {{ category_text.get('global_responsibility_description') }}</li>
+        </ul>
+    </section>
+
+    <!-- How the Game Works Section -->
+    <section id="how-game-works" class="section how-game-works">
+        <h3>{{ category_text.get('how_game_helps') }}</h3>
+        <p>{{ category_text.get('game_description') }}</p>
+        <div class="features">
+            <div class="feature">
+                <i class="fas fa-globe"></i>
+                <h4>{{ category_text.get('localized_content') }}</h4>
+                <p>{{ category_text.get('localized_content_description') }}</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-language"></i>
+                <h4>{{ category_text.get('language_support') }}</h4>
+                <p>{{ category_text.get('language_support_description') }}</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-gamepad"></i>
+                <h4>{{ category_text.get('interactive_learning') }}</h4>
+                <p>{{ category_text.get('interactive_learning_description') }}</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-leaf"></i>
+                <h4>{{ category_text.get('action_oriented_education') }}</h4>
+                <p>{{ category_text.get('action_oriented_description') }}</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="your-role" class="section your-role">
+        <h3>{{ category_text.get('your_role') }}</h3>
+        <p>
+            {{ category_text.get('your_role_description') }}
+        </p>
+        <p>{{ category_text.get('green_future_message') }}</p>
+    </section>
+
+    <!-- Call to Action -->
+    <section id="cta" class="cta-section">
+        <h3>{{ category_text.get('start_journey') }}</h3>
+        <p>{{ category_text.get('call_to_action') }}</p>
+        <div class="play-game">
+            <a href="{{ url_for('main') }}" class="play-button">{{ category_text.get('play_game_button') }}</a>
+        </div>
+    </section>
+
+    <!-- Newsletter Section -->
+    <section id="newsletter" class="newsletter-section">
+        <h2>{{ category_text.get('subscribe_to_newsletter') }}</h2>
+        <form method="POST" action="{{ url_for('subscribe') }}">
+            <label for="email">{{ category_text.get('enter_email') }}:</label>
+            <input type="email" id="email" name="email" required placeholder="{{ category_text.get('email_placeholder') }}">
+            <button type="submit" class="subscribe-btn">{{ category_text.get('subscribe_button') }}</button>
+        </form>
+    </section>
+</div>
+{% endblock %}

@@ -1,0 +1,447 @@
+{
+    "categories": {
+      "carbon_emissions": {
+        "level_1": [
+          {
+            "id": "ce-l1-q1",
+            "question": {
+              "en": "What does 'carbon footprint' measure?",
+              "yo": "Kini 'ẹsẹ-kárbọnu' ṣe iwọn?",
+              "ig": "Kedu ihe 'carbon footprint' na-atụgharị?",
+              "ha": "Me mene 'sahihin carbon' ke aunawa?"
+            },
+            "options": {
+              "en": [
+                "The amount of oxygen produced",
+                "The amount of carbon dioxide emitted",
+                "The level of global temperature",
+                "The number of plants on Earth"
+              ],
+              "yo": [
+                "Iwọn atẹgun ti a ṣejade",
+                "Iwọn oksailu kọnkẹẹdi ti a tu silẹ",
+                "Ipele otutu agbaye",
+                "Nọmba awọn ohun ọgbin lori ilẹ"
+              ],
+              "ig": [
+                "Ọnụ ọgụgụ oxygen na-emepụta",
+                "Ọnụ ọgụgụ carbon dioxide na-atụpụta",
+                "Ọkwa okpomọkụ ụwa",
+                "Ọnụ ọgụgụ osisi n'ụwa"
+              ],
+              "ha": [
+                "Adadin iskar oxygen da ake samarwa",
+                "Adadin iskar carbon dioxide da ake fitarwa",
+                "Matsayin zafin duniya",
+                "Adadin bishiyoyi a duniya"
+              ]
+            },
+            "answer": {
+              "en": "The amount of carbon dioxide emitted",
+              "yo": "Iwọn oksailu kọnkẹẹdi ti a tu silẹ",
+              "ig": "Ọnụ ọgụgụ carbon dioxide na-atụpụta",
+              "ha": "Adadin iskar carbon dioxide da ake fitarwa"
+            },
+            "explanation": {
+              "en": "Carbon footprint measures the total carbon dioxide emissions caused by individuals or activities.",
+              "yo": "Ẹsẹ-kárbọnu ṣe iwọn lapapọ awọn itujade oksailu kọnkẹẹdi ti eniyan tabi iṣẹ ṣe.",
+              "ig": "Carbon footprint na-atụgharị na ọnụ ọgụgụ nke carbon dioxide mmadụ ma ọ bụ ihe omume na-eme.",
+              "ha": "Sahihin carbon yana aunawa fitar iskar carbon dioxide da mutane ko ayyuka ke haifarwa."
+            }
+  
+          },
+          {
+            "id": "ce-l1-q2",
+            "question": {
+              "en": "Which of these contributes most to carbon emissions in Nigerian households?",
+              "yo": "Ewo ninu awọn wọnyi ni o n ṣe alabapin julọ si itujade kárbọnu ni awọn ile Naijiria?",
+              "ig": "Kedu ihe n’ime ndị a na-emetụta carbon emissions n’ezinụlọ Naijiria?",
+              "ha": "Wanne daga cikin wadannan yana haifar da mafi yawan carbon a gidajen Najeriya?"
+            },
+            "options": {
+              "en": [
+                "Burning firewood",
+                "Solar power",
+                "Wind energy",
+                "Hydropower"
+              ],
+              "yo": [
+                "Ìjo igi",
+                "Agbara oorun",
+                "Agbara afẹfẹ",
+                "Agbara omi"
+              ],
+              "ig": [
+                "Ịkụ ọkụ osisi",
+                "Ike anyanwụ",
+                "Ike ifufe",
+                "Ike mmiri"
+              ],
+              "ha": [
+                "Hada itace",
+                "Amfani da hasken rana",
+                "Amfani da iska",
+                "Amfani da ruwan dam"
+              ]
+            },
+            "answer": {
+              "en": "Burning firewood",
+              "yo": "Ìjo igi",
+              "ig": "Ịkụ ọkụ osisi",
+              "ha": "Hada itace"
+            },
+            "explanation": {
+              "en": "Burning firewood is a common practice in Nigerian households and releases significant carbon dioxide.",
+              "yo": "Ìjo igi jẹ́ ẹ̀kọ́ tí wọ́n máa ń ṣe ni ile Naijiria, ó sì ń tu oksailu kónkẹẹdi pọ.",
+              "ig": "Ịkụ ọkụ osisi bụ omume a na-ahụkarị na Naijiria na-ebute ikuku CO2 nke ukwuu.",
+              "ha": "Hada itace yana daga cikin abubuwan da aka saba yi a Najeriya wanda ke haifar da yawan iskar carbon dioxide."
+            },
+            "level": 1
+          },
+          {
+            "id": "ce-l1-q3",
+            "question": {
+              "en": "How can planting trees help reduce carbon emissions?",
+              "yo": "Báwo ni gbígbìn igi ṣe le dinku itujade kárbọnu?",
+              "ig": "Olee otú ịkụ osisi nwere ike ibelata carbon emissions?",
+              "ha": "Ta yaya shuka itatuwa zai taimaka rage fitar da carbon?"
+            },
+            "options": {
+              "en": [
+                "Trees absorb carbon dioxide",
+                "Trees produce carbon dioxide",
+                "Trees increase global warming",
+                "Trees emit oxygen only"
+              ],
+              "yo": [
+                "Igi máa ń gbé oksailu kọnkẹẹdi",
+                "Igi máa ń tu oksailu kọnkẹẹdi",
+                "Igi máa ń pọ́n ìtànná agbaye",
+                "Igi máa ń tu atẹgun ṣoṣo"
+              ],
+              "ig": [
+                "Osisi na-ewepụ CO2",
+                "Osisi na-emepụta CO2",
+                "Osisi na-ebuli ọkụ ụwa",
+                "Osisi na-emepụta oxygen naanị"
+              ],
+              "ha": [
+                "Itatuwa yana sha carbon dioxide",
+                "Itatuwa yana fitar da carbon dioxide",
+                "Itatuwa yana ƙara zafin duniya",
+                "Itatuwa yana fitar da oxygen kawai"
+              ]
+            },
+            "answer": {
+              "en": "Trees absorb carbon dioxide",
+              "yo": "Igi máa ń gbé oksailu kọnkẹẹdi",
+              "ig": "Osisi na-ewepụ CO2",
+              "ha": "Itatuwa yana sha carbon dioxide"
+            },
+            "explanation": {
+              "en": "Trees help combat carbon emissions by absorbing carbon dioxide and releasing oxygen.",
+              "yo": "Igi ṣe iranwọ̀ lodi sí itujade kárbọnu nipa mímu oksailu kọnkẹẹdi gbé ati tú atẹgun.",
+              "ig": "Osisi na-enyere aka belata carbon emissions site n’ịmị CO2 na ịtụpụ oxygen.",
+              "ha": "Itatuwa yana taimakawa rage carbon ta hanyar shan carbon dioxide da fitar da oxygen."
+            }
+  
+          }
+        ],
+        "level_2": [
+          {
+            "id": "ce-l2-q1",
+            "question": {
+              "en": "What is one major source of carbon emissions in urban areas of Nigeria?",
+              "yo": "Kí ni orísun kárbọnu pàtàkì kan ní àwọn ìlú ńlá Nàìjíríà?",
+              "ig": "Kedu otu isi mmalite nke carbon emissions na obodo Nigeria?",
+              "ha": "Menene babban tushe na fitar da carbon a biranen Najeriya?"
+            },
+            "options": {
+              "en": [
+                "Generators",
+                "Solar panels",
+                "Public transport",
+                "Planting trees"
+              ],
+              "yo": [
+                "Ẹ̀rọ ina monamona",
+                "Panẹli oorun",
+                "Ìrìn-ajo gbogbo eniyan",
+                "Gbígbìn igi"
+              ],
+              "ig": [
+                "Jeniretọ",
+                "Ụgbọ mmiri anyanwụ",
+                "Ụgbọ njem ọha",
+                "Ịkụ osisi"
+              ],
+              "ha": [
+                "Janareto",
+                "Allon rana",
+                "Jirgin jama'a",
+                "Shuka itatuwa"
+              ]
+            },
+            "answer": {
+              "en": "Generators",
+              "yo": "Ẹ̀rọ ina monamona",
+              "ig": "Jeniretọ",
+              "ha": "Janareto"
+            },
+            "explanation": {
+              "en": "Generators, often used due to unreliable electricity supply, emit significant carbon dioxide in Nigerian urban areas.",
+              "yo": "Ẹ̀rọ ina monamona tí a máa ń lo nígbà tí agbára jẹ̀ aiṣe-dáṣọ̀tọ̀ ń tú oksailu kọnkẹẹdi ní àwọn ìlú ńlá Nàìjíríà.",
+              "ig": "Jeniretọ ndị a na-eji maka enweghị ọkụ na-akpọpụta nnukwu CO2 na obodo dị na Nigeria.",
+              "ha": "Janareto yana haifar da yawan fitar da carbon dioxide saboda rashin wutan lantarki mai tsaro."
+            }
+  
+          },
+          {
+            "id": "ce-l2-q2",
+            "question": {
+              "en": "Why is burning waste a concern for carbon emissions in Nigeria?",
+              "yo": "Kí ló dé tí sisun àwòkọse di iṣoro nípa itujade kárbọnu ní Nàìjíríà?",
+              "ig": "Kedu ihe mere ọkụkọ mkpofu ji bụrụ nsogbu maka carbon emissions na Nigeria?",
+              "ha": "Me yasa kona shara ke haifar da matsala kan fitar da carbon a Najeriya?"
+            },
+            "options": {
+              "en": [
+                "It releases carbon dioxide",
+                "It improves air quality",
+                "It conserves energy",
+                "It reduces landfill waste"
+              ],
+              "yo": [
+                "Ó máa ń tú oksailu kọnkẹẹdi",
+                "Ó mú àwòṣe afẹ́fẹ dara",
+                "Ó máa ń pamọ́ agbára",
+                "Ó máa ń dinku àwòkòṣe ilẹ̀"
+              ],
+              "ig": [
+                "Ọ na-atụpụ CO2",
+                "Ọ na-eme ka ikuku dị ọcha",
+                "Ọ na-echekwa ume",
+                "Ọ na-ebelata mkpofu ala"
+              ],
+              "ha": [
+                "Yana fitar da carbon dioxide",
+                "Yana inganta ingancin iska",
+                "Yana adana kuzari",
+                "Yana rage sharar matattarar kasa"
+              ]
+            },
+            "answer": {
+              "en": "It releases carbon dioxide",
+              "yo": "Ó máa ń tú oksailu kọnkẹẹdi",
+              "ig": "Ọ na-atụpụ CO2",
+              "ha": "Yana fitar da carbon dioxide"
+            },
+            "explanation": {
+              "en": "Burning waste releases harmful gases, including carbon dioxide, contributing to environmental pollution.",
+              "yo": "Sisun àwòkọse máa ń tú gaasi tó ṣe ipalara, pẹ̀lú oksailu kọnkẹẹdi, tó ń mú àpáta ayé bàjẹ́.",
+              "ig": "Ịkụ ọkụ mkpofu na-atụpụ ikuku ndị na-egbu egbu, tinyere CO2, nke na-eduga na mmetọ gburugburu ebe obibi.",
+              "ha": "Kona shara yana sakin iskar gas mai cutarwa kamar carbon dioxide wanda ke lalata muhalli."
+            }
+  
+          },
+          {
+            "id": "ce-l2-q3",
+            "question": {
+              "en": "What is the environmental impact of gas flaring in Nigeria's oil industry?",
+              "yo": "Kí ni ìpa ayé tó yẹ sí àtúnjúwe gasi ní ilé-iṣẹ́ epo Nàìjíríà?",
+              "ig": "Kedu ihe mmetụta gburugburu ebe obibi nke gas flaring na ụlọ ọrụ mmanụ Nigeria?",
+              "ha": "Menene illar flare na iskar gas a masana'antar man fetur ta Najeriya?"
+            },
+            "options": {
+              "en": [
+                "Releases greenhouse gases",
+                "Improves soil fertility",
+                "Lowers air pollution",
+                "Enhances wildlife habitats"
+              ],
+              "yo": [
+                "Ó tú gaasi àwọn ilé-ọjọ́",
+                "Ó mú ilé ayé dọ́gba",
+                "Ó dinku ìdòhò afẹ́fẹ",
+                "Ó mú ilé àwọn ẹranko dàgbà"
+              ],
+              "ig": [
+                "Ọ na-atụpụ ikuku ụlọ ọkụ",
+                "Ọ na-eme ka ala dị mma",
+                "Ọ na-ebelata mmetọ ikuku",
+                "Ọ na-eme ka ebe obibi anụ ọhịa dị mma"
+              ],
+              "ha": [
+                "Yana sakin iskar greehouse",
+                "Yana karawa kasar gona karfi",
+                "Yana rage datsewar iska",
+                "Yana inganta muhalli dabbobi"
+              ]
+            },
+            "answer": {
+              "en": "Releases greenhouse gases",
+              "yo": "Ó tú gaasi àwọn ilé-ọjọ́",
+              "ig": "Ọ na-atụpụ ikuku ụlọ ọkụ",
+              "ha": "Yana sakin iskar greehouse"
+            },
+            "explanation": {
+              "en": "Gas flaring in Nigeria's oil industry contributes to significant greenhouse gas emissions, affecting climate change.",
+              "yo": "Àtúnjúwe gasi ní ilé-iṣẹ́ epo Nàìjíríà ń mú àìdá ilé-ọjọ́ kún fún àpáta ayé, tó ń nípa ayé.",
+              "ig": "Ịtụpụ gas na ụlọ ọrụ mmanụ Nigeria na-akpọpụta nnukwu ikuku ụlọ ọkụ nke na-emetụta mgbanwe ihu igwe.",
+              "ha": "Flare na gas daga masana'antar man Najeriya yana taimakawa haifar da sauyin yanayi ta hanyar sakin iskar gas mai kara dumamar duniya."
+            }
+  
+          }
+        ],
+        "level_3": [
+          {
+            "id": "ce-l3-q1",
+            "question": {
+              "en": "Which farming practice in Nigeria contributes significantly to carbon emissions?",
+              "yo": "Ẹ̀gbọ̀n ọdún àgbà tó ń ṣe àfikún kárbọnu kárí ayé ní Nàìjíríà ni yíyẹ wo?",
+              "ig": "Kedu omume ugbo na Nigeria nke na-enyere aka na nnukwu carbon emissions?",
+              "ha": "Wanne irin aikin gona ne a Najeriya ke haifar da yawan fitar carbon?"
+            },
+            "options": {
+              "en": [
+                "Slash-and-burn farming",
+                "Crop rotation",
+                "Drip irrigation",
+                "Organic farming"
+              ],
+              "yo": [
+                "Ẹ̀gbẹ́gbọ̀n àti sísun",
+                "Àtúnṣẹ ọgbin",
+                "Ọ̀rọ̀ ẹ̀rọ fẹ́sẹ̀fẹ́",
+                "Àgbẹ́ àyíká"
+              ],
+              "ig": [
+                "Ọrụ ọkụ ala",
+                "Ọgbanọta mkpụrụ",
+                "Irrigation mmiri dị obere",
+                "Ọrụ ugbo na-akọwapụtara"
+              ],
+              "ha": [
+                "Noma kona kasa",
+                "Juyin amfanin gona",
+                "Ruwan shayar da ruwan kadan",
+                "Noman sinadarai"
+              ]
+            },
+            "answer": {
+              "en": "Slash-and-burn farming",
+              "yo": "Ẹ̀gbẹ́gbọ̀n àti sísun",
+              "ig": "Ọrụ ọkụ ala",
+              "ha": "Noma kona kasa"
+            },
+            "explanation": {
+              "en": "Slash-and-burn farming releases carbon dioxide and other harmful gases due to vegetation burning.",
+              "yo": "Ẹ̀gbẹ́gbọ̀n àti sísun máa ń tú oksailu kọnkẹẹdi àti gaasi mìíràn tó ṣe ipalara sí ayé.",
+              "ig": "Ọrụ ọkụ ala na-atụpụ CO2 na ikuku ndị ọzọ na-egbu egbu site na ọkụ osisi.",
+              "ha": "Noma kona kasa yana sakin iskar carbon dioxide da wasu iskar gas masu cutarwa saboda kona tsirrai."
+            }
+  
+          },
+          {
+            "id": "ce-l3-q2",
+            "question": {
+              "en": "How does deforestation in Nigeria contribute to higher carbon levels?",
+              "yo": "Báwo ni ìbájẹ́ igbó ṣe ń mú kárbọnu pọ̀ síi ní Nàìjíríà?",
+              "ig": "Kedu ka ibelata ọhịa si enye aka na oke carbon na Nigeria?",
+              "ha": "Ta yaya sare dazuzzuka a Najeriya ke kara yawan carbon?"
+            },
+            "options": {
+              "en": [
+                "It reduces trees that absorb carbon dioxide",
+                "It increases renewable energy",
+                "It improves soil quality",
+                "It encourages biodiversity"
+              ],
+              "yo": [
+                "Ó dinku igi tó ń wọ́n oksailu kọnkẹẹdi",
+                "Ó pọ̀si agbára tí a le tún lo",
+                "Ó mú ilẹ̀ ayé pọ̀sí",
+                "Ó ṣe agbega oniruru àyíká"
+              ],
+              "ig": [
+                "Ọ na-ebelata osisi na-etinye CO2",
+                "Ọ na-abawanye ume nke nwere ike ịzọpụta",
+                "Ọ na-eme ka ala dị mma",
+                "Ọ na-akwalite ụdịdị ihe dị ndụ"
+              ],
+              "ha": [
+                "Yana rage bishiyoyi da ke shakar carbon dioxide",
+                "Yana kara kuzarin da za'a iya sabuntawa",
+                "Yana inganta ingancin kasa",
+                "Yana kara bambancin halitta"
+              ]
+            },
+            "answer": {
+              "en": "It reduces trees that absorb carbon dioxide",
+              "yo": "Ó dinku igi tó ń wọ́n oksailu kọnkẹẹdi",
+              "ig": "Ọ na-ebelata osisi na-etinye CO2",
+              "ha": "Yana rage bishiyoyi da ke shakar carbon dioxide"
+            },
+            "explanation": {
+              "en": "Deforestation reduces the number of trees that naturally absorb carbon dioxide, leading to increased atmospheric carbon levels.",
+              "yo": "Ìbájẹ́ igbó máa ń dinku iye igi tó ń wọ́n oksailu kọnkẹẹdi, tó ń mú kárbọnu pọ̀ sí afẹ́fẹ́.",
+              "ig": "Ibelata ọhịa na-eme ka ọnụ ọgụgụ osisi na-etinye CO2 dị obere, nke na-eme ka carbon dị n'ikuku bawanye.",
+              "ha": "Sare daji yana rage bishiyoyin dake shakar carbon dioxide wanda hakan ke kara iskar carbon a sararin samaniya."
+            }
+  
+          },
+          {
+            "id": "ce-l3-q3",
+            "question": {
+              "en": "Why is gas-powered electricity more carbon-intensive than solar power in Nigeria?",
+              "yo": "Kí ló dé tí agbára itanna gasi pọ̀ síi ju oorun lọ ní Nàìjíríà?",
+              "ig": "Kedu ihe mere ọkụ eletrik sitere na gas ji nwee nnukwu carbon karịa ọkụ anyanwụ na Nigeria?",
+              "ha": "Me yasa amfani da wutar lantarki daga gas yafi karfin amfani da wutar rana wajen fitar da carbon a Najeriya?"
+            },
+            "options": {
+              "en": [
+                "Gas power emits more greenhouse gases",
+                "Solar power requires more land",
+                "Gas power is more renewable",
+                "Solar power generates less energy"
+              ],
+              "yo": [
+                "Agbára gasi máa ń tú gaasi ilé-ọjọ́ kárí",
+                "Agbára oorun máa ń lo ilẹ̀ pọ̀ síi",
+                "Agbára gasi ni àtúnṣe diẹ sii",
+                "Agbára oorun máa ń ṣe agbára diẹ"
+              ],
+              "ig": [
+                "Ọkụ sitere na gas na-atụpụ nnukwu ikuku ụlọ ọkụ",
+                "Ọkụ anyanwụ chọrọ nnukwu ala",
+                "Ọkụ sitere na gas nwere ume pụrụ iche",
+                "Ọkụ anyanwụ na-ebute obere ume"
+              ],
+              "ha": [
+                "Wutar gas tana fitar da greehouse mai yawa",
+                "Wutar rana tana bukatar filin kasa mai yawa",
+                "Wutar gas tana da sabuntawa sosai",
+                "Wutar rana tana samar da karamin kuzari"
+              ]
+            },
+            "answer": {
+              "en": "Gas power emits more greenhouse gases",
+              "yo": "Agbára gasi máa ń tú gaasi ilé-ọjọ́ kárí",
+              "ig": "Ọkụ sitere na gas na-atụpụ nnukwu ikuku ụlọ ọkụ",
+              "ha": "Wutar gas tana fitar da greehouse mai yawa"
+            },
+            "explanation": {
+              "en": "Gas-powered electricity produces significant greenhouse gases during combustion, unlike solar power which is clean and renewable.",
+              "yo": "Agbára itanna gasi máa ń tú gaasi ilé-ọjọ́ pẹ̀lú ìfunpọ̀, gẹ́gẹ́ bí agbára oorun tó mọ́ àti àtúnṣe.",
+              "ig": "Ọkụ eletrik sitere na gas na-eme ka ikuku ụlọ ọkụ buru ibu, ebe ọkụ anyanwụ dị ọcha na nke nwere ike ịzọpụta.",
+              "ha": "Amfani da gas wajen samar da wuta yana haifar da sakin iskar greehouse mai yawa fiye da amfani da wutar rana wacce bata fitar da iskar gas."
+            }
+  
+          }
+        ]
+      }
+    }
+  }
+  
+  
+  

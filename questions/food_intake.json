@@ -1,0 +1,264 @@
+{
+  "categories": {
+      "food_intake": {
+          "level_1": [
+              {
+                  "id": "fi-l1-q1",
+                  "question": {
+                      "en": "Which food item is a significant source of carbon emissions?",
+                      "yo": "Iṣọpọ ounje wo ni orisun pataki ti awọn itujade kárbọnu?",
+                      "ig": "Kedu nri bụ isi iyi nke itufu carbon?",
+                      "ha": "Wane abinci ne babban tushen fitar da sahihin carbon?"
+                  },
+                  "options": {
+                      "en": ["Fruits and vegetables", "Rice and beans", "Red meat", "Whole grains"],
+                      "yo": ["Eso ati ẹfọ", "Iresi ati ewa", "Eranko pupa", "Awọn irugbin kikun"],
+                      "ig": ["Mmanụ na mkpụrụ osisi", "Osikapa na agwa", "Atụrụ pụta", "Akara niile"],
+                      "ha": ["Fruits da kayan lambu", "Shinkafa da wake", "Nama ja", "Hadin hatsi duka"]
+                  },
+                  "answer": {
+                      "en": "Red meat",
+                      "yo": "Eranko pupa",
+                      "ig": "Atụrụ pụta",
+                      "ha": "Nama ja"
+                  },
+                  "explanation": {
+                      "en": "Red meat, such as beef, has a high carbon footprint due to the large amount of energy required to raise livestock.",
+                      "yo": "Eranko pupa, gẹgẹ bi eran malu, ni ẹsẹ-kárbọnu ti o ga nitori iye nla ti agbara ti o nilo lati dagbasoke awọn ẹran.",
+                      "ig": "Atụrụ pụta, dị ka anụ ezi, nwere nnukwu carbon footprint n'ihi nnukwu ume a chọrọ iji were anụmanụ.",
+                      "ha": "Nama ja na daukaka sahihin carbon saboda yawan makamancin wuta da ake bukata don kiwon dabbobi."
+                  },
+                  "level": 1
+              },
+              {
+                  "id": "fi-l1-q2",
+                  "question": {
+                      "en": "How does plant-based food help in reducing carbon emissions?",
+                      "yo": "Bawo ni ounje ti o da lori eweko ṣe iranlọwọ lati dinku awọn itujade kárbọnu?",
+                      "ig": "Kedu ka nri nke sitere na osisi na-enyere belata itufu carbon?",
+                      "ha": "Ta yaya abincin da aka samo daga shuka yake taimakawa wajen rage fitar da sahihin carbon?"
+                  },
+                  "options": {
+                      "en": ["It requires less energy to produce", "It has a higher nutritional value", "It generates more waste", "It uses more water to produce"],
+                      "yo": ["O nilo agbara diẹ lati ṣe", "O ni iye ounjẹ ti o ga", "O n ṣe idoti diẹ sii", "O nlo omi diẹ sii lati ṣe"],
+                      "ig": ["Ọ na-achọ obere ume iji mepụta", "Ọ nwere nnukwu uru nri", "Ọ na-emepụta ihe mkpofu karịa", "Ọ na-eji mmiri karịa iji mepụta"],
+                      "ha": ["Yana buƙatar ƙarancin makamancin wuta don samarwa", "Yana da ƙarin abincin gina jiki", "Yana haifar da ƙarin shara", "Yana amfani da ruwa mai yawa don samarwa"]
+                  },
+                  "answer": {
+                      "en": "It requires less energy to produce",
+                      "yo": "O nilo agbara diẹ lati ṣe",
+                      "ig": "Ọ na-achọ obere ume iji mepụta",
+                      "ha": "Yana buƙatar ƙarancin makamancin wuta don samarwa"
+                  },
+                  "explanation": {
+                      "en": "Plant-based foods, like fruits, vegetables, and grains, require much less energy to produce compared to animal-based foods.",
+                      "yo": "Awọn ounje ti o da lori eweko, bii eso, ẹfọ, ati awọn irugbin, nilo agbara diẹ pupọ lati ṣe ni akawe pẹlu awọn ounje ti o da lori ẹranko.",
+                      "ig": "Nri nke sitere na osisi, dịka mkpụrụ osisi, akwụkwọ nri, na akpọrọ, chọrọ obere ume iji mepụta ma ọ bụ nke na-azọpụta ume karịa nri nke sitere na anụmanụ.",
+                      "ha": "Abincin da aka samo daga shuka, kamar su fruits, kayan lambu, da hatsi, yana buƙatar ƙarancin makamancin wuta fiye da abincin dabbobi."
+                  },
+                  "level": 1
+              },
+              {
+                  "id": "fi-l1-q3",
+                  "question": {
+                      "en": "Why is it important to reduce food waste in relation to carbon emissions?",
+                      "yo": "Kilode ti o fi ṣe pataki lati dinku awọn egbin ounje ni ibatan si awọn itujade kárbọnu?",
+                      "ig": "Gịnị mere o ji mkpa ibelata efu nri na ihe metụtara itufu carbon?",
+                      "ha": "Me ya sa yake da muhimmanci rage shara abinci a cikin dangantaka da fitar da sahihin carbon?"
+                  },
+                  "options": {
+                      "en": ["To reduce the carbon footprint of food production", "To increase food availability", "To lower food prices", "To prevent food insecurity"],
+                      "yo": ["Lati dinku ẹsẹ-kárbọnu ti iṣelọpọ ounje", "Lati pọ si wiwa ounje", "Lati dinku awọn idiyele ounje", "Lati dena aito ounje"],
+                      "ig": ["Iji belata carbon footprint nke imepụta nri", "Iji mepụta nri dị", "Iji belata ọnụ ahịa nri", "Iji chekwaa ịdị ndụ nri"],
+                      "ha": ["Domin rage sahihin carbon na samar da abinci", "Domin ƙara samun abinci", "Domin rage farashin abinci", "Domin hana rashin tsaro na abinci"]
+                  },
+                  "answer": {
+                      "en": "To reduce the carbon footprint of food production",
+                      "yo": "Lati dinku ẹsẹ-kárbọnu ti iṣelọpọ ounje",
+                      "ig": "Iji belata carbon footprint nke imepụta nri",
+                      "ha": "Domin rage sahihin carbon na samar da abinci"
+                  },
+                  "explanation": {
+                      "en": "Food production requires significant energy and resources. Reducing waste means that fewer resources are needed, thereby lowering the carbon emissions associated with producing food.",
+                      "yo": "Ṣiṣe iṣelọpọ ounje nilo agbara ati awọn orisun pataki. Dinku egbin tumọ si pe awọn orisun diẹ ni a nilo, nitorinaa o dinku awọn itujade kárbọnu ti o ni ibatan si iṣelọpọ ounje.",
+                      "ig": "Imepụta nri chọrọ nnukwu ume na akụ. Ibelata efu nri pụtara na a ga-eji obere akụ mee ya, nke na-enyere aka belata itufu carbon nke jikọrọ na imepụta nri.",
+                      "ha": "Samar da abinci yana buƙatar babban makamancin wuta da albarkatu. Rage shara yana nufin cewa za a buƙaci albarkatu kaɗan, wanda zai rage fitar da sahihin carbon da ke tattare da samar da abinci."
+                  },
+                  "level": 1
+              }
+          ],
+          "level_2": [
+              {
+                  "id": "fi-l2-q1",
+                  "question": {
+                      "en": "Which type of food production emits the most carbon dioxide?",
+                      "yo": "Iru iṣelọpọ ounje wo ni o n jẹkí ọpọlọpọ awọn oksailu kọnkẹẹdi?",
+                      "ig": "Kedu ụdị nri na-emepụta carbon dioxide kacha ukwuu?",
+                      "ha": "Wane irin samar da abinci ne ke haifar da sahihin carbon dioxide mafi yawa?"
+                  },
+                  "options": {
+                      "en": ["Crops like rice and wheat", "Livestock farming", "Fishing and seafood production", "Fruit and vegetable farming"],
+                      "yo": ["Awọn irugbin bi iresi ati wẹt", "Ọgbin ẹran", "Ijọ omi ati iṣelọpọ ẹja", "Ọgbin eso ati ẹfọ"],
+                      "ig": ["Osikapa na ọka", "Ụlọ ọrụ anụmanụ", "Ịkụ azụ na mmepụta azụ", "Ụlọ ọrụ mkpụrụ osisi na akwụkwọ nri"],
+                      "ha": ["Shinkafa da alkama", "Noma dabbobi", "Kifi da samar da abincin ruwa", "Noma kayan lambu da fruits"]
+                  },
+                  "answer": {
+                      "en": "Livestock farming",
+                      "yo": "Ọgbin ẹran",
+                      "ig": "Ụlọ ọrụ anụmanụ",
+                      "ha": "Noma dabbobi"
+                  },
+                  "explanation": {
+                      "en": "Livestock farming, especially cattle, produces a significant amount of methane and carbon dioxide, making it a major contributor to greenhouse gas emissions.",
+                      "yo": "Ọgbin ẹran, paapaa malu, n ṣe ọpọlọpọ methane ati oksailu kọnkẹẹdi, ṣiṣe ni oluranlowo pataki si awọn itujade gaasi ile-igbona.",
+                      "ig": "Ọgbin anụmanụ, ọkachasị anụ ezi, na-emepụta nnukwu methane na carbon dioxide, nke na-eme ka ọ bụrụ otu n'ime ndị na-emepụta gas na-emepụta okpomọkụ ụwa.",
+                      "ha": "Noma dabbobi, musamman shanu, yana samar da babban adadin methane da sahihin carbon dioxide, wanda ke mai da shi babban mai bayar da gudummawa ga fitar da iskar gas."
+                  },
+                  "level": 2
+              },
+              {
+                  "id": "fi-l2-q2",
+                  "question": {
+                      "en": "Which agricultural practice helps reduce carbon emissions in food production?",
+                      "yo": "Iwa ogbin wo ni o n ran lọwọ lati dinku awọn itujade kárbọnu ninu iṣelọpọ ounje?",
+                      "ig": "Kedu omume ugbo na-enyere belata itufu carbon na mmepụta nri?",
+                      "ha": "Wane irin aikin noma ne ke taimakawa wajen rage fitar da sahihin carbon a cikin samar da abinci?"
+                  },
+                  "options": {
+                      "en": ["Intensive monoculture farming", "Agroforestry", "Use of chemical fertilizers", "Water-intensive farming"],
+                      "yo": ["Ọgbin monoculture to n pọ si", "Agroforestry", "Lilo awọn ohun ọgbin kemikali", "Ọgbin ti o nilo omi pupọ"],
+                      "ig": ["Ụgbọ ugbo monoculture na-emepụta ọtụtụ nri", "Agroforestry", "Ịrụ ọrụ na ọgwụgwọ kemịkalụ", "Ugbo nke na-achọkarị mmiri"],
+                      "ha": ["Noman monoculture mai yawa", "Agroforestry", "Amfani da taki na sinadarai", "Noman da ke amfani da ruwa mai yawa"]
+                  },
+                  "answer": {
+                      "en": "Agroforestry",
+                      "yo": "Agroforestry",
+                      "ig": "Agroforestry",
+                      "ha": "Agroforestry"
+                  },
+                  "explanation": {
+                      "en": "Agroforestry involves integrating trees into farming systems, which helps absorb carbon dioxide, reduce soil erosion, and maintain biodiversity.",
+                      "yo": "Agroforestry ni imulo ti o ni itumọ ti fifi awọn igi sinu awọn ọna ogbin, eyi ti o n ran lati mu oksailu kọnkẹẹdi, dinku ero ilẹ, ati ṣetọju awọn irugbin ẹda.",
+                      "ig": "Agroforestry bụ ịkekọrịta osisi na usoro ugbo, nke na-enyere aka ịwụnye carbon dioxide, belata mmerụ ala, na ịnọgide na-enwe ọdịiche nke ndụ.",
+                      "ha": "Agroforestry yana hada itatu da bishiyoyi cikin tsarin noma, wanda ke taimakawa wajen sha sahihin carbon dioxide, rage ambaliya, da kuma kula da bambancin halittu."
+                  },
+                  "level": 2
+              },
+              {
+                  "id": "fi-l2-q3",
+                  "question": {
+                      "en": "What is the environmental impact of food transport on carbon emissions?",
+                      "yo": "Kini ipa ayika ti gbigbe ounje lori awọn itujade kárbọnu?",
+                      "ig": "Gịnị bụ mmetụta gburugburu ebe obibi nke njem nri na itufu carbon?",
+                      "ha": "Me ya sa tafiye-tafiye abinci zai iya shafar fitar da sahihin carbon?"
+                  },
+                  "options": {
+                      "en": ["It increases carbon emissions due to fuel consumption", "It reduces carbon emissions by using electric vehicles", "It has no impact on carbon emissions", "It helps capture carbon emissions from food packaging"],
+                      "yo": ["O pọ si awọn itujade kárbọnu nitori lilo epo", "O dinku awọn itujade kárbọnu nipa lilo awọn ọkọ ayọkẹlẹ itanna", "Ko ni ipa lori awọn itujade kárbọnu", "O n ṣe iranlọwọ lati mu awọn itujade kárbọnu lati inu apoti ounje"],
+                      "ig": ["Ọ na-abawanye itufu carbon n'ihi iji mmanụ", "Ọ na-ebelata itufu carbon site n'iji ụgbọ ala eletrik", "Ọ naghị enwe mmetụta na itufu carbon", "Ọ na-enyere ị nweta itufu carbon site na akpa nri"],
+                      "ha": ["Yana ƙara sahihin carbon saboda amfani da man fetur", "Yana rage sahihin carbon ta amfani da motoci masu amfani da wutar lantarki", "Bai da tasiri akan sahihin carbon", "Yana taimakawa wajen kama sahihin carbon daga cikin marufi na abinci"]
+                  },
+                  "answer": {
+                      "en": "It increases carbon emissions due to fuel consumption",
+                      "yo": "O pọ si awọn itujade kárbọnu nitori lilo epo",
+                      "ig": "Ọ na-abawanye itufu carbon n'ihi iji mmanụ",
+                      "ha": "Yana ƙara sahihin carbon saboda amfani da man fetur"
+                  },
+                  "explanation": {
+                      "en": "Transporting food requires fuel, which contributes to carbon emissions through the burning of fossil fuels.",
+                      "yo": "Gbigbe ounje nilo epo, eyi ti o n ṣe iranlọwọ si awọn itujade kárbọnu nipasẹ idalẹnu epo fosaili.",
+                      "ig": "Ije ozi nri chọrọ mmanụ, nke na-enyere aka itufu carbon site na ọkụ nke mmanụ fossil.",
+                      "ha": "Tafiye-tafiye abinci yana buƙatar amfani da man fetur, wanda ke haifar da sahihin carbon ta hanyar konewar man fetur."
+                  },
+                  "level": 2
+              }
+          ],
+          "level_3": [
+              {
+                  "id": "fi-l3-q1",
+                  "question": {
+                      "en": "How does food waste contribute to carbon emissions?",
+                      "yo": "Bawo ni isọnu ounje ṣe n ṣe iranlọwọ si awọn itujade kárbọnu?",
+                      "ig": "Olee otú nkụcha nri si na-enyere aka na itufu carbon?",
+                      "ha": "Ta yaya ɓata abinci ke taimakawa wajen haifar da sahihin carbon?"
+                  },
+                  "options": {
+                      "en": ["Food waste generates methane in landfills", "Food waste reduces carbon emissions", "Food waste has no impact on carbon emissions", "Food waste is biodegradable and does not emit gases"],
+                      "yo": ["Isọnu ounje n ṣe iṣelọpọ methane ninu ibi idasilẹ", "Isọnu ounje n dinku awọn itujade kárbọnu", "Isọnu ounje ko ni ipa lori awọn itujade kárbọnu", "Isọnu ounje jẹ ohun elo ti a le ya ati ko tu awọn gaasi silẹ"],
+                      "ig": ["Nkwụcha nri na-emepụta methane na ebe mkpofu", "Nkwụcha nri na-ebelata itufu carbon", "Nkwụcha nri anaghị enwe mmetụta na itufu carbon", "Nkwụcha nri bụ ihe nwere ike idozi ma ọ naghị emepụta gas"],
+                      "ha": ["Tossan abinci yana samar da methane a cikin wuraren shara", "Tossan abinci yana rage sahihin carbon", "Tossan abinci ba ya shafar sahihin carbon", "Tossan abinci yana iya rushewa kuma ba ya fitar da gasa"]
+                  },
+                  "answer": {
+                      "en": "Food waste generates methane in landfills",
+                      "yo": "Isọnu ounje n ṣe iṣelọpọ methane ninu ibi idasilẹ",
+                      "ig": "Nkwụcha nri na-emepụta methane na ebe mkpofu",
+                      "ha": "Tossan abinci yana samar da methane a cikin wuraren shara"
+                  },
+                  "explanation": {
+                      "en": "When food waste decomposes in landfills, it produces methane, a potent greenhouse gas that contributes to climate change.",
+                      "yo": "Nigbati isọnu ounje ba ti wa ni ibi idasilẹ, o n ṣe iṣelọpọ methane, gaasi ile-igbona ti o lagbara ti o n ṣe iranlọwọ si iyipada oju-ọjọ.",
+                      "ig": "Mgbe nkụcha nri na-emepe na ebe mkpofu, ọ na-emepụta methane, gas na-akpali ọkụ nke na-enyere aka na mgbanwe ihu igwe.",
+                      "ha": "Idan abinci yana rushewa a cikin wuraren shara yana samar da methane, wani gas mai ƙarfi wanda ke taimakawa wajen canjin yanayi."
+                  },
+                  "level": 3
+              },
+              {
+                  "id": "fi-l3-q2",
+                  "question": {
+                      "en": "Which of these diets has the smallest carbon footprint?",
+                      "yo": "Iru ounje wo ni o ni ẹsẹ kárbọnu to kere ju?",
+                      "ig": "Kedu nri nke a nwere carbon footprint kacha nta?",
+                      "ha": "Wane irin abinci ne ke da sahihin carbon mafi ƙanƙanta?"
+                  },
+                  "options": {
+                      "en": ["A plant-based diet", "A meat-heavy diet", "A diet high in processed foods", "A mixed diet with lots of dairy products"],
+                      "yo": ["Ounjẹ ti o da lori awọn irugbin", "Ounjẹ to kun fun ẹran", "Ounjẹ ti o ni awọn ounjẹ ti a ṣe ilana", "Ounjẹ apapọ pẹlu ọpọlọpọ awọn ọja wara"],
+                      "ig": ["Nri sitere na osisi", "Nri nwere anụ", "Nri nwere nri emere", "Nri nchịkọta nwere ọtụtụ ngwaahịa dairy"],
+                      "ha": ["Abinci da aka gina daga shuka", "Abinci mai dauke da nama", "Abinci mai dauke da abinci masu sarrafawa", "Abinci mai dauke da kayayyakin madara"]
+                  },
+                  "answer": {
+                      "en": "A plant-based diet",
+                      "yo": "Ounjẹ ti o da lori awọn irugbin",
+                      "ig": "Nri sitere na osisi",
+                      "ha": "Abinci da aka gina daga shuka"
+                  },
+                  "explanation": {
+                      "en": "Plant-based diets typically have a lower carbon footprint because they require fewer resources, including water and energy, and produce less greenhouse gases.",
+                      "yo": "Ounjẹ ti o da lori awọn irugbin ni a lo lati ni ẹsẹ kárbọnu kekere nitori wọn nilo awọn orisun diẹ, pẹlu omi ati agbara, ati pe wọn n ṣe ipilẹṣẹ gaasi ile-igbona diẹ.",
+                      "ig": "Nri sitere na osisi na-adịkarị na carbon footprint nke nta n'ihi na ha chọrọ obere ihe, gụnyere mmiri na ike, na na-emepụta obere gas na-emepụta okpomọkụ ụwa.",
+                      "ha": "Abinci da aka gina daga shuka yana da sahihin carbon mafi ƙanƙanta saboda suna buƙatar ƙananan albarkatu, ciki har da ruwa da wutar lantarki, kuma suna samar da ƙananan gas masu samar da zafi."
+                  },
+                  "level": 3
+              },
+              {
+                  "id": "fi-l3-q3",
+                  "question": {
+                      "en": "What is the carbon impact of food packaging on the environment?",
+                      "yo": "Kini ipa kárbọnu ti apoti ounje lori ayika?",
+                      "ig": "Kedu mmetụta carbon nke ịkụ nri na gburugburu ebe obibi?",
+                      "ha": "Me ya sa marufin abinci ke haifar da sahihin carbon a cikin muhalli?"
+                  },
+                  "options": {
+                      "en": ["Packaging uses plastic, which contributes to plastic pollution", "Packaging reduces food waste", "Packaging has no impact on carbon emissions", "Packaging helps preserve food for longer periods"],
+                      "yo": ["Apoti nlo pilasitik, eyi ti o n ṣe iranlọwọ si idoti pilasitik", "Apoti n dinku isọnu ounje", "Apoti ko ni ipa lori awọn itujade kárbọnu", "Apoti n ṣe iranlọwọ lati tọju ounje fun igba pipẹ"],
+                      "ig": ["Ngwaahịa eji eme ngwugwu na-eji plastik, nke na-eme ka mmetọ plastik", "Ngwugwu na-ebelata nkụcha nri", "Ngwugwu anaghị enwe mmetụta na itufu carbon", "Ngwugwu na-enyere nchekwa nri maka oge ogologo"],
+                      "ha": ["Marufin yana amfani da filastik, wanda ke taimakawa wajen haifar da gurbatar filastik", "Marufin yana rage ɓata abinci", "Marufin ba ya shafar sahihin carbon", "Marufin yana taimakawa wajen adana abinci na tsawon lokaci"]
+                  },
+                  "answer": {
+                      "en": "Packaging uses plastic, which contributes to plastic pollution",
+                      "yo": "Apoti nlo pilasitik, eyi ti o n ṣe iranlọwọ si idoti pilasitik",
+                      "ig": "Ngwaahịa eji eme ngwugwu na-eji plastik, nke na-eme ka mmetọ plastik",
+                      "ha": "Marufin yana amfani da filastik, wanda ke taimakawa wajen haifar da gurbatar filastik"
+                  },
+                  "explanation": {
+                      "en": "Food packaging often uses plastic, which contributes to plastic waste and pollution, and requires resources to produce, leading to a higher carbon footprint.",
+                      "yo": "Apoti ounje nigbagbogbo nlo pilasitik, eyi ti o n ṣe iranlọwọ si isọnu pilasitik ati idoti, ati pe o nilo awọn orisun lati ṣe, n ṣẹda ẹsẹ kárbọnu ti o ga.",
+                      "ig": "Ngwugwu nri na-eji plastik, nke na-eme ka mmetọ plastik na ụkọ nke ihe, ma na-achọ ihe na-enye nri, na-eme ka carbon footprint dị elu.",
+                      "ha": "Marufin abinci yana amfani da filastik, wanda ke taimakawa wajen gurbatar filastik da buƙatar albarkatu don samar da shi, wanda ke haifar da sahihin carbon mai girma."
+                  },
+                  "level": 3
+              }
+          ]
+      }
+  }
+}

@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/profile.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="user-profile">
+    <!-- Profile Header -->
+    <div class="profile-header">
+        <img src="{{ url_for('static', filename='images/profile.png') }}" 
+             alt="{{ user.username }}" class="avatar">
+        <div class="profile-info">
+            <h1 class="username">{{ user.username }}</h1>
+            <p class="email">{{ user.email }}</p>
+        </div>
+    </div>
+
+    <!-- Profile Stats -->
+    <div class="profile-stats">
+        <div class="stat">
+            <h3>{{ user.points }}</h3>
+            <p>{{ ui_text.get('points') }}</p>
+        </div>
+    </div>
+
+    <!-- Badges Section -->
+    <div class="badges-section">
+        <h2 class="section-title">{{ ui_text.get('achievements') }}</h2>
+
+        {% if badges %}
+        <div class="badges-grid">
+            {% for badge in badges %}
+            <div class="badge">
+                <img src="{{ badge.icon_url }}" alt="{{ badge.name }}" class="badge-icon">
+                <h3 class="badge-name">{{ badge.name }}</h3>
+                <p class="badge-desc">{{ badge.description }}</p>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="no-badges">
+            <i class="fas fa-trophy fa-2x" style="color: #f39c12;"></i>
+            <p>No badges earned yet. Complete challenges to earn your first badge!</p>
+            <a href="{{ url_for('main') }}" class="play-button">Play the Carbon Literacy Game</a>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<!-- Add any specific JavaScript needed for this page -->
+{% endblock %}

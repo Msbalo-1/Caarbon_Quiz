@@ -1,0 +1,13 @@
+test_play_route (test_app.GamePlayTestCase.test_play_route) ... ok
+test_submit_answer_correct (test_app.GamePlayTestCase.test_submit_answer_correct) ... ok
+test_submit_answer_incorrect (test_app.GamePlayTestCase.test_submit_answer_incorrect) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.181s
+
+OK
+
+
+
+
+

@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}Leaderboard{% endblock %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/leaderboard.css') }}">
+{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>{{ ui_text.get('leaderboard') }}</h2>
+    <table class="leaderboard-table">
+        <thead>
+            <tr>
+                <th>{{ ui_text.get("username") }}</th>
+                <th>{{ ui_text.get("points") }}</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if leaderboard %}
+                {% for entry in leaderboard %}
+                    <tr>
+                        <td>{{ entry['username'] }}</td>
+                        <td>{{ entry['points'] }}</td>
+                    </tr>
+                {% endfor %}
+            {% else %}
+                <tr>
+                    <td colspan="2" style="text-align: center; padding: 2rem; color: #7f8c8d;">
+                        No entries yet. Be the first to join the leaderboard!
+                    </td>
+                </tr>
+            {% endif %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

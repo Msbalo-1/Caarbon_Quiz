@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}Game Categories{% endblock %}
+{% block content %}
+<div id="categories-container">
+    <h2> {{ ui_text.get('select_category') }}</h2>
+   
+
+    <div class="category-grid">
+        {% for category, levels in categories.items() %}
+        <div class="category">
+            <!-- Category Section -->
+            <div class="category-content" onclick="toggleLevels('{{ category }}')">
+                <img src="/static/images/{{ category | lower | replace(' ', '_') }}.png"
+                     alt="{{ category }} Icon"
+                     class="category-icon">
+                <span class="category-name">{{  ui_text.get(category) }}</span>
+            </div>
+            <!-- Level Buttons -->
+            <div id="{{ category }}" class="levels hidden">
+                {% for level in levels %}
+                <button class="level-btn" onclick="startGame('{{ category }}', '{{ level }}')">{{ui_text.get(level, level.replace('_', ' ')) }} </button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/categories.css') }}">
+</div>
+
+<script>
+    // Redirect to the play route when a level is clicked
+    function startGame(category, level) {
+        const encodedCategory = encodeURIComponent(category);
+        const encodedLevel = encodeURIComponent(level);
+
+        // Show loading spinner
+        const loading = document.createElement('div');
+        loading.textContent = 'Loading...';
+        loading.className = 'loading-indicator';
+        document.body.appendChild(loading);
+
+        // Navigate to the play route
+        window.location.href = `/play/${encodedCategory}/${encodedLevel}`;
+    }
+
+    // Show or hide levels when a category is clicked
+    function toggleLevels(category) {
+        const allLevels = document.querySelectorAll('.levels');
+        allLevels.forEach(levelDiv => {
+            if (levelDiv.id !== category) {
+                levelDiv.classList.add('hidden');
+            }
+        });
+
+        const levelDiv = document.getElementById(category);
+        levelDiv.classList.toggle('hidden');
+    }
+</script>
+{% endblock %}

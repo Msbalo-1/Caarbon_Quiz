@@ -1,0 +1,264 @@
+{
+  "categories": {
+      "energy_consumption": {
+          "level_1": [
+              {
+                  "id": "ec-l1-q1",
+                  "question": {
+                      "en": "What is renewable energy?",
+                      "yo": "Kini agbara atunlo?",
+                      "ig": "Kedu ihe bụ ume nwere ike ịzọpụta?",
+                      "ha": "Menene makamancin wutar lantarki?"
+                  },
+                  "options": {
+                      "en": ["Energy that comes from natural sources", "Energy from fossil fuels", "Energy from non-renewable resources", "Energy that is imported"],
+                      "yo": ["Agbara ti o wa lati awọn orisun adayeba", "Agbara lati awọn orisun epo", "Agbara lati awọn orisun ti kii ṣe atunlo", "Agbara ti a gbe wọle"],
+                      "ig": ["Ume si na-apụta n'ọtụtụ nke ihe ndị sitere n'okike", "Ume sitere na mmanụ ụlọ", "Ume sitere na ihe ndị na-adịghị nwere ike ịzọpụta", "Ume nke a na-ebupụ"],
+                      "ha": ["Makamanin wuta wanda yake fitowa daga tushen halitta", "Makamanin wuta daga man fetur", "Makamanin wuta daga hanyoyin da ba za a iya sabunta su ba", "Makamanin wuta wanda aka shigo da shi"]
+                  },
+                  "answer": {
+                      "en": "Energy that comes from natural sources",
+                      "yo": "Agbara ti o wa lati awọn orisun adayeba",
+                      "ig": "Ume si na-apụta n'ọtụtụ nke ihe ndị sitere n'okike",
+                      "ha": "Makamanin wuta wanda yake fitowa daga tushen halitta"
+                  },
+                  "explanation": {
+                      "en": "Renewable energy is derived from natural sources like the sun, wind, and water, which are replenishable and sustainable.",
+                      "yo": "Agbara atunlo ni a gba lati awọn orisun adayeba bii oorun, afẹfẹ, ati omi, eyiti o tun le tunṣe ati wa ni aabo.",
+                      "ig": "Ume nwere ike ịzọpụta bụ nke sitere na orisun ndị dị ka anyanwụ, ikuku, na mmiri, nke nwere ike ịkụziri na nke a pụrụ iche.",
+                      "ha": "Makamancin wutar lantarki yana fitowa daga tushen halitta kamar rana, iska, da ruwa wanda aka sabunta kuma mai dorewa."
+                  },
+                  "level": 1
+              },
+              {
+                  "id": "ec-l1-q2",
+                  "question": {
+                      "en": "Which of the following is a non-renewable energy source?",
+                      "yo": "Ewo ni awọn orisun agbara ti kii ṣe atunlo ninu eyi?",
+                      "ig": "Kedu nke bụ orisun ume na-adịghị nwere ike ịzọpụta?",
+                      "ha": "Wanne daga cikin wadannan shine tushen makamancin wuta wanda ba zai iya sabuntawa ba?"
+                  },
+                  "options": {
+                      "en": ["Solar energy", "Wind energy", "Coal", "Hydropower"],
+                      "yo": ["Agbara oorun", "Agbara afẹfẹ", "Ẹyẹ", "Agbara omi"],
+                      "ig": ["Ume anyanwụ", "Ume ikuku", "Ebe ọwụwa", "Agba mmiri"],
+                      "ha": ["Makamanin rana", "Makamanin iska", "Kwal", "Hadin ruwa"]
+                  },
+                  "answer": {
+                      "en": "Coal",
+                      "yo": "Ẹyẹ",
+                      "ig": "Ebe ọwụwa",
+                      "ha": "Kwal"
+                  },
+                  "explanation": {
+                      "en": "Coal is a non-renewable energy source, meaning it cannot be replenished once it is exhausted.",
+                      "yo": "Ẹyẹ jẹ orisun agbara ti kii ṣe atunlo, eyi ti o tumọ si pe a ko le tun gba rẹ lẹẹkansi lẹẹkan ti o ba pari.",
+                      "ig": "Ebe ọwụwa bụ orisun ume na-adịghị nwere ike ịzọpụta, nke pụtara na ọ gaghị abịarute mgbe ọ na-agwụ.",
+                      "ha": "Kwal wani tushen makamancin wuta ne wanda ba za a iya sabunta shi ba, wato ba zai iya dawo da kansa bayan an gama shi ba."
+                  },
+                  "level": 1
+              },
+              {
+                  "id": "ec-l1-q3",
+                  "question": {
+                      "en": "How does energy consumption contribute to climate change?",
+                      "yo": "Bawo ni iṣakoso agbara ṣe n ṣe iranlọwọ si iyipada oju-ọjọ?",
+                      "ig": "Kedu ka iji ume si na-eme ka mgbanwe ihu igwe?",
+                      "ha": "Ta yaya amfani da makamancin wuta ke taimakawa wajen canjin yanayi?"
+                  },
+                  "options": {
+                      "en": ["It reduces greenhouse gas emissions", "It leads to increased carbon emissions", "It helps in reducing global temperatures", "It has no effect on climate change"],
+                      "yo": ["O dinku awọn itujade gaasi ilẹ-ilẹ", "O ja si ilosoke ninu awọn itujade kárbọnu", "O ṣe iranlọwọ lati dinku awọn iwọn otutu agbaye", "Ko ni ipa lori iyipada oju-ọjọ"],
+                      "ig": ["Ọ na-ebelata itujade gas nke ụlọ elu", "Ọ na-ebute itufu carbon dioxide", "Ọ na-enyere aka ịbelata okpomọkụ ụwa", "Ọ nweghị mmetụta na mgbanwe ihu igwe"],
+                      "ha": ["Yana rage fitar da iskar gas mai ƙonewa", "Yana haifar da ƙaruwa fitar da iskar carbon", "Yana taimakawa wajen rage zafin duniya", "Bai yi tasiri ga canjin yanayi ba"]
+                  },
+                  "answer": {
+                      "en": "It leads to increased carbon emissions",
+                      "yo": "O ja si ilosoke ninu awọn itujade kárbọnu",
+                      "ig": "Ọ na-ebute itufu carbon dioxide",
+                      "ha": "Yana haifar da ƙaruwa fitar da iskar carbon"
+                  },
+                  "explanation": {
+                      "en": "Energy consumption, especially from fossil fuels like coal and oil, leads to the release of greenhouse gases, contributing to global warming and climate change.",
+                      "yo": "Iṣakoso agbara, paapaa lati awọn orisun epo bii ẹyẹ ati epo, ja si itusilẹ awọn gaasi ilẹ-ilẹ, eyi ti o n ṣe iranlọwọ si igbona agbaye ati iyipada oju-ọjọ.",
+                      "ig": "Iji ume, karịsịa site na orisun mmanụ ụlọ dịka ebe ọwụwa na mmanụ, na-eduga na itusịrị gas nke ụlọ elu, nke na-enyere na ọkụ ụwa na mgbanwe ihu igwe.",
+                      "ha": "Amfani da makamancin wuta, musamman daga man fetur kamar kwal da mai, yana haifar da fitar da iskar gas mai ƙonewa, wanda ke taimakawa wajen dumamar duniya da canjin yanayi."
+                  },
+                  "level": 1
+              }
+          ],
+          "level_2": [
+              {
+                  "id": "ec-l2-q1",
+                  "question": {
+                      "en": "Which of the following is a major source of renewable energy in Nigeria?",
+                      "yo": "Ewo ninu awọn wọnyi ni orisun pataki ti agbara atunlo ni Naijiria?",
+                      "ig": "Kedu nke bụ isi orisun ume nwere ike ịzọpụta na Naịjịrịa?",
+                      "ha": "Wanne daga cikin wadannan shine babban tushen makamancin wuta a Najeriya?"
+                  },
+                  "options": {
+                      "en": ["Solar energy", "Coal", "Natural gas", "Nuclear energy"],
+                      "yo": ["Agbara oorun", "Ẹyẹ", "Gesi adayeba", "Agbara adayeba"],
+                      "ig": ["Ume anyanwụ", "Ebe ọwụwa", "Gesi nke a na-ahụkarị", "Ume nke a na-eme n'ụlọ ọrụ"],
+                      "ha": ["Makamanin rana", "Kwal", "Gas ɗin halitta", "Makamanin nukiliya"]
+                  },
+                  "answer": {
+                      "en": "Solar energy",
+                      "yo": "Agbara oorun",
+                      "ig": "Ume anyanwụ",
+                      "ha": "Makamanin rana"
+                  },
+                  "explanation": {
+                      "en": "Solar energy is one of the major sources of renewable energy in Nigeria, especially in the northern regions where sunlight is abundant.",
+                      "yo": "Agbara oorun jẹ ọkan ninu awọn orisun pataki ti agbara atunlo ni Naijiria, paapaa ni awọn agbegbe ariwa nibiti imọlẹ oorun pọ.",
+                      "ig": "Ume anyanwụ bụ otu n'ime isi orisun ume nwere ike ịzọpụta na Naịjịrịa, karịsịa na mpaghara ugwu ebe anyanwụ na-apụta nke ukwuu.",
+                      "ha": "Makamanin rana shine daya daga cikin manyan tushen makamancin wuta a Najeriya, musamman a arewacin kasar inda rana take yawan fitowa."
+                  },
+                  "level": 2
+              },
+              {
+                  "id": "ec-l2-q2",
+                  "question": {
+                      "en": "How can energy-efficient appliances help reduce energy consumption?",
+                      "yo": "Bawo ni awọn ohun elo agbara-ṣiṣẹ to dara ṣe le ranlọwọ lati dinku iṣakoso agbara?",
+                      "ig": "Kedu ka ngwaọrụ nke nwere ike ịrụ ọrụ nke ọma si enyere belata iji ume?",
+                      "ha": "Ta yaya kayan aikin da ke da amfani mai kyau zai taimaka wajen rage amfani da makamancin wuta?"
+                  },
+                  "options": {
+                      "en": ["They use less power", "They produce more waste", "They consume more energy", "They are more expensive"],
+                      "yo": ["Wọn lo agbara diẹ", "Wọn ṣe agbára diẹ sii", "Wọn nlo agbara diẹ sii", "Wọn jẹ olowo poku"],
+                      "ig": ["Ha na-eji ume pere", "Ha na-emepụta oke mkpofu", "Ha na-eji ume nke ukwuu", "Ha bụ ndị na-eri ego"],
+                      "ha": ["Suna amfani da ƙaramin wuta", "Suna ƙara ƙirƙirar shara", "Suna amfani da makamancin wuta da yawa", "Suna da tsada"]
+                  },
+                  "answer": {
+                      "en": "They use less power",
+                      "yo": "Wọn lo agbara diẹ",
+                      "ig": "Ha na-eji ume pere",
+                      "ha": "Suna amfani da ƙaramin wuta"
+                  },
+                  "explanation": {
+                      "en": "Energy-efficient appliances are designed to use less electricity, which helps reduce overall energy consumption and lower bills.",
+                      "yo": "Awọn ohun elo agbara-ṣiṣẹ to dara ni a ṣe lati lo ina diẹ, eyi ti o n ranlọwọ lati dinku iṣakoso agbara lapapọ ati awọn owo-owo.",
+                      "ig": "Ngwaọrụ nke nwere ike ịrụ ọrụ nke ọma bụ ndị e mere iji jiri ọkụ eletrik pere, nke na-enyere belata iji ume na ọnụ ahịa nke ụgwọ ọkụ.",
+                      "ha": "Kayan aikin da ke da amfani mai kyau an tsara su don amfani da ƙaramin wuta, wanda zai taimaka wajen rage amfani da makamancin wuta da kuma rage kudaden wutar lantarki."
+                  },
+                  "level": 2
+              },
+              {
+                  "id": "ec-l2-q3",
+                  "question": {
+                      "en": "What is the impact of excessive energy consumption on the environment?",
+                      "yo": "Kini ipa ti iṣakoso agbara ti o pọ ju lori ayika?",
+                      "ig": "Kedu ihe bụ mmetụta nke iji ume nke ukwuu na gburugburu ebe obibi?",
+                      "ha": "Menene tasirin amfani da makamancin wuta fiye da kima akan muhalli?"
+                  },
+                  "options": {
+                      "en": ["It reduces pollution", "It causes climate change", "It improves air quality", "It helps in water conservation"],
+                      "yo": ["O dinku idoti", "O fa iyipada oju-ọjọ", "O mu didara afẹfẹ pọ", "O n ṣe iranlọwọ lati fipamọ omi"],
+                      "ig": ["Ọ na-ebelata mmetọ", "Ọ na-eme ka mgbanwe ihu igwe", "Ọ na-eme ka mma ikuku", "Ọ na-enyere aka n'ịchekwa mmiri"],
+                      "ha": ["Yana rage gurbatar da muhalli", "Yana haifar da canjin yanayi", "Yana inganta ingancin iska", "Yana taimakawa wajen adana ruwa"]
+                  },
+                  "answer": {
+                      "en": "It causes climate change",
+                      "yo": "O fa iyipada oju-ọjọ",
+                      "ig": "Ọ na-eme ka mgbanwe ihu igwe",
+                      "ha": "Yana haifar da canjin yanayi"
+                  },
+                  "explanation": {
+                      "en": "Excessive energy consumption, particularly from non-renewable sources, leads to increased carbon emissions, which contribute to climate change and environmental degradation.",
+                      "yo": "Iṣakoso agbara ti o pọ ju, paapaa lati awọn orisun ti kii ṣe atunlo, ja si ilosoke ninu awọn itujade kárbọnu, eyi ti o n ṣe iranlọwọ si iyipada oju-ọjọ ati iparun ayika.",
+                      "ig": "Iji ume nke ukwuu, karịsịa site na orisun ndị na-adịghị nwere ike ịzọpụta, na-eduga na itufu carbon dioxide nke na-enyere aka na mgbanwe ihu igwe na mmebi gburugburu ebe obibi.",
+                      "ha": "Amfani da makamancin wuta fiye da kima, musamman daga tushen da ba za a iya sabunta shi ba, yana haifar da ƙaruwa fitar da iskar carbon wanda ke taimakawa wajen canjin yanayi da lalata muhalli."
+                  },
+                  "level": 2
+              }
+          ],
+          "level_3": [
+              {
+                  "id": "ec-l3-q1",
+                  "question": {
+                      "en": "What is the role of energy storage in renewable energy systems?",
+                      "yo": "Kini ipa ti ipamọ agbara ninu awọn ọna ṣiṣe agbara atunlo?",
+                      "ig": "Kedu ọrụ nke nchekwa ume na usoro ume nke nwere ike ịzọpụta?",
+                      "ha": "Menene rawar da ajiyar makamancin wuta ke takawa a cikin tsarin makamancin wuta?"
+                  },
+                  "options": {
+                      "en": ["It stores energy for future use", "It increases energy production", "It reduces energy costs", "It eliminates the need for energy consumption"],
+                      "yo": ["O pamọ agbara fun lilo iwaju", "O pọ si iṣelọpọ agbara", "O dinku awọn idiyele agbara", "O parẹ iwulo fun lilo agbara"],
+                      "ig": ["Ọ na-echekwa ume maka iji n'ọdịnihu", "Ọ na-eme ka nrụpụta ume too", "Ọ na-ebelata ụgwọ ume", "Ọ na-ewepụ mkpa iji ume"],
+                      "ha": ["Yana adana makamancin wuta domin amfani na gaba", "Yana ƙara samar da makamancin wuta", "Yana rage kudin makamancin wuta", "Yana kawar da buƙatar amfani da makamancin wuta"]
+                  },
+                  "answer": {
+                      "en": "It stores energy for future use",
+                      "yo": "O pamọ agbara fun lilo iwaju",
+                      "ig": "Ọ na-echekwa ume maka iji n'ọdịnihu",
+                      "ha": "Yana adana makamancin wuta domin amfani na gaba"
+                  },
+                  "explanation": {
+                      "en": "Energy storage systems, like batteries, store excess energy produced by renewable sources, ensuring that energy is available when demand is high or when generation is low.",
+                      "yo": "Awọn ọna ṣiṣe ipamọ agbara, bii awọn batiri, pamọ agbara ti o pọ ju ti o ṣelọpọ nipasẹ awọn orisun atunlo, n ṣetọju pe agbara wa nigbati ibeere ba ga tabi nigbati iṣelọpọ ba dinku.",
+                      "ig": "Usoro nchekwa ume, dịka batrị, na-echekwa ume nke na-emepụta site na orisun ume nke nwere ike ịzọpụta, na-eme ka ume dị mgbe a chọrọ ya ma ọ bụ mgbe nrụpụta ume dị ala.",
+                      "ha": "Tsarin adana makamancin wuta, kamar batir, yana adana makamancin wuta da aka samar fiye da kima daga tushen makamancin wuta, yana tabbatar da cewa akwai makamancin wuta idan bukata ta karu ko kuma lokacin da samarwa ke kasa."
+                  },
+                  "level": 3
+              },
+              {
+                  "id": "ec-l3-q2",
+                  "question": {
+                      "en": "What is a smart grid, and how does it contribute to energy conservation?",
+                      "yo": "Kini gridi ọlọgbọn, ati bawo ni o ṣe n ṣe alabapin si ipamọ agbara?",
+                      "ig": "Gịnị bụ smart grid, na kedu ka ọ na-enyere aka n'ịchekwa ume?",
+                      "ha": "Menene smart grid, kuma ta yaya yake taimakawa wajen adana makamancin wuta?"
+                  },
+                  "options": {
+                      "en": ["A technology that allows two-way communication between energy providers and consumers", "A device that stores energy for later use", "A type of renewable energy", "A system that increases energy consumption"],
+                      "yo": ["Ẹrọ kan ti o n gba ibaraẹnisọrọ meji laarin awọn olupese agbara ati awọn onibara", "Ẹrọ ti o pamọ agbara fun lilo nigbamii", "Irisi agbara atunlo", "Eto ti o pọ si lilo agbara"],
+                      "ig": ["Teknụzụ nke na-enye nkwurịta okwu abụọ n'etiti ndị na-enye ume na ndị na-azụ", "Ngwaọrụ nke na-echekwa ume maka iji n'ọdịnihu", "Uru nke ume nke nwere ike ịzọpụta", "Usoro nke na-eme ka iji ume too"],
+                      "ha": ["Fasahar da ke ba da damar sadarwa biyu tsakanin masu samar da makamancin wuta da masu amfani", "Na'urar da ke adana makamancin wuta domin amfani a gaba", "Nau'in makamancin wuta wanda zai iya sabuntawa", "Tsarin da ke ƙara amfani da makamancin wuta"]
+                  },
+                  "answer": {
+                      "en": "A technology that allows two-way communication between energy providers and consumers",
+                      "yo": "Ẹrọ kan ti o n gba ibaraẹnisọrọ meji laarin awọn olupese agbara ati awọn onibara",
+                      "ig": "Teknụzụ nke na-enye nkwurịta okwu abụọ n'etiti ndị na-enye ume na ndị na-azụ",
+                      "ha": "Fasahar da ke ba da damar sadarwa biyu tsakanin masu samar da makamancin wuta da masu amfani"
+                  },
+                  "explanation": {
+                      "en": "A smart grid is an advanced electrical grid that uses digital technology to communicate and manage electricity usage more efficiently, helping with energy conservation.",
+                      "yo": "Gridi ọlọgbọn jẹ gridi itanna ti o ti ni ilọsiwaju ti o lo imọ-ẹrọ oni-nọmba lati ba aṣẹ ati iṣakoso lilo ina ni ọna ti o munadoko diẹ sii, n ṣe iranlọwọ pẹlu ipamọ agbara.",
+                      "ig": "Smart grid bụ usoro ọkụ eletrik dị elu nke na-eji teknụzụ dijitalụ iji nwee nkwurịta okwu na jikwaa iji ọkụ eletrik nke ọma, na-enyere aka n'ịchekwa ume.",
+                      "ha": "Smart grid tsarin wutar lantarki ne mai ci gaba wanda ke amfani da fasahar dijital don sadarwa da kuma sarrafa amfani da wutar lantarki cikin inganci, yana taimakawa wajen adana makamancin wuta."
+                  },
+                  "level": 3
+              },
+              {
+                  "id": "ec-l3-q3",
+                  "question": {
+                      "en": "Why is it important to reduce energy consumption in residential areas?",
+                      "yo": "Kilode ti o fi ṣe pataki lati dinku iṣakoso agbara ni awọn agbegbe ibugbe?",
+                      "ig": "Gịnị mere o ji mkpa iji belata iji ume na mpaghara obibi?",
+                      "ha": "Me ya sa yake da muhimmanci rage amfani da makamancin wuta a yankunan zama?"
+                  },
+                  "options": {
+                      "en": ["To lower electricity bills", "To prevent overproduction of energy", "To protect the environment", "To increase government revenue"],
+                      "yo": ["Lati dinku awọn owo-ina", "Lati dena iṣelọpọ agbara ti o pọ ju", "Lati daabo bo ayika", "Lati pọ si owo-ori ijọba"],
+                      "ig": ["Iji belata ụgwọ ọkụ eletrik", "Iji gbochie nrụpụta ume nke ukwuu", "Iji chekwaa gburugburu ebe obibi", "Iji mee ka ego gọọmenti nwee ike"],
+                      "ha": ["Domin rage kudaden wutar lantarki", "Domin hana samar da makamancin wuta fiye da kima", "Domin kare muhalli", "Domin ƙara kudaden shiga na gwamnati"]
+                  },
+                  "answer": {
+                      "en": "To protect the environment",
+                      "yo": "Lati daabo bo ayika",
+                      "ig": "Iji chekwaa gburugburu ebe obibi",
+                      "ha": "Domin kare muhalli"
+                  },
+                  "explanation": {
+                      "en": "Reducing energy consumption helps to decrease pollution, reduce carbon emissions, and mitigate the negative effects of climate change.",
+                      "yo": "Dinku iṣakoso agbara n ranlọwọ lati dinku idoti, dinku awọn itujade kárbọnu, ati ṣe iranlọwọ lati dinku awọn ipa odi ti iyipada oju-ọjọ.",
+                      "ig": "Ibelata iji ume na-enyere aka belata mmetọ, belata itufu carbon, na ịchịkwa mmetụta ọjọọ nke mgbanwe ihu igwe.",
+                      "ha": "Rage amfani da makamancin wuta yana taimakawa wajen rage gurbatar da muhalli, rage fitar da iskar carbon, da kuma rage mummunan tasirin canjin yanayi."
+                  },
+                  "level": 3
+              }
+          ]
+      }
+  }
+}

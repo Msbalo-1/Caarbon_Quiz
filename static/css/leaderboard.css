@@ -1,0 +1,114 @@
+.card {
+  background-color: rgb(41, 20, 118);
+  padding: 2rem;
+  margin: 2rem auto;
+  max-width: 800px;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+
+/* Leaderboard specific styles */
+.leaderboard-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  margin-top: 1rem;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.leaderboard-table thead {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.leaderboard-table th {
+  padding: 16px;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+}
+
+.leaderboard-table td {
+  padding: 14px 16px;
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+  transition: background-color 0.3s ease;
+}
+
+.leaderboard-table tbody tr:hover {
+  background-color: #eaf6ff;
+  transform: scale(1.01);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease-in-out;
+}
+
+/* Zebra striping */
+.leaderboard-table tbody tr:nth-child(even) {
+  background-color: #f9fbfd;
+}
+
+/* Top 3 highlight styles */
+.leaderboard-table tbody tr:nth-child(1) {
+  background-color: #fff4e5;
+  font-weight: bold;
+}
+.leaderboard-table tbody tr:nth-child(1) td:first-child::before {
+  content: "🥇 ";
+}
+
+.leaderboard-table tbody tr:nth-child(2) {
+  background-color: #e9f7ff;
+  font-weight: bold;
+}
+.leaderboard-table tbody tr:nth-child(2) td:first-child::before {
+  content: "🥈 ";
+}
+
+.leaderboard-table tbody tr:nth-child(3) {
+  background-color: #16132c;
+  font-weight: bold;
+}
+.leaderboard-table tbody tr:nth-child(3) td:first-child::before {
+  content: "🥉 ";
+}
+
+/* Subtle border on all rows */
+.leaderboard-table tbody tr {
+  border-left: 4px solid transparent;
+}
+
+.leaderboard-table tbody tr:nth-child(1) {
+  border-left-color: gold;
+}
+.leaderboard-table tbody tr:nth-child(2) {
+  border-left-color: silver;
+}
+.leaderboard-table tbody tr:nth-child(3) {
+  border-left-color: #cd7f32; /* bronze */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .leaderboard-table {
+    font-size: 0.9rem;
+  }
+
+  .leaderboard-table th,
+  .leaderboard-table td {
+    padding: 10px 8px;
+  }
+}

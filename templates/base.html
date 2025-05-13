@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="{{ current_locale }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Carbon Literacy Game{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
+
+    <style>
+        body {
+            background-image: url("{{ url_for('static', filename='images/background.png') }}");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            position: relative;
+            min-height: 100vh;
+        }
+
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(198, 197, 141, 0.85);
+            z-index: -1;
+        }
+
+        main {
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-logo">
+            <h1>Carbon Literacy Game</h1>
+        </div>
+        <ul class="navbar-links">
+            <li><a href="{{ url_for('index') }}">{{ ui_text.dashboard }}</a></li>
+            <li><a href="{{ url_for('leaderboard') }}">{{ ui_text.leaderboard }}</a></li>
+
+            {% if session.get('user_id') %}
+                <li><a href="{{ url_for('profile') }}">{{ ui_text.profile }}</a></li>
+                <li><a href="{{ url_for('main') }}">{{ ui_text.game }}</a></li>
+                <li><a href="{{ url_for('logout') }}">{{ ui_text.logout }}</a></li>
+            {% else %}
+                <li><a href="{{ url_for('login') }}">{{ ui_text.login }}</a></li>
+            {% endif %}
+        </ul>
+
+        <div class="language-select">
+            <select id="language-select" onchange="changeLanguage(this.value)">
+                <option value="en" {% if current_locale == 'en' %}selected{% endif %}>EN</option>
+                <option value="yo" {% if current_locale == 'yo' %}selected{% endif %}>YO</option>
+                <option value="ig" {% if current_locale == 'ig' %}selected{% endif %}>IG</option>
+                <option value="ha" {% if current_locale == 'ha' %}selected{% endif %}>HA</option>
+            </select>
+        </div>
+    </nav>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <script>
+        function changeLanguage(lang) {
+            fetch(`/change_language/${lang}`, {
+                method: 'GET'
+            }).then(() => {
+                window.location.reload();
+            }).catch(error => {
+                console.error('Error changing language:', error);
+            });
+        }
+    </script>
+</body>
+</html>

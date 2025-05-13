@@ -1,0 +1,261 @@
+{
+  "categories": {
+      "transportation": {
+          "level_1": [
+              {
+                  "id": "t-l1-q1",
+                  "question": {
+                      "en": "Which of these is the least carbon-emitting mode of transportation in Nigeria?",
+                      "yo": "Ewo ninu awọn ọna gbigbe wọnyi ni o kere julọ ni itujade kárbọnu ni Naijiria?",
+                      "ig": "Kedu n’ime ụzọ njem ndị a na-amụpụta carbon nke kacha nta na Naijiria?",
+                      "ha": "Wanne hanyar sufuri ke da mafi karancin fitar da carbon a Najeriya?"
+                  },
+                  "options": {
+                      "en": ["Walking", "Motorcycles", "Tricycles (Keke Napep)", "Buses"],
+                      "yo": ["Rin", "Kẹkẹ", "Kẹkẹ Maruwa", "Bọsi"],
+                      "ig": ["Ịga ije", "Nkeji ụgbọ ala", "Ụgbọala Keke Napep", "Ụgbọ bọsị"],
+                      "ha": ["Tafiya a kafa", "Babur", "Adaidaita sahu (Napep)", "Motar bas"]
+                  },
+                  "answer": {
+                      "en": "Walking",
+                      "yo": "Rin",
+                      "ig": "Ịga ije",
+                      "ha": "Tafiya a kafa"
+                  },
+                  "explanation": {
+                      "en": "Walking produces no carbon emissions, making it the most eco-friendly mode of transportation.",
+                      "yo": "Rin ko gbejade itujade kárbọnu, eyi ti o jẹ ọna gbigbe ti o dara julọ fun ayika.",
+                      "ig": "Ịga ije anaghị emepụta carbon, nke na-eme ka ọ bụrụ ụzọ njem kachasị mma n'ebe nchekwa gburugburu.",
+                      "ha": "Tafiya a kafa ba ta fitar da hayaki mai dumama yanayi, hakan ya sa shi mafi inganci wajen kula da muhalli."
+                  },
+                  "level": 1
+              },
+              {
+                  "id": "t-l1-q2",
+                  "question": {
+                      "en": "What is a key benefit of using public buses instead of private cars in Nigeria?",
+                      "yo": "Kini anfani pataki ti lilo awọn bọsi gbogbo eniyan dipo awọn ọkọ ayọkẹlẹ ti ara ẹni ni Naijiria?",
+                      "ig": "Kedu uru dị mkpa nke iji ụgbọ ala ọha n’ime ụgbọ ala nkeonwe na Naijiria?",
+                      "ha": "Me amfanin amfani da motocin bas na jama'a maimakon na mota ta kashin kai a Najeriya?"
+                  },
+                  "options": {
+                      "en": ["Reduces road traffic", "Increases carbon emissions", "Costs more per person", "Requires more fuel"],
+                      "yo": ["Dinku ijabọ ọna", "Mu itujade kárbọnu pọ si", "Din owo fun eniyan kọọkan", "Nilo epo diẹ sii"],
+                      "ig": ["Na-ebelata mgbago okporo ụzọ", "Na-emepụta carbon karịa", "Na-efu ọnụ dị elu maka mmadụ ọ bụla", "Na-achọkwa mmanụ ọkụ karịa"],
+                      "ha": ["Rage cunkoson hanya", "Karawa fitar hayaki carbon", "Yafi tsada ga mutum daya", "Na bukatar karin mai"]
+                  },
+                  "answer": {
+                      "en": "Reduces road traffic",
+                      "yo": "Dinku ijabọ ọna",
+                      "ig": "Na-ebelata mgbago okporo ụzọ",
+                      "ha": "Rage cunkoson hanya"
+                  },
+                  "explanation": {
+                      "en": "Public buses carry multiple passengers at once, reducing the number of cars on the road and traffic congestion.",
+                      "yo": "Awọn bọsi gbogbo eniyan gbe ọpọlọpọ eniyan ni ẹẹkan, ti o dinku nọmba awọn ọkọ lori ọna ati ijabọ ọna.",
+                      "ig": "Ụgbọ bọsị ọha na-ebuga ọtụtụ ndị njem otu oge, na-ebelata nọmba ụgbọ ala na ụzọ okporo ụzọ.",
+                      "ha": "Motar bas na daukar mutane dayawa a lokaci daya, hakan yana rage cinkoso na motocin kan hanya."
+                  },
+                  "level": 1
+              },
+              {
+                  "id": "t-l1-q3",
+                  "question": {
+                      "en": "Which government policy can significantly reduce transportation emissions in Nigeria?",
+                      "yo": "Eto ijọba wo ni o le dinku awọn itujade gbigbe ni pataki ni Naijiria?",
+                      "ig": "Kedu iwu gọọmentị nwere ike belata mmepụta carbon site n'ụzọ njem nke ukwuu na Naijiria?",
+                      "ha": "Wanne tsari na gwamnati zai iya rage fitar hayaki sufuri sosai a Najeriya?"
+                  },
+                  "options": {
+                      "en": ["Subsidizing electric vehicles", "Increasing fuel subsidies", "Promoting generator sales", "Expanding private car ownership"],
+                      "yo": ["Sísọwo ọkọ ayọkẹlẹ amúnìsọ", "Fifi owo atilẹyin kun epo", "Ifowosowopo tita jenerato", "Fifi awọn ọkọ ayọkẹlẹ ti ara ẹni pọ si"],
+                      "ig": ["Ịkwado ụgbọ ala eletrik", "Ibelata ụgwọ mmanụ ọkụ", "Ịkwalite ire nke generator", "Ịkwalite ịzụ ụgbọ ala nkeonwe"],
+                      "ha": ["Tallafawa motocin lantarki", "Kara tallafin mai", "Inganta siyar da janareta", "Yawaitar mallakar mota ta kashin kai"]
+                  },
+                  "answer": {
+                      "en": "Subsidizing electric vehicles",
+                      "yo": "Sísọwo ọkọ ayọkẹlẹ amúnìsọ",
+                      "ig": "Ịkwado ụgbọ ala eletrik",
+                      "ha": "Tallafawa motocin lantarki"
+                  },
+                  "explanation": {
+                      "en": "Electric vehicles produce no direct emissions and can significantly reduce Nigeria's transportation-related carbon footprint.",
+                      "yo": "Awọn ọkọ ayọkẹlẹ amúnìsọ ko gbejade itujade taara ati pe o le dinku ẹsẹ-kárbọnu ti o ni ibatan si gbigbe ni Naijiria.",
+                      "ig": "Ụgbọ ala eletrik anaghị emepụta ikuku ọkụ ma ọ bụ gas ọkụ ọ bụla, nke nwere ike belata carbon footprint nke ụzọ njem na Naijiria.",
+                      "ha": "Motocin lantarki basa fitar hayaki kai tsaye kuma zasu iya rage sahihin carbon din sufuri sosai a Najeriya."
+                  },
+                  "level": 1
+              }
+          ],
+
+          "level_2": [
+              {
+                  "id": "t-l2-q1",
+                  "question": {
+                      "en": "What is the major cause of air pollution from transportation in Nigeria?",
+                      "yo": "Kini idi pataki ti ìkòkò afẹfẹ lati gbigbe ni Naijiria?",
+                      "ig": "Gịnị bụ isi kpatara mmetọ ikuku sitere na njem na Naijiria?",
+                      "ha": "Menene babban sanadin gurbatar iska daga sufuri a Najeriya?"
+                  },
+                  "options": {
+                      "en": ["Exhaust fumes from buses", "Smoke from open burning of waste", "Carbon emissions from vehicles", "Dust from poorly maintained roads"],
+                      "yo": ["Eròjà ẹfin lati ọdọ awọn bọsi", "Eru eefi lati inu idẹ ẹgbin ti a ṣii", "Itujade kárbọnu lati awọn ọkọ", "Eruku lati awọn ọna ti a ko tọjú daradara"],
+                      "ig": ["Ngwunye ikuku si-esi na ụgbọ bọsị", "Anwụ na-ekpo ọkụ si site na ire ihe ọjọọ", "Itujade carbon site n'ụgbọ ala", "Nsụgharị nke okporo ụzọ dị jụụ na-enweghị ndozi"],
+                      "ha": ["Hayakin iskar da ake fitarwa daga motoci", "Tashin hayaki daga shara da aka kona a bude", "Fitar da carbon daga motocin sufuri", "Tsananin kura daga hanyoyi da ba a gyara sosai ba"]
+                  },
+                  "answer": {
+                      "en": "Carbon emissions from vehicles",
+                      "yo": "Itujade kárbọnu lati awọn ọkọ",
+                      "ig": "Itujade carbon site n'ụgbọ ala",
+                      "ha": "Fitar da carbon daga motocin sufuri"
+                  },
+                  "explanation": {
+                      "en": "Vehicles are a major source of carbon emissions, contributing significantly to air pollution in Nigeria.",
+                      "yo": "Awọn ọkọ ayọkẹlẹ jẹ orisun pataki ti itujade kárbọnu, eyiti o n ṣe alabapin pupọ si ìkòkò afẹfẹ ni Naijiria.",
+                      "ig": "Ụgbọ ala bụ isi iyi nke itujade carbon, nke na-eme ka mmetọ ikuku dị na Naijiria dị ukwuu.",
+                      "ha": "Motocin sufuri suna daga cikin manyan hanyoyin fitar da carbon, suna kara gurbatar iska sosai a Najeriya."
+                  }
+              },
+              {
+                  "id": "t-l2-q2",
+                  "question": {
+                      "en": "What Nigerian city has introduced the use of compressed natural gas (CNG) buses to reduce emissions?",
+                      "yo": "Ilu Naijiria wo ni o ti ṣe ifilọlẹ lilo awọn bọsi gas adayeba ti a compress (CNG) lati dinku itujade?",
+                      "ig": "Kedu obodo Naijiria nke nyere iwu iji bọsị gas a na-agbasa (CNG) belata itujade?",
+                      "ha": "Wanne birnin Najeriya ne ya fara amfani da motocin bas na gas da aka matsa (CNG) don rage fitar da hayaki?"
+                  },
+                  "options": {
+                      "en": ["Abuja", "Lagos", "Port Harcourt", "Kano"],
+                      "yo": ["Abuja", "Eko", "Port Harcourt", "Kano"],
+                      "ig": ["Abuja", "Lagos", "Port Harcourt", "Kano"],
+                      "ha": ["Abuja", "Lagos", "Port Harcourt", "Kano"]
+                  },
+                  "answer": {
+                      "en": "Lagos",
+                      "yo": "Eko",
+                      "ig": "Lagos",
+                      "ha": "Lagos"
+                  },
+                  "explanation": {
+                      "en": "Lagos introduced the use of CNG buses to reduce harmful emissions from public transportation.",
+                      "yo": "Lagos ti ṣe ifilọlẹ lilo awọn bọsi CNG lati dinku awọn itujade iparun lati awọn ọkọ ayọkẹlẹ gbogbo eniyan.",
+                      "ig": "Lagos nyere iwu iji bọsị CNG belata mmeghachi omume ọjọọ nke ụgbọ njem ọha.",
+                      "ha": "Lagos ta fara amfani da motocin bas na gas (CNG) don rage fitar da hayaki mai gurbata."
+                  }
+              },
+              {
+                  "id": "t-l2-q3",
+                  "question": {
+                      "en": "How can carpooling help reduce transportation-related carbon emissions in Nigeria?",
+                      "yo": "Bawo ni pinpin ọkọ ayọkẹlẹ ṣe le ṣe iranlọwọ lati dinku itujade kárbọnu ti o ni ibatan si gbigbe ni Naijiria?",
+                      "ig": "Kedu ka ịkekọrịta ụgbọala nwere ike nyere belata itujade carbon nke metụtara njem na Naijiria?",
+                      "ha": "Ta yaya amfani da mota daya tsakanin mutane zai taimaka rage fitar hayaki carbon a Najeriya?"
+                  },
+                  "options": {
+                      "en": ["It reduces the number of vehicles on the road", "It increases fuel consumption", "It causes more air pollution", "It encourages more private car ownership"],
+                      "yo": ["O dinku nọmba awọn ọkọ ayọkẹlẹ lori ọna", "O pọ si lilo epo", "O mu ìkòkò afẹfẹ pọ si", "O nṣiṣẹ iṣeduro awọn ọkọ ayọkẹlẹ ti ara ẹni"],
+                      "ig": ["Ọ na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ", "Ọ na-agbakwunye mmanụ ọkụ", "Ọ na-eme ka mmetọ ikuku dịkwuo elu", "Ọ na-agbakwụnye itinye ụgbọ ala nkeonwe"],
+                      "ha": ["Yana rage adadin motocin da ke kan hanya", "Yana kara amfani da mai", "Yana kara gurbatar iska", "Yana karfafa mallakar mota ta kashin kai"]
+                  },
+                  "answer": {
+                      "en": "It reduces the number of vehicles on the road",
+                      "yo": "O dinku nọmba awọn ọkọ ayọkẹlẹ lori ọna",
+                      "ig": "Ọ na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ",
+                      "ha": "Yana rage adadin motocin da ke kan hanya"
+                  },
+                  "explanation": {
+                      "en": "Carpooling reduces the number of vehicles on the road, which helps decrease traffic congestion and carbon emissions.",
+                      "yo": "Pinpin ọkọ ayọkẹlẹ dinku nọmba awọn ọkọ lori ọna, eyi ti o ṣe iranlọwọ lati dinku ijabọ ọna ati itujade kárbọnu.",
+                      "ig": "Ịkekọrịta ụgbọala na-ebelata ọnụ ọgụgụ ụgbọ ala na ụzọ, nke na-enyere aka belata mgbago okporo ụzọ na itujade carbon.",
+                      "ha": "Amfani da mota daya yana rage adadin motocin da ke kan hanya, wanda hakan zai taimaka rage cinkoso da fitar da hayaki carbon."
+                  }
+              }
+          ],
+
+          "level_3": [
+              {
+                  "id": "t-l3-q1",
+                  "question": {
+                      "en": "What is the environmental impact of using fossil fuel-powered vehicles in Nigerian cities?",
+                      "yo": "Kini ipa ayika ti lilo awọn ọkọ ti o ni agbara epo-ara ni awọn ilu Naijiria?",
+                      "ig": "Gịnị bụ mmetụta gburugburu ebe obibi nke iji ụgbọ ala nwere ike ike mmịpụta ọkụ na obodo Naijiria?",
+                      "ha": "Menene tasirin muhalli na amfani da motocin da ke amfani da man fetur a cikin garuruwan Najeriya?"
+                  },
+                  "options": {
+                      "en": ["Increases greenhouse gas emissions", "Promotes urban greenery", "Reduces water pollution", "Increases soil fertility"],
+                      "yo": ["O pọ si itujade gaasi ile-itura", "O ṣe agbega igbo ilu", "O dinku idoti omi", "O pọ si ogbin ilẹ"],
+                      "ig": ["Na-eme ka itujade gas greenhouse dịkwuo elu", "Na-eme ka osisi obodo bụrụ nke ọma", "Na-ebelata mmetọ mmiri", "Na-eme ka mmanụ mmiri dịkwuo elu"],
+                      "ha": ["Yana ƙara fitar da hayakin gas greenhouse", "Yana karfafa shukar birane", "Yana rage gurbatar ruwa", "Yana ƙara mummunan gona"]
+                  },
+                  "answer": {
+                      "en": "Increases greenhouse gas emissions",
+                      "yo": "O pọ si itujade gaasi ile-itura",
+                      "ig": "Na-eme ka itujade gas greenhouse dịkwuo elu",
+                      "ha": "Yana ƙara fitar da hayakin gas greenhouse"
+                  },
+                  "explanation": {
+                      "en": "Fossil fuel-powered vehicles emit greenhouse gases like carbon dioxide, which contribute to global warming and environmental degradation.",
+                      "yo": "Awọn ọkọ ti o ni agbara epo-ara n tu awọn gaasi ile-itura bi kárbọnu dioxide, ti o ṣe alabapin si igbelaruge agbaye ati ibajẹ ayika.",
+                      "ig": "Ụgbọ ala nke nwere ike ọkụ na-emepụta gas greenhouse dịka carbon dioxide, nke na-eme ka ụwa na-ekpo ọkụ ma na-emebi gburugburu ebe obibi.",
+                      "ha": "Motocin da ke amfani da man fetur na fitar da hayaki na gas greenhouse kamar carbon dioxide, wanda hakan ke haifar da dumamar duniya da lalacewar muhalli."
+                  }
+              },
+              {
+                  "id": "t-l3-q2",
+                  "question": {
+                      "en": "How can electric vehicles (EVs) contribute to reducing transportation-related carbon emissions in Nigeria?",
+                      "yo": "Bawo ni awọn ọkọ ayọkẹlẹ itanna (EVs) ṣe le ṣe iranlọwọ lati dinku itujade kárbọnu ti o ni ibatan si gbigbe ni Naijiria?",
+                      "ig": "Kedu ka ụgbọ ala eletrik (EVs) nwere ike nyere belata itujade carbon nke metụtara njem na Naijiria?",
+                      "ha": "Ta yaya motocin lantarki (EVs) zai taimaka rage fitar da hayaki carbon daga sufuri a Najeriya?"
+                  },
+                  "options": {
+                      "en": ["They use renewable energy sources", "They increase fuel consumption", "They require more maintenance", "They promote traffic congestion"],
+                      "yo": ["Wọn nlo awọn orisun agbara atunto", "Wọn pọ si lilo epo", "Wọn nilo itọju diẹ sii", "Wọn nṣiṣẹ ìkòkò ijabọ"],
+                      "ig": ["Ha na-eji oru ike na-emegharịgharị", "Ha na-eme ka mmanụ ọkụ dịkwuo elu", "Ha na-achọ nhazi nke ukwuu", "Ha na-eme ka mgbagwoju ụgbọ ala dịkwuo elu"],
+                      "ha": ["Suna amfani da hanyoyin samar da makamashi masu sabuntawa", "Suna ƙara amfani da mai", "Suna buƙatar kulawa mai yawa", "Suna haifar da cinkoson mota"]
+                  },
+                  "answer": {
+                      "en": "They use renewable energy sources",
+                      "yo": "Wọn nlo awọn orisun agbara atunto",
+                      "ig": "Ha na-eji oru ike na-emegharịgharị",
+                      "ha": "Suna amfani da hanyoyin samar da makamashi masu sabuntawa"
+                  },
+                  "explanation": {
+                      "en": "Electric vehicles (EVs) produce little to no emissions when powered by renewable energy sources, helping reduce carbon emissions in transportation.",
+                      "yo": "Awọn ọkọ ayọkẹlẹ itanna (EVs) ko ṣe itujade awọn gaasi, tabi o kere julọ, nigba ti wọn ba ni agbara lati awọn orisun agbara atunto, eyi ti o ṣe iranlọwọ lati dinku itujade kárbọnu ni gbigbe.",
+                      "ig": "Ụgbọ ala eletrik (EVs) anaghị emepụta gas, ma ọ bụ na-emepụta obere, mgbe eji ike sitere na oru ike na-emegharịgharị, na-enyere aka belata itujade carbon na njem.",
+                      "ha": "Motocin lantarki (EVs) suna fitar da ƙanƙara ko kuma babu hayaki yayin da ake amfani da hanyoyin samar da makamashi masu sabuntawa, wanda ke taimakawa rage fitar da hayaki carbon a cikin sufuri."
+                  }
+              },
+              {
+                  "id": "t-l3-q3",
+                  "question": {
+                      "en": "Which transportation policy could Nigeria implement to reduce its carbon footprint in the transport sector?",
+                      "yo": "Ijọba wo ni Naijiria le ṣe lati dinku ẹsẹ-kárbọnu rẹ ninu eka gbigbe?",
+                      "ig": "Kedu iwu nke njem Naijiria nwere ike iweta iji belata ụkpụrụ carbon ha n'ime ngalaba njem?",
+                      "ha": "Wanne dokar sufuri Najeriya zata iya aiwatarwa don rage sahihin carbon a cikin sashen sufuri?"
+                  },
+                  "options": {
+                      "en": ["Subsidize public transportation", "Increase taxes on private cars", "Build more highways", "Encourage more motorcycle use"],
+                      "yo": ["Fi owo-ori silẹ fun gbigbe gbogbo eniyan", "Pọsi owo-ori lori awọn ọkọ ayọkẹlẹ ti ara ẹni", "Kọ awọn ọna ọkọ ayọkẹlẹ diẹ sii", "Ṣe agbega lilo awọn kẹkẹ keke"],
+                      "ig": ["Kwadoro njem ọha", "Gbatịa ụtụ isi na ụgbọ ala nkeonwe", "Wulite ọtụtụ ụzọ ụgbọala", "Gbalịsie ike iji okpukpu moto"],
+                      "ha": ["Goƙa sabbin hanyoyin sufuri na jama'a", "Kara haraji kan motocin kashin kai", "Gina ƙarin hanyoyin mota", "Karfafawa amfani da kekunan tafi"]
+                  },
+                  "answer": {
+                      "en": "Subsidize public transportation",
+                      "yo": "Fi owo-ori silẹ fun gbigbe gbogbo eniyan",
+                      "ig": "Kwadoro njem ọha",
+                      "ha": "Goƙa sabbin hanyoyin sufuri na jama'a"
+                  },
+                  "explanation": {
+                      "en": "By subsidizing public transportation, Nigeria can encourage more people to use buses and trains instead of private vehicles, reducing carbon emissions.",
+                      "yo": "Nipa fi owo-ori silẹ fun gbigbe gbogbo eniyan, Naijiria le ṣe agbega lilo awọn bọsi ati awọn ọkọ oju-irin ju awọn ọkọ ayọkẹlẹ ti ara ẹni lọ, eyi ti yoo dinku itujade kárbọnu.",
+                      "ig": "Site na-akwado njem ọha, Naijiria nwere ike ịkwado ndị mmadụ iji bọsị na ụgbọ oloko kama ịnyịnya ụgbọ ala nkeonwe, belata itujade carbon.",
+                      "ha": "Ta hanyar goƙa sabbin hanyoyin sufuri na jama'a, Najeriya na iya ƙarfafa mutane da dama suyi amfani da bas da jiragen ƙasa maimakon motocin kashin kai, wanda zai rage fitar da hayaki carbon."
+                  }
+              }
+          ]
+
+      }
+  }
+}

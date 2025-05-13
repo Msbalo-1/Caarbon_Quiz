@@ -1,0 +1,1044 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Kini 'ẹsẹ-kárbọnu' ṣe iwọn?"
+msgstr "Iwọn oksailu kọnkẹẹdi ti a tu silẹ"
+
+msgid "Iwọn atẹgun ti a ṣejade"
+msgstr "Iwọn atẹgun ti a ṣejade"
+
+msgid "Iwọn oksailu kọnkẹẹdi ti a tu silẹ"
+msgstr "Iwọn oksailu kọnkẹẹdi ti a tu silẹ"
+
+msgid "Ipele otutu agbaye"
+msgstr "Ipele otutu agbaye"
+
+msgid "Nọmba awọn ohun ọgbin lori ilẹ"
+msgstr "Nọmba awọn ohun ọgbin lori ilẹ"
+
+msgid ""
+"Ẹsẹ-kárbọnu ṣe iwọn lapapọ awọn itujade oksailu kọnkẹẹdi ti eniyan tabi iṣẹ "
+"ṣe."
+msgstr ""
+"Ẹsẹ-kárbọnu ṣe iwọn lapapọ awọn itujade oksailu kọnkẹẹdi ti eniyan tabi iṣẹ "
+"ṣe."
+
+msgid ""
+"Ewo ninu awọn wọnyi ni o n ṣe alabapin julọ si itujade kárbọnu ni awọn ile "
+"Naijiria?"
+msgstr "Ìjo igi"
+
+msgid "Ìjo igi"
+msgstr "Ìjo igi"
+
+msgid "Agbara oorun"
+msgstr "Agbara oorun"
+
+msgid "Agbara afẹfẹ"
+msgstr "Agbara afẹfẹ"
+
+msgid "Agbara omi"
+msgstr "Agbara omi"
+
+msgid ""
+"Ìjo igi jẹ́ ẹ̀kọ́ tí wọ́n máa ń ṣe ni ile Naijiria, ó sì ń tu oksailu "
+"kónkẹẹdi pọ."
+msgstr ""
+"Ìjo igi jẹ́ ẹ̀kọ́ tí wọ́n máa ń ṣe ni ile Naijiria, ó sì ń tu oksailu "
+"kónkẹẹdi pọ."
+
+msgid "Báwo ni gbígbìn igi ṣe le dinku itujade kárbọnu?"
+msgstr "Igi máa ń gbé oksailu kọnkẹẹdi"
+
+msgid "Igi máa ń gbé oksailu kọnkẹẹdi"
+msgstr "Igi máa ń gbé oksailu kọnkẹẹdi"
+
+msgid "Igi máa ń tu oksailu kọnkẹẹdi"
+msgstr "Igi máa ń tu oksailu kọnkẹẹdi"
+
+msgid "Igi máa ń pọ́n ìtànná agbaye"
+msgstr "Igi máa ń pọ́n ìtànná agbaye"
+
+msgid "Igi máa ń tu atẹgun ṣoṣo"
+msgstr "Igi máa ń tu atẹgun ṣoṣo"
+
+msgid ""
+"Igi ṣe iranwọ̀ lodi sí itujade kárbọnu nipa mímu oksailu kọnkẹẹdi gbé ati tú"
+" atẹgun."
+msgstr ""
+"Igi ṣe iranwọ̀ lodi sí itujade kárbọnu nipa mímu oksailu kọnkẹẹdi gbé ati tú"
+" atẹgun."
+
+msgid "Kí ni orísun kárbọnu pàtàkì kan ní àwọn ìlú ńlá Nàìjíríà?"
+msgstr "Ẹ̀rọ ina monamona"
+
+msgid "Ẹ̀rọ ina monamona"
+msgstr "Ẹ̀rọ ina monamona"
+
+msgid "Panẹli oorun"
+msgstr "Panẹli oorun"
+
+msgid "Ìrìn-ajo gbogbo eniyan"
+msgstr "Ìrìn-ajo gbogbo eniyan"
+
+msgid "Gbígbìn igi"
+msgstr "Gbígbìn igi"
+
+msgid ""
+"Ẹ̀rọ ina monamona tí a máa ń lo nígbà tí agbára jẹ̀ aiṣe-dáṣọ̀tọ̀ ń tú "
+"oksailu kọnkẹẹdi ní àwọn ìlú ńlá Nàìjíríà."
+msgstr ""
+"Ẹ̀rọ ina monamona tí a máa ń lo nígbà tí agbára jẹ̀ aiṣe-dáṣọ̀tọ̀ ń tú "
+"oksailu kọnkẹẹdi ní àwọn ìlú ńlá Nàìjíríà."
+
+msgid "Kí ló dé tí sisun àwòkọse di iṣoro nípa itujade kárbọnu ní Nàìjíríà?"
+msgstr "Ó máa ń tú oksailu kọnkẹẹdi"
+
+msgid "Ó máa ń tú oksailu kọnkẹẹdi"
+msgstr "Ó máa ń tú oksailu kọnkẹẹdi"
+
+msgid "Ó mú àwòṣe afẹ́fẹ dara"
+msgstr "Ó mú àwòṣe afẹ́fẹ dara"
+
+msgid "Ó máa ń pamọ́ agbára"
+msgstr "Ó máa ń pamọ́ agbára"
+
+msgid "Ó máa ń dinku àwòkòṣe ilẹ̀"
+msgstr "Ó máa ń dinku àwòkòṣe ilẹ̀"
+
+msgid ""
+"Sisun àwòkọse máa ń tú gaasi tó ṣe ipalara, pẹ̀lú oksailu kọnkẹẹdi, tó ń mú "
+"àpáta ayé bàjẹ́."
+msgstr ""
+"Sisun àwòkọse máa ń tú gaasi tó ṣe ipalara, pẹ̀lú oksailu kọnkẹẹdi, tó ń mú "
+"àpáta ayé bàjẹ́."
+
+msgid "Kí ni ìpa ayé tó yẹ sí àtúnjúwe gasi ní ilé-iṣẹ́ epo Nàìjíríà?"
+msgstr "Ó tú gaasi àwọn ilé-ọjọ́"
+
+msgid "Ó tú gaasi àwọn ilé-ọjọ́"
+msgstr "Ó tú gaasi àwọn ilé-ọjọ́"
+
+msgid "Ó mú ilé ayé dọ́gba"
+msgstr "Ó mú ilé ayé dọ́gba"
+
+msgid "Ó dinku ìdòhò afẹ́fẹ"
+msgstr "Ó dinku ìdòhò afẹ́fẹ"
+
+msgid "Ó mú ilé àwọn ẹranko dàgbà"
+msgstr "Ó mú ilé àwọn ẹranko dàgbà"
+
+msgid ""
+"Àtúnjúwe gasi ní ilé-iṣẹ́ epo Nàìjíríà ń mú àìdá ilé-ọjọ́ kún fún àpáta ayé,"
+" tó ń nípa ayé."
+msgstr ""
+"Àtúnjúwe gasi ní ilé-iṣẹ́ epo Nàìjíríà ń mú àìdá ilé-ọjọ́ kún fún àpáta ayé,"
+" tó ń nípa ayé."
+
+msgid ""
+"Ẹ̀gbọ̀n ọdún àgbà tó ń ṣe àfikún kárbọnu kárí ayé ní Nàìjíríà ni yíyẹ wo?"
+msgstr "Ẹ̀gbẹ́gbọ̀n àti sísun"
+
+msgid "Ẹ̀gbẹ́gbọ̀n àti sísun"
+msgstr "Ẹ̀gbẹ́gbọ̀n àti sísun"
+
+msgid "Àtúnṣẹ ọgbin"
+msgstr "Àtúnṣẹ ọgbin"
+
+msgid "Ọ̀rọ̀ ẹ̀rọ fẹ́sẹ̀fẹ́"
+msgstr "Ọ̀rọ̀ ẹ̀rọ fẹ́sẹ̀fẹ́"
+
+msgid "Àgbẹ́ àyíká"
+msgstr "Àgbẹ́ àyíká"
+
+msgid ""
+"Ẹ̀gbẹ́gbọ̀n àti sísun máa ń tú oksailu kọnkẹẹdi àti gaasi mìíràn tó ṣe "
+"ipalara sí ayé."
+msgstr ""
+"Ẹ̀gbẹ́gbọ̀n àti sísun máa ń tú oksailu kọnkẹẹdi àti gaasi mìíràn tó ṣe "
+"ipalara sí ayé."
+
+msgid "Báwo ni ìbájẹ́ igbó ṣe ń mú kárbọnu pọ̀ síi ní Nàìjíríà?"
+msgstr "Ó dinku igi tó ń wọ́n oksailu kọnkẹẹdi"
+
+msgid "Ó dinku igi tó ń wọ́n oksailu kọnkẹẹdi"
+msgstr "Ó dinku igi tó ń wọ́n oksailu kọnkẹẹdi"
+
+msgid "Ó pọ̀si agbára tí a le tún lo"
+msgstr "Ó pọ̀si agbára tí a le tún lo"
+
+msgid "Ó mú ilẹ̀ ayé pọ̀sí"
+msgstr "Ó mú ilẹ̀ ayé pọ̀sí"
+
+msgid "Ó ṣe agbega oniruru àyíká"
+msgstr "Ó ṣe agbega oniruru àyíká"
+
+msgid ""
+"Ìbájẹ́ igbó máa ń dinku iye igi tó ń wọ́n oksailu kọnkẹẹdi, tó ń mú kárbọnu "
+"pọ̀ sí afẹ́fẹ́."
+msgstr ""
+"Ìbájẹ́ igbó máa ń dinku iye igi tó ń wọ́n oksailu kọnkẹẹdi, tó ń mú kárbọnu "
+"pọ̀ sí afẹ́fẹ́."
+
+msgid "Kí ló dé tí agbára itanna gasi pọ̀ síi ju oorun lọ ní Nàìjíríà?"
+msgstr "Agbára gasi máa ń tú gaasi ilé-ọjọ́ kárí"
+
+msgid "Agbára gasi máa ń tú gaasi ilé-ọjọ́ kárí"
+msgstr "Agbára gasi máa ń tú gaasi ilé-ọjọ́ kárí"
+
+msgid "Agbára oorun máa ń lo ilẹ̀ pọ̀ síi"
+msgstr "Agbára oorun máa ń lo ilẹ̀ pọ̀ síi"
+
+msgid "Agbára gasi ni àtúnṣe diẹ sii"
+msgstr "Agbára gasi ni àtúnṣe diẹ sii"
+
+msgid "Agbára oorun máa ń ṣe agbára diẹ"
+msgstr "Agbára oorun máa ń ṣe agbára diẹ"
+
+msgid ""
+"Agbára itanna gasi máa ń tú gaasi ilé-ọjọ́ pẹ̀lú ìfunpọ̀, gẹ́gẹ́ bí agbára "
+"oorun tó mọ́ àti àtúnṣe."
+msgstr ""
+"Agbára itanna gasi máa ń tú gaasi ilé-ọjọ́ pẹ̀lú ìfunpọ̀, gẹ́gẹ́ bí agbára "
+"oorun tó mọ́ àti àtúnṣe."
+
+msgid ""
+"Ewo ninu awọn ọna gbigbe wọnyi ni o kere julọ ni itujade kárbọnu ni "
+"Naijiria?"
+msgstr "Rin"
+
+msgid "Rin"
+msgstr "Rin"
+
+msgid "Kẹkẹ"
+msgstr "Kẹkẹ"
+
+msgid "Kẹkẹ Maruwa"
+msgstr "Kẹkẹ Maruwa"
+
+msgid "Bọsi"
+msgstr "Bọsi"
+
+msgid ""
+"Rin ko gbejade itujade kárbọnu, eyi ti o jẹ ọna gbigbe ti o dara julọ fun "
+"ayika."
+msgstr ""
+"Rin ko gbejade itujade kárbọnu, eyi ti o jẹ ọna gbigbe ti o dara julọ fun "
+"ayika."
+
+msgid ""
+"Kini anfani pataki ti lilo awọn bọsi gbogbo eniyan dipo awọn ọkọ ayọkẹlẹ ti "
+"ara ẹni ni Naijiria?"
+msgstr "Dinku ijabọ ọna"
+
+msgid "Dinku ijabọ ọna"
+msgstr "Dinku ijabọ ọna"
+
+msgid "Mu itujade kárbọnu pọ si"
+msgstr "Mu itujade kárbọnu pọ si"
+
+msgid "Din owo fun eniyan kọọkan"
+msgstr "Din owo fun eniyan kọọkan"
+
+msgid "Nilo epo diẹ sii"
+msgstr "Nilo epo diẹ sii"
+
+msgid ""
+"Awọn bọsi gbogbo eniyan gbe ọpọlọpọ eniyan ni ẹẹkan, ti o dinku nọmba awọn "
+"ọkọ lori ọna ati ijabọ ọna."
+msgstr ""
+"Awọn bọsi gbogbo eniyan gbe ọpọlọpọ eniyan ni ẹẹkan, ti o dinku nọmba awọn "
+"ọkọ lori ọna ati ijabọ ọna."
+
+msgid "Eto ijọba wo ni o le dinku awọn itujade gbigbe ni pataki ni Naijiria?"
+msgstr "Sísọwo ọkọ ayọkẹlẹ amúnìsọ"
+
+msgid "Sísọwo ọkọ ayọkẹlẹ amúnìsọ"
+msgstr "Sísọwo ọkọ ayọkẹlẹ amúnìsọ"
+
+msgid "Fifi owo atilẹyin kun epo"
+msgstr "Fifi owo atilẹyin kun epo"
+
+msgid "Ifowosowopo tita jenerato"
+msgstr "Ifowosowopo tita jenerato"
+
+msgid "Fifi awọn ọkọ ayọkẹlẹ ti ara ẹni pọ si"
+msgstr "Fifi awọn ọkọ ayọkẹlẹ ti ara ẹni pọ si"
+
+msgid ""
+"Awọn ọkọ ayọkẹlẹ amúnìsọ ko gbejade itujade taara ati pe o le dinku ẹsẹ-"
+"kárbọnu ti o ni ibatan si gbigbe ni Naijiria."
+msgstr ""
+"Awọn ọkọ ayọkẹlẹ amúnìsọ ko gbejade itujade taara ati pe o le dinku ẹsẹ-"
+"kárbọnu ti o ni ibatan si gbigbe ni Naijiria."
+
+msgid "Kini idi pataki ti ìkòkò afẹfẹ lati gbigbe ni Naijiria?"
+msgstr "Itujade kárbọnu lati awọn ọkọ"
+
+msgid "Eròjà ẹfin lati ọdọ awọn bọsi"
+msgstr "Eròjà ẹfin lati ọdọ awọn bọsi"
+
+msgid "Eru eefi lati inu idẹ ẹgbin ti a ṣii"
+msgstr "Eru eefi lati inu idẹ ẹgbin ti a ṣii"
+
+msgid "Itujade kárbọnu lati awọn ọkọ"
+msgstr "Itujade kárbọnu lati awọn ọkọ"
+
+msgid "Eruku lati awọn ọna ti a ko tọjú daradara"
+msgstr "Eruku lati awọn ọna ti a ko tọjú daradara"
+
+msgid ""
+"Awọn ọkọ ayọkẹlẹ jẹ orisun pataki ti itujade kárbọnu, eyiti o n ṣe alabapin "
+"pupọ si ìkòkò afẹfẹ ni Naijiria."
+msgstr ""
+"Awọn ọkọ ayọkẹlẹ jẹ orisun pataki ti itujade kárbọnu, eyiti o n ṣe alabapin "
+"pupọ si ìkòkò afẹfẹ ni Naijiria."
+
+msgid ""
+"Ilu Naijiria wo ni o ti ṣe ifilọlẹ lilo awọn bọsi gas adayeba ti a compress "
+"(CNG) lati dinku itujade?"
+msgstr "Eko"
+
+msgid "Abuja"
+msgstr "Abuja"
+
+msgid "Eko"
+msgstr "Eko"
+
+msgid "Port Harcourt"
+msgstr "Port Harcourt"
+
+msgid "Kano"
+msgstr "Kano"
+
+msgid ""
+"Lagos ti ṣe ifilọlẹ lilo awọn bọsi CNG lati dinku awọn itujade iparun lati "
+"awọn ọkọ ayọkẹlẹ gbogbo eniyan."
+msgstr ""
+"Lagos ti ṣe ifilọlẹ lilo awọn bọsi CNG lati dinku awọn itujade iparun lati "
+"awọn ọkọ ayọkẹlẹ gbogbo eniyan."
+
+msgid ""
+"Bawo ni pinpin ọkọ ayọkẹlẹ ṣe le ṣe iranlọwọ lati dinku itujade kárbọnu ti o"
+" ni ibatan si gbigbe ni Naijiria?"
+msgstr "O dinku nọmba awọn ọkọ ayọkẹlẹ lori ọna"
+
+msgid "O dinku nọmba awọn ọkọ ayọkẹlẹ lori ọna"
+msgstr "O dinku nọmba awọn ọkọ ayọkẹlẹ lori ọna"
+
+msgid "O pọ si lilo epo"
+msgstr "O pọ si lilo epo"
+
+msgid "O mu ìkòkò afẹfẹ pọ si"
+msgstr "O mu ìkòkò afẹfẹ pọ si"
+
+msgid "O nṣiṣẹ iṣeduro awọn ọkọ ayọkẹlẹ ti ara ẹni"
+msgstr "O nṣiṣẹ iṣeduro awọn ọkọ ayọkẹlẹ ti ara ẹni"
+
+msgid ""
+"Pinpin ọkọ ayọkẹlẹ dinku nọmba awọn ọkọ lori ọna, eyi ti o ṣe iranlọwọ lati "
+"dinku ijabọ ọna ati itujade kárbọnu."
+msgstr ""
+"Pinpin ọkọ ayọkẹlẹ dinku nọmba awọn ọkọ lori ọna, eyi ti o ṣe iranlọwọ lati "
+"dinku ijabọ ọna ati itujade kárbọnu."
+
+msgid ""
+"Kini ipa ayika ti lilo awọn ọkọ ti o ni agbara epo-ara ni awọn ilu Naijiria?"
+msgstr "O pọ si itujade gaasi ile-itura"
+
+msgid "O pọ si itujade gaasi ile-itura"
+msgstr "O pọ si itujade gaasi ile-itura"
+
+msgid "O ṣe agbega igbo ilu"
+msgstr "O ṣe agbega igbo ilu"
+
+msgid "O dinku idoti omi"
+msgstr "O dinku idoti omi"
+
+msgid "O pọ si ogbin ilẹ"
+msgstr "O pọ si ogbin ilẹ"
+
+msgid ""
+"Awọn ọkọ ti o ni agbara epo-ara n tu awọn gaasi ile-itura bi kárbọnu "
+"dioxide, ti o ṣe alabapin si igbelaruge agbaye ati ibajẹ ayika."
+msgstr ""
+"Awọn ọkọ ti o ni agbara epo-ara n tu awọn gaasi ile-itura bi kárbọnu "
+"dioxide, ti o ṣe alabapin si igbelaruge agbaye ati ibajẹ ayika."
+
+msgid ""
+"Bawo ni awọn ọkọ ayọkẹlẹ itanna (EVs) ṣe le ṣe iranlọwọ lati dinku itujade "
+"kárbọnu ti o ni ibatan si gbigbe ni Naijiria?"
+msgstr "Wọn nlo awọn orisun agbara atunto"
+
+msgid "Wọn nlo awọn orisun agbara atunto"
+msgstr "Wọn nlo awọn orisun agbara atunto"
+
+msgid "Wọn pọ si lilo epo"
+msgstr "Wọn pọ si lilo epo"
+
+msgid "Wọn nilo itọju diẹ sii"
+msgstr "Wọn nilo itọju diẹ sii"
+
+msgid "Wọn nṣiṣẹ ìkòkò ijabọ"
+msgstr "Wọn nṣiṣẹ ìkòkò ijabọ"
+
+msgid ""
+"Awọn ọkọ ayọkẹlẹ itanna (EVs) ko ṣe itujade awọn gaasi, tabi o kere julọ, "
+"nigba ti wọn ba ni agbara lati awọn orisun agbara atunto, eyi ti o ṣe "
+"iranlọwọ lati dinku itujade kárbọnu ni gbigbe."
+msgstr ""
+"Awọn ọkọ ayọkẹlẹ itanna (EVs) ko ṣe itujade awọn gaasi, tabi o kere julọ, "
+"nigba ti wọn ba ni agbara lati awọn orisun agbara atunto, eyi ti o ṣe "
+"iranlọwọ lati dinku itujade kárbọnu ni gbigbe."
+
+msgid "Ijọba wo ni Naijiria le ṣe lati dinku ẹsẹ-kárbọnu rẹ ninu eka gbigbe?"
+msgstr "Fi owo-ori silẹ fun gbigbe gbogbo eniyan"
+
+msgid "Fi owo-ori silẹ fun gbigbe gbogbo eniyan"
+msgstr "Fi owo-ori silẹ fun gbigbe gbogbo eniyan"
+
+msgid "Pọsi owo-ori lori awọn ọkọ ayọkẹlẹ ti ara ẹni"
+msgstr "Pọsi owo-ori lori awọn ọkọ ayọkẹlẹ ti ara ẹni"
+
+msgid "Kọ awọn ọna ọkọ ayọkẹlẹ diẹ sii"
+msgstr "Kọ awọn ọna ọkọ ayọkẹlẹ diẹ sii"
+
+msgid "Ṣe agbega lilo awọn kẹkẹ keke"
+msgstr "Ṣe agbega lilo awọn kẹkẹ keke"
+
+msgid ""
+"Nipa fi owo-ori silẹ fun gbigbe gbogbo eniyan, Naijiria le ṣe agbega lilo "
+"awọn bọsi ati awọn ọkọ oju-irin ju awọn ọkọ ayọkẹlẹ ti ara ẹni lọ, eyi ti "
+"yoo dinku itujade kárbọnu."
+msgstr ""
+"Nipa fi owo-ori silẹ fun gbigbe gbogbo eniyan, Naijiria le ṣe agbega lilo "
+"awọn bọsi ati awọn ọkọ oju-irin ju awọn ọkọ ayọkẹlẹ ti ara ẹni lọ, eyi ti "
+"yoo dinku itujade kárbọnu."
+
+msgid "Kini iyatọ egbin?"
+msgstr "Ilana ti dida egbin si awọn ẹka"
+
+msgid "Ilana ti dida egbin si awọn ẹka"
+msgstr "Ilana ti dida egbin si awọn ẹka"
+
+msgid "Iṣe ti jijo egbin"
+msgstr "Iṣe ti jijo egbin"
+
+msgid "Iṣe ti atunlo egbin"
+msgstr "Iṣe ti atunlo egbin"
+
+msgid "Iṣẹ ti idasilẹ egbin si awọn ibi idalẹnu"
+msgstr "Iṣẹ ti idasilẹ egbin si awọn ibi idalẹnu"
+
+msgid ""
+"Iyatọ egbin jẹ ilana ti dida awọn ohun elo egbin si awọn ẹka oriṣiriṣi bii "
+"plastiki, irin, egbin ti ara, ati bẹbẹ lọ."
+msgstr ""
+"Iyatọ egbin jẹ ilana ti dida awọn ohun elo egbin si awọn ẹka oriṣiriṣi bii "
+"plastiki, irin, egbin ti ara, ati bẹbẹ lọ."
+
+msgid "Ewo ninu awọn ohun elo wọnyi ni o le bajẹ?"
+msgstr "Pepa"
+
+msgid "Plastiki"
+msgstr "Plastiki"
+
+msgid "Gilasi"
+msgstr "Gilasi"
+
+msgid "Pepa"
+msgstr "Pepa"
+
+msgid "Irin"
+msgstr "Irin"
+
+msgid ""
+"Pepa jẹ ti o le bajẹ, ti o tumọ si pe o le fọ ara rẹ ni ọna adayeba nipasẹ "
+"awọn ilana ti awọn ẹda, ni idakeji si plastiki tabi irin."
+msgstr ""
+"Pepa jẹ ti o le bajẹ, ti o tumọ si pe o le fọ ara rẹ ni ọna adayeba nipasẹ "
+"awọn ilana ti awọn ẹda, ni idakeji si plastiki tabi irin."
+
+msgid "Kini ibi-afẹde pataki ti atunlo?"
+msgstr "Lati dinku egbin ati fipamọ awọn orisun"
+
+msgid "Lati dinku egbin ati fipamọ awọn orisun"
+msgstr "Lati dinku egbin ati fipamọ awọn orisun"
+
+msgid "Lati ṣẹda idoti diẹ sii"
+msgstr "Lati ṣẹda idoti diẹ sii"
+
+msgid "Lati jo egbin diẹ sii"
+msgstr "Lati jo egbin diẹ sii"
+
+msgid "Lati jẹ ki awọn ọja ni owo diẹ sii"
+msgstr "Lati jẹ ki awọn ọja ni owo diẹ sii"
+
+msgid ""
+"Atunlo ṣe iranlọwọ lati dinku iye egbin nipa tun-lo awọn ohun elo ati fipamọ"
+" awọn orisun adayeba bi omi ati awọn ohun alumọni."
+msgstr ""
+"Atunlo ṣe iranlọwọ lati dinku iye egbin nipa tun-lo awọn ohun elo ati fipamọ"
+" awọn orisun adayeba bi omi ati awọn ohun alumọni."
+
+msgid "Kini atunlo egbin ti o jẹ unjẹ fun awọn irugbin?"
+msgstr "Yipada egbin ti ara si oje ile-ogbin"
+
+msgid "Yipada egbin ti ara si oje ile-ogbin"
+msgstr "Yipada egbin ti ara si oje ile-ogbin"
+
+msgid "Jijo egbin plastiki"
+msgstr "Jijo egbin plastiki"
+
+msgid "Dasilẹ egbin sinu okun"
+msgstr "Dasilẹ egbin sinu okun"
+
+msgid "Tutu egbin ti ara"
+msgstr "Tutu egbin ti ara"
+
+msgid ""
+"Atunlo egbin ti o jẹ unjẹ fun awọn irugbin jẹ ilana ti yiyipada egbin ti ara"
+" gẹgẹ bi awọn idoti ounje ati egbin ọgba si oje ile-ogbin to ni awọn eroja-"
+"ounje."
+msgstr ""
+"Atunlo egbin ti o jẹ unjẹ fun awọn irugbin jẹ ilana ti yiyipada egbin ti ara"
+" gẹgẹ bi awọn idoti ounje ati egbin ọgba si oje ile-ogbin to ni awọn eroja-"
+"ounje."
+
+msgid "Kini anfani pataki ti atunlo lori ayika?"
+msgstr "O dinku idoti"
+
+msgid "O dinku idoti"
+msgstr "O dinku idoti"
+
+msgid "O pọ si egbin"
+msgstr "O pọ si egbin"
+
+msgid "O pọ si lilo awọn orisun"
+msgstr "O pọ si lilo awọn orisun"
+
+msgid "O fa igbona agbaye"
+msgstr "O fa igbona agbaye"
+
+msgid ""
+"Atunlo ṣe iranlọwọ lati dinku idoti nipa tun-lo awọn ohun elo dipo ki o jẹ "
+"ki wọn parẹ, eyiti o dinku egbin ti yoo pari ni awọn ibi idalẹnu tabi okun."
+msgstr ""
+"Atunlo ṣe iranlọwọ lati dinku idoti nipa tun-lo awọn ohun elo dipo ki o jẹ "
+"ki wọn parẹ, eyiti o dinku egbin ti yoo pari ni awọn ibi idalẹnu tabi okun."
+
+msgid "Kini itumọ ọrọ 'aibikita egbin'?"
+msgstr "Ko ṣe iṣelọpọ eyikeyi egbin rara"
+
+msgid "Ko ṣe iṣelọpọ eyikeyi egbin rara"
+msgstr "Ko ṣe iṣelọpọ eyikeyi egbin rara"
+
+msgid "Ṣiṣẹda egbin diẹ sii ju ti tẹlẹ lọ"
+msgstr "Ṣiṣẹda egbin diẹ sii ju ti tẹlẹ lọ"
+
+msgid "Lilo awọn ohun elo ti o bajẹ nikan"
+msgstr "Lilo awọn ohun elo ti o bajẹ nikan"
+
+msgid "Atunlo gbogbo awọn ohun elo egbin"
+msgstr "Atunlo gbogbo awọn ohun elo egbin"
+
+msgid ""
+"'Aibikita egbin' n tọka si aṣa tabi iṣẹ ti ko ṣe iṣelọpọ egbin rara, pẹlu "
+"ibi-afẹde lati dinku lilo ati atunlo gbogbo awọn ohun elo."
+msgstr ""
+"'Aibikita egbin' n tọka si aṣa tabi iṣẹ ti ko ṣe iṣelọpọ egbin rara, pẹlu "
+"ibi-afẹde lati dinku lilo ati atunlo gbogbo awọn ohun elo."
+
+msgid "Kini ipa ayika ti egbin plastiki?"
+msgstr "O gba ọgọrọ awọn ọdun lati yọ"
+
+msgid "O gba ọgọrọ awọn ọdun lati yọ"
+msgstr "O gba ọgọrọ awọn ọdun lati yọ"
+
+msgid "O ṣe iranlọwọ lati pese ilẹ-ogbin"
+msgstr "O ṣe iranlọwọ lati pese ilẹ-ogbin"
+
+msgid "O rọrun lati ba jẹ"
+msgstr "O rọrun lati ba jẹ"
+
+msgid "O mu idagbasoke irugbin"
+msgstr "O mu idagbasoke irugbin"
+
+msgid ""
+"Egbin plastiki gba ọgọrọ ọdun lati parẹ, eyi ti o ja si idoti ayika igba "
+"pipẹ ati iparun si ẹranko ati ewé."
+msgstr ""
+"Egbin plastiki gba ọgọrọ ọdun lati parẹ, eyi ti o ja si idoti ayika igba "
+"pipẹ ati iparun si ẹranko ati ewé."
+
+msgid "Bawo ni pipin egbin ṣe jẹ anfani fun iṣakoso egbin?"
+msgstr "O jẹ ki atunlo ati itusilẹ to tọ ti awọn oriṣiriṣi egbin"
+
+msgid "O jẹ ki atunlo ati itusilẹ to tọ ti awọn oriṣiriṣi egbin"
+msgstr "O jẹ ki atunlo ati itusilẹ to tọ ti awọn oriṣiriṣi egbin"
+
+msgid "O pọ si iye egbin"
+msgstr "O pọ si iye egbin"
+
+msgid "O dinku oṣuwọn atunlo"
+msgstr "O dinku oṣuwọn atunlo"
+
+msgid "Ko ni ipa lori iṣakoso egbin"
+msgstr "Ko ni ipa lori iṣakoso egbin"
+
+msgid ""
+"Pipin egbin ṣe iranlọwọ lati ya ati pin awọn egbin oriṣiriṣi, ṣiṣe atunlo "
+"ati itusilẹ wọn ni ọna to tọ, eyi ti o dinku idoti."
+msgstr ""
+"Pipin egbin ṣe iranlọwọ lati ya ati pin awọn egbin oriṣiriṣi, ṣiṣe atunlo "
+"ati itusilẹ wọn ni ọna to tọ, eyi ti o dinku idoti."
+
+msgid "Kini ipa ti itusilẹ egbin ti ko tọ lori ilera gbogbogbo?"
+msgstr "O le ja si itankalẹ awọn arun"
+
+msgid "O le ja si itankalẹ awọn arun"
+msgstr "O le ja si itankalẹ awọn arun"
+
+msgid "O mu didara afẹfẹ pọ si"
+msgstr "O mu didara afẹfẹ pọ si"
+
+msgid "O nmu ilera ti ara dara"
+msgstr "O nmu ilera ti ara dara"
+
+msgid "Ko ni ipa lori ilera gbogbogbo"
+msgstr "Ko ni ipa lori ilera gbogbogbo"
+
+msgid ""
+"Itusilẹ egbin ti ko tọ, paapaa ni awọn agbegbe ṣiṣi, le fa awọn kokoro ati "
+"ja si itankalẹ awọn arun bi malaria, cholera, ati typhoid."
+msgstr ""
+"Itusilẹ egbin ti ko tọ, paapaa ni awọn agbegbe ṣiṣi, le fa awọn kokoro ati "
+"ja si itankalẹ awọn arun bi malaria, cholera, ati typhoid."
+
+msgid "Kini agbara atunlo?"
+msgstr "Agbara ti o wa lati awọn orisun adayeba"
+
+msgid "Agbara ti o wa lati awọn orisun adayeba"
+msgstr "Agbara ti o wa lati awọn orisun adayeba"
+
+msgid "Agbara lati awọn orisun epo"
+msgstr "Agbara lati awọn orisun epo"
+
+msgid "Agbara lati awọn orisun ti kii ṣe atunlo"
+msgstr "Agbara lati awọn orisun ti kii ṣe atunlo"
+
+msgid "Agbara ti a gbe wọle"
+msgstr "Agbara ti a gbe wọle"
+
+msgid ""
+"Agbara atunlo ni a gba lati awọn orisun adayeba bii oorun, afẹfẹ, ati omi, "
+"eyiti o tun le tunṣe ati wa ni aabo."
+msgstr ""
+"Agbara atunlo ni a gba lati awọn orisun adayeba bii oorun, afẹfẹ, ati omi, "
+"eyiti o tun le tunṣe ati wa ni aabo."
+
+msgid "Ewo ni awọn orisun agbara ti kii ṣe atunlo ninu eyi?"
+msgstr "Ẹyẹ"
+
+msgid "Agbara oorun"
+msgstr "Agbara oorun"
+
+msgid "Agbara afẹfẹ"
+msgstr "Agbara afẹfẹ"
+
+msgid "Ẹyẹ"
+msgstr "Ẹyẹ"
+
+msgid "Agbara omi"
+msgstr "Agbara omi"
+
+msgid ""
+"Ẹyẹ jẹ orisun agbara ti kii ṣe atunlo, eyi ti o tumọ si pe a ko le tun gba "
+"rẹ lẹẹkansi lẹẹkan ti o ba pari."
+msgstr ""
+"Ẹyẹ jẹ orisun agbara ti kii ṣe atunlo, eyi ti o tumọ si pe a ko le tun gba "
+"rẹ lẹẹkansi lẹẹkan ti o ba pari."
+
+msgid "Bawo ni iṣakoso agbara ṣe n ṣe iranlọwọ si iyipada oju-ọjọ?"
+msgstr "O ja si ilosoke ninu awọn itujade kárbọnu"
+
+msgid "O dinku awọn itujade gaasi ilẹ-ilẹ"
+msgstr "O dinku awọn itujade gaasi ilẹ-ilẹ"
+
+msgid "O ja si ilosoke ninu awọn itujade kárbọnu"
+msgstr "O ja si ilosoke ninu awọn itujade kárbọnu"
+
+msgid "O ṣe iranlọwọ lati dinku awọn iwọn otutu agbaye"
+msgstr "O ṣe iranlọwọ lati dinku awọn iwọn otutu agbaye"
+
+msgid "Ko ni ipa lori iyipada oju-ọjọ"
+msgstr "Ko ni ipa lori iyipada oju-ọjọ"
+
+msgid ""
+"Iṣakoso agbara, paapaa lati awọn orisun epo bii ẹyẹ ati epo, ja si itusilẹ "
+"awọn gaasi ilẹ-ilẹ, eyi ti o n ṣe iranlọwọ si igbona agbaye ati iyipada oju-"
+"ọjọ."
+msgstr ""
+"Iṣakoso agbara, paapaa lati awọn orisun epo bii ẹyẹ ati epo, ja si itusilẹ "
+"awọn gaasi ilẹ-ilẹ, eyi ti o n ṣe iranlọwọ si igbona agbaye ati iyipada oju-"
+"ọjọ."
+
+msgid "Ewo ninu awọn wọnyi ni orisun pataki ti agbara atunlo ni Naijiria?"
+msgstr "Agbara oorun"
+
+msgid "Agbara oorun"
+msgstr "Agbara oorun"
+
+msgid "Ẹyẹ"
+msgstr "Ẹyẹ"
+
+msgid "Gesi adayeba"
+msgstr "Gesi adayeba"
+
+msgid "Agbara adayeba"
+msgstr "Agbara adayeba"
+
+msgid ""
+"Agbara oorun jẹ ọkan ninu awọn orisun pataki ti agbara atunlo ni Naijiria, "
+"paapaa ni awọn agbegbe ariwa nibiti imọlẹ oorun pọ."
+msgstr ""
+"Agbara oorun jẹ ọkan ninu awọn orisun pataki ti agbara atunlo ni Naijiria, "
+"paapaa ni awọn agbegbe ariwa nibiti imọlẹ oorun pọ."
+
+msgid ""
+"Bawo ni awọn ohun elo agbara-ṣiṣẹ to dara ṣe le ranlọwọ lati dinku iṣakoso "
+"agbara?"
+msgstr "Wọn lo agbara diẹ"
+
+msgid "Wọn lo agbara diẹ"
+msgstr "Wọn lo agbara diẹ"
+
+msgid "Wọn ṣe agbára diẹ sii"
+msgstr "Wọn ṣe agbára diẹ sii"
+
+msgid "Wọn nlo agbara diẹ sii"
+msgstr "Wọn nlo agbara diẹ sii"
+
+msgid "Wọn jẹ olowo poku"
+msgstr "Wọn jẹ olowo poku"
+
+msgid ""
+"Awọn ohun elo agbara-ṣiṣẹ to dara ni a ṣe lati lo ina diẹ, eyi ti o n "
+"ranlọwọ lati dinku iṣakoso agbara lapapọ ati awọn owo-owo."
+msgstr ""
+"Awọn ohun elo agbara-ṣiṣẹ to dara ni a ṣe lati lo ina diẹ, eyi ti o n "
+"ranlọwọ lati dinku iṣakoso agbara lapapọ ati awọn owo-owo."
+
+msgid "Kini ipa ti iṣakoso agbara ti o pọ ju lori ayika?"
+msgstr "O fa iyipada oju-ọjọ"
+
+msgid "O dinku idoti"
+msgstr "O dinku idoti"
+
+msgid "O fa iyipada oju-ọjọ"
+msgstr "O fa iyipada oju-ọjọ"
+
+msgid "O mu didara afẹfẹ pọ"
+msgstr "O mu didara afẹfẹ pọ"
+
+msgid "O n ṣe iranlọwọ lati fipamọ omi"
+msgstr "O n ṣe iranlọwọ lati fipamọ omi"
+
+msgid ""
+"Iṣakoso agbara ti o pọ ju, paapaa lati awọn orisun ti kii ṣe atunlo, ja si "
+"ilosoke ninu awọn itujade kárbọnu, eyi ti o n ṣe iranlọwọ si iyipada oju-ọjọ"
+" ati iparun ayika."
+msgstr ""
+"Iṣakoso agbara ti o pọ ju, paapaa lati awọn orisun ti kii ṣe atunlo, ja si "
+"ilosoke ninu awọn itujade kárbọnu, eyi ti o n ṣe iranlọwọ si iyipada oju-ọjọ"
+" ati iparun ayika."
+
+msgid "Kini ipa ti ipamọ agbara ninu awọn ọna ṣiṣe agbara atunlo?"
+msgstr "O pamọ agbara fun lilo iwaju"
+
+msgid "O pamọ agbara fun lilo iwaju"
+msgstr "O pamọ agbara fun lilo iwaju"
+
+msgid "O pọ si iṣelọpọ agbara"
+msgstr "O pọ si iṣelọpọ agbara"
+
+msgid "O dinku awọn idiyele agbara"
+msgstr "O dinku awọn idiyele agbara"
+
+msgid "O parẹ iwulo fun lilo agbara"
+msgstr "O parẹ iwulo fun lilo agbara"
+
+msgid ""
+"Awọn ọna ṣiṣe ipamọ agbara, bii awọn batiri, pamọ agbara ti o pọ ju ti o "
+"ṣelọpọ nipasẹ awọn orisun atunlo, n ṣetọju pe agbara wa nigbati ibeere ba ga"
+" tabi nigbati iṣelọpọ ba dinku."
+msgstr ""
+"Awọn ọna ṣiṣe ipamọ agbara, bii awọn batiri, pamọ agbara ti o pọ ju ti o "
+"ṣelọpọ nipasẹ awọn orisun atunlo, n ṣetọju pe agbara wa nigbati ibeere ba ga"
+" tabi nigbati iṣelọpọ ba dinku."
+
+msgid "Kini gridi ọlọgbọn, ati bawo ni o ṣe n ṣe alabapin si ipamọ agbara?"
+msgstr ""
+"Ẹrọ kan ti o n gba ibaraẹnisọrọ meji laarin awọn olupese agbara ati awọn "
+"onibara"
+
+msgid ""
+"Ẹrọ kan ti o n gba ibaraẹnisọrọ meji laarin awọn olupese agbara ati awọn "
+"onibara"
+msgstr ""
+"Ẹrọ kan ti o n gba ibaraẹnisọrọ meji laarin awọn olupese agbara ati awọn "
+"onibara"
+
+msgid "Ẹrọ ti o pamọ agbara fun lilo nigbamii"
+msgstr "Ẹrọ ti o pamọ agbara fun lilo nigbamii"
+
+msgid "Irisi agbara atunlo"
+msgstr "Irisi agbara atunlo"
+
+msgid "Eto ti o pọ si lilo agbara"
+msgstr "Eto ti o pọ si lilo agbara"
+
+msgid ""
+"Gridi ọlọgbọn jẹ gridi itanna ti o ti ni ilọsiwaju ti o lo imọ-ẹrọ oni-nọmba"
+" lati ba aṣẹ ati iṣakoso lilo ina ni ọna ti o munadoko diẹ sii, n ṣe "
+"iranlọwọ pẹlu ipamọ agbara."
+msgstr ""
+"Gridi ọlọgbọn jẹ gridi itanna ti o ti ni ilọsiwaju ti o lo imọ-ẹrọ oni-nọmba"
+" lati ba aṣẹ ati iṣakoso lilo ina ni ọna ti o munadoko diẹ sii, n ṣe "
+"iranlọwọ pẹlu ipamọ agbara."
+
+msgid ""
+"Kilode ti o fi ṣe pataki lati dinku iṣakoso agbara ni awọn agbegbe ibugbe?"
+msgstr "Lati daabo bo ayika"
+
+msgid "Lati dinku awọn owo-ina"
+msgstr "Lati dinku awọn owo-ina"
+
+msgid "Lati dena iṣelọpọ agbara ti o pọ ju"
+msgstr "Lati dena iṣelọpọ agbara ti o pọ ju"
+
+msgid "Lati daabo bo ayika"
+msgstr "Lati daabo bo ayika"
+
+msgid "Lati pọ si owo-ori ijọba"
+msgstr "Lati pọ si owo-ori ijọba"
+
+msgid ""
+"Dinku iṣakoso agbara n ranlọwọ lati dinku idoti, dinku awọn itujade kárbọnu,"
+" ati ṣe iranlọwọ lati dinku awọn ipa odi ti iyipada oju-ọjọ."
+msgstr ""
+"Dinku iṣakoso agbara n ranlọwọ lati dinku idoti, dinku awọn itujade kárbọnu,"
+" ati ṣe iranlọwọ lati dinku awọn ipa odi ti iyipada oju-ọjọ."
+
+msgid "Iṣọpọ ounje wo ni orisun pataki ti awọn itujade kárbọnu?"
+msgstr "Eranko pupa"
+
+msgid "Eso ati ẹfọ"
+msgstr "Eso ati ẹfọ"
+
+msgid "Iresi ati ewa"
+msgstr "Iresi ati ewa"
+
+msgid "Eranko pupa"
+msgstr "Eranko pupa"
+
+msgid "Awọn irugbin kikun"
+msgstr "Awọn irugbin kikun"
+
+msgid ""
+"Eranko pupa, gẹgẹ bi eran malu, ni ẹsẹ-kárbọnu ti o ga nitori iye nla ti "
+"agbara ti o nilo lati dagbasoke awọn ẹran."
+msgstr ""
+"Eranko pupa, gẹgẹ bi eran malu, ni ẹsẹ-kárbọnu ti o ga nitori iye nla ti "
+"agbara ti o nilo lati dagbasoke awọn ẹran."
+
+msgid ""
+"Bawo ni ounje ti o da lori eweko ṣe iranlọwọ lati dinku awọn itujade "
+"kárbọnu?"
+msgstr "O nilo agbara diẹ lati ṣe"
+
+msgid "O nilo agbara diẹ lati ṣe"
+msgstr "O nilo agbara diẹ lati ṣe"
+
+msgid "O ni iye ounjẹ ti o ga"
+msgstr "O ni iye ounjẹ ti o ga"
+
+msgid "O n ṣe idoti diẹ sii"
+msgstr "O n ṣe idoti diẹ sii"
+
+msgid "O nlo omi diẹ sii lati ṣe"
+msgstr "O nlo omi diẹ sii lati ṣe"
+
+msgid ""
+"Awọn ounje ti o da lori eweko, bii eso, ẹfọ, ati awọn irugbin, nilo agbara "
+"diẹ pupọ lati ṣe ni akawe pẹlu awọn ounje ti o da lori ẹranko."
+msgstr ""
+"Awọn ounje ti o da lori eweko, bii eso, ẹfọ, ati awọn irugbin, nilo agbara "
+"diẹ pupọ lati ṣe ni akawe pẹlu awọn ounje ti o da lori ẹranko."
+
+msgid ""
+"Kilode ti o fi ṣe pataki lati dinku awọn egbin ounje ni ibatan si awọn "
+"itujade kárbọnu?"
+msgstr "Lati dinku ẹsẹ-kárbọnu ti iṣelọpọ ounje"
+
+msgid "Lati dinku ẹsẹ-kárbọnu ti iṣelọpọ ounje"
+msgstr "Lati dinku ẹsẹ-kárbọnu ti iṣelọpọ ounje"
+
+msgid "Lati pọ si wiwa ounje"
+msgstr "Lati pọ si wiwa ounje"
+
+msgid "Lati dinku awọn idiyele ounje"
+msgstr "Lati dinku awọn idiyele ounje"
+
+msgid "Lati dena aito ounje"
+msgstr "Lati dena aito ounje"
+
+msgid ""
+"Ṣiṣe iṣelọpọ ounje nilo agbara ati awọn orisun pataki. Dinku egbin tumọ si "
+"pe awọn orisun diẹ ni a nilo, nitorinaa o dinku awọn itujade kárbọnu ti o ni"
+" ibatan si iṣelọpọ ounje."
+msgstr ""
+"Ṣiṣe iṣelọpọ ounje nilo agbara ati awọn orisun pataki. Dinku egbin tumọ si "
+"pe awọn orisun diẹ ni a nilo, nitorinaa o dinku awọn itujade kárbọnu ti o ni"
+" ibatan si iṣelọpọ ounje."
+
+msgid "Iru iṣelọpọ ounje wo ni o n jẹkí ọpọlọpọ awọn oksailu kọnkẹẹdi?"
+msgstr "Ọgbin ẹran"
+
+msgid "Awọn irugbin bi iresi ati wẹt"
+msgstr "Awọn irugbin bi iresi ati wẹt"
+
+msgid "Ọgbin ẹran"
+msgstr "Ọgbin ẹran"
+
+msgid "Ijọ omi ati iṣelọpọ ẹja"
+msgstr "Ijọ omi ati iṣelọpọ ẹja"
+
+msgid "Ọgbin eso ati ẹfọ"
+msgstr "Ọgbin eso ati ẹfọ"
+
+msgid ""
+"Ọgbin ẹran, paapaa malu, n ṣe ọpọlọpọ methane ati oksailu kọnkẹẹdi, ṣiṣe ni "
+"oluranlowo pataki si awọn itujade gaasi ile-igbona."
+msgstr ""
+"Ọgbin ẹran, paapaa malu, n ṣe ọpọlọpọ methane ati oksailu kọnkẹẹdi, ṣiṣe ni "
+"oluranlowo pataki si awọn itujade gaasi ile-igbona."
+
+msgid ""
+"Iwa ogbin wo ni o n ran lọwọ lati dinku awọn itujade kárbọnu ninu iṣelọpọ "
+"ounje?"
+msgstr "Agroforestry"
+
+msgid "Ọgbin monoculture to n pọ si"
+msgstr "Ọgbin monoculture to n pọ si"
+
+msgid "Agroforestry"
+msgstr "Agroforestry"
+
+msgid "Lilo awọn ohun ọgbin kemikali"
+msgstr "Lilo awọn ohun ọgbin kemikali"
+
+msgid "Ọgbin ti o nilo omi pupọ"
+msgstr "Ọgbin ti o nilo omi pupọ"
+
+msgid ""
+"Agroforestry ni imulo ti o ni itumọ ti fifi awọn igi sinu awọn ọna ogbin, "
+"eyi ti o n ran lati mu oksailu kọnkẹẹdi, dinku ero ilẹ, ati ṣetọju awọn "
+"irugbin ẹda."
+msgstr ""
+"Agroforestry ni imulo ti o ni itumọ ti fifi awọn igi sinu awọn ọna ogbin, "
+"eyi ti o n ran lati mu oksailu kọnkẹẹdi, dinku ero ilẹ, ati ṣetọju awọn "
+"irugbin ẹda."
+
+msgid "Kini ipa ayika ti gbigbe ounje lori awọn itujade kárbọnu?"
+msgstr "O pọ si awọn itujade kárbọnu nitori lilo epo"
+
+msgid "O pọ si awọn itujade kárbọnu nitori lilo epo"
+msgstr "O pọ si awọn itujade kárbọnu nitori lilo epo"
+
+msgid "O dinku awọn itujade kárbọnu nipa lilo awọn ọkọ ayọkẹlẹ itanna"
+msgstr "O dinku awọn itujade kárbọnu nipa lilo awọn ọkọ ayọkẹlẹ itanna"
+
+msgid "Ko ni ipa lori awọn itujade kárbọnu"
+msgstr "Ko ni ipa lori awọn itujade kárbọnu"
+
+msgid "O n ṣe iranlọwọ lati mu awọn itujade kárbọnu lati inu apoti ounje"
+msgstr "O n ṣe iranlọwọ lati mu awọn itujade kárbọnu lati inu apoti ounje"
+
+msgid ""
+"Gbigbe ounje nilo epo, eyi ti o n ṣe iranlọwọ si awọn itujade kárbọnu nipasẹ"
+" idalẹnu epo fosaili."
+msgstr ""
+"Gbigbe ounje nilo epo, eyi ti o n ṣe iranlọwọ si awọn itujade kárbọnu nipasẹ"
+" idalẹnu epo fosaili."
+
+msgid "Bawo ni isọnu ounje ṣe n ṣe iranlọwọ si awọn itujade kárbọnu?"
+msgstr "Isọnu ounje n ṣe iṣelọpọ methane ninu ibi idasilẹ"
+
+msgid "Isọnu ounje n ṣe iṣelọpọ methane ninu ibi idasilẹ"
+msgstr "Isọnu ounje n ṣe iṣelọpọ methane ninu ibi idasilẹ"
+
+msgid "Isọnu ounje n dinku awọn itujade kárbọnu"
+msgstr "Isọnu ounje n dinku awọn itujade kárbọnu"
+
+msgid "Isọnu ounje ko ni ipa lori awọn itujade kárbọnu"
+msgstr "Isọnu ounje ko ni ipa lori awọn itujade kárbọnu"
+
+msgid "Isọnu ounje jẹ ohun elo ti a le ya ati ko tu awọn gaasi silẹ"
+msgstr "Isọnu ounje jẹ ohun elo ti a le ya ati ko tu awọn gaasi silẹ"
+
+msgid ""
+"Nigbati isọnu ounje ba ti wa ni ibi idasilẹ, o n ṣe iṣelọpọ methane, gaasi "
+"ile-igbona ti o lagbara ti o n ṣe iranlọwọ si iyipada oju-ọjọ."
+msgstr ""
+"Nigbati isọnu ounje ba ti wa ni ibi idasilẹ, o n ṣe iṣelọpọ methane, gaasi "
+"ile-igbona ti o lagbara ti o n ṣe iranlọwọ si iyipada oju-ọjọ."
+
+msgid "Iru ounje wo ni o ni ẹsẹ kárbọnu to kere ju?"
+msgstr "Ounjẹ ti o da lori awọn irugbin"
+
+msgid "Ounjẹ ti o da lori awọn irugbin"
+msgstr "Ounjẹ ti o da lori awọn irugbin"
+
+msgid "Ounjẹ to kun fun ẹran"
+msgstr "Ounjẹ to kun fun ẹran"
+
+msgid "Ounjẹ ti o ni awọn ounjẹ ti a ṣe ilana"
+msgstr "Ounjẹ ti o ni awọn ounjẹ ti a ṣe ilana"
+
+msgid "Ounjẹ apapọ pẹlu ọpọlọpọ awọn ọja wara"
+msgstr "Ounjẹ apapọ pẹlu ọpọlọpọ awọn ọja wara"
+
+msgid ""
+"Ounjẹ ti o da lori awọn irugbin ni a lo lati ni ẹsẹ kárbọnu kekere nitori "
+"wọn nilo awọn orisun diẹ, pẹlu omi ati agbara, ati pe wọn n ṣe ipilẹṣẹ gaasi"
+" ile-igbona diẹ."
+msgstr ""
+"Ounjẹ ti o da lori awọn irugbin ni a lo lati ni ẹsẹ kárbọnu kekere nitori "
+"wọn nilo awọn orisun diẹ, pẹlu omi ati agbara, ati pe wọn n ṣe ipilẹṣẹ gaasi"
+" ile-igbona diẹ."
+
+msgid "Kini ipa kárbọnu ti apoti ounje lori ayika?"
+msgstr "Apoti nlo pilasitik, eyi ti o n ṣe iranlọwọ si idoti pilasitik"
+
+msgid "Apoti nlo pilasitik, eyi ti o n ṣe iranlọwọ si idoti pilasitik"
+msgstr "Apoti nlo pilasitik, eyi ti o n ṣe iranlọwọ si idoti pilasitik"
+
+msgid "Apoti n dinku isọnu ounje"
+msgstr "Apoti n dinku isọnu ounje"
+
+msgid "Apoti ko ni ipa lori awọn itujade kárbọnu"
+msgstr "Apoti ko ni ipa lori awọn itujade kárbọnu"
+
+msgid "Apoti n ṣe iranlọwọ lati tọju ounje fun igba pipẹ"
+msgstr "Apoti n ṣe iranlọwọ lati tọju ounje fun igba pipẹ"
+
+msgid ""
+"Apoti ounje nigbagbogbo nlo pilasitik, eyi ti o n ṣe iranlọwọ si isọnu "
+"pilasitik ati idoti, ati pe o nilo awọn orisun lati ṣe, n ṣẹda ẹsẹ kárbọnu "
+"ti o ga."
+msgstr ""
+"Apoti ounje nigbagbogbo nlo pilasitik, eyi ti o n ṣe iranlọwọ si isọnu "
+"pilasitik ati idoti, ati pe o nilo awọn orisun lati ṣe, n ṣẹda ẹsẹ kárbọnu "
+"ti o ga."
