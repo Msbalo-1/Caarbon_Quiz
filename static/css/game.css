@@ -277,3 +277,34 @@ button[type="submit"]:hover {
   box-shadow: none;
   transform: none;
 }
+
+
+
+  @media (max-width: 768px) {
+    .game-container {
+      padding: 1em;
+    }
+    .game-header, .points-display, .level-indicator {
+      text-align: center;
+      font-size: 1em;
+    }
+    .question p {
+      font-size: 1.1em;
+    }
+    .question div {
+      margin-bottom: 0.5em;
+    }
+    .next-level-btn, .quit-btn {
+      width: 100%;
+      font-size: 1em;
+    }
+    .badge-img {
+      width: 80px;
+      height: auto;
+    }
+    .pagination {
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5em;
+    }
+  }
