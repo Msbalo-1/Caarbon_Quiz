@@ -46,7 +46,7 @@ def load_ui_translations(lang):
     file_path = os.path.join(os.path.dirname(__file__), "translations", "ui_translations.json")
 
     if not os.path.exists(file_path):
-        print(f"[ERROR] Translation file not found at: {file_path}")
+        # print(f"[ERROR] Translation file not found at: {file_path}")
         return {}
 
     with open(file_path, "r", encoding="utf-8") as file:
@@ -54,7 +54,7 @@ def load_ui_translations(lang):
             translations = json.load(file)
             return translations.get(lang, translations.get("en", {}))
         except json.JSONDecodeError as e:
-            print(f"[ERROR] Failed to parse translation JSON: {e}")
+            # print(f"[ERROR] Failed to parse translation JSON: {e}")
             return {}
         
         
@@ -397,14 +397,7 @@ def submit_answer():
     except ValueError:
         next_level = None
 
-    # Check if all levels in this category are completed
-    completed_levels = conn.execute(
-        "SELECT level FROM user_progress WHERE user_id = ? AND category = ? AND completed = 1",
-        (user_id, category)
-    ).fetchall()
-    completed_level_names = [lvl["level"] for lvl in completed_levels]
-    category_completed = all(lvl in completed_level_names for lvl in all_levels)
-
+   
 
 
     conn.commit()
@@ -430,7 +423,7 @@ def submit_answer():
             "level_completed": level_completed,
             "badge": badge_awarded,
             "next_level": next_level,
-            "category_completed": category_completed
+            
 
         }
     )

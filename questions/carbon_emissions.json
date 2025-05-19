@@ -47,7 +47,8 @@
               "yo": "Ẹsẹ-kárbọnu ṣe iwọn lapapọ awọn itujade oksailu kọnkẹẹdi ti eniyan tabi iṣẹ ṣe.",
               "ig": "Carbon footprint na-atụgharị na ọnụ ọgụgụ nke carbon dioxide mmadụ ma ọ bụ ihe omume na-eme.",
               "ha": "Sahihin carbon yana aunawa fitar iskar carbon dioxide da mutane ko ayyuka ke haifarwa."
-            }
+            },
+            "level": 1
   
           },
           {
@@ -143,7 +144,8 @@
               "yo": "Igi ṣe iranwọ̀ lodi sí itujade kárbọnu nipa mímu oksailu kọnkẹẹdi gbé ati tú atẹgun.",
               "ig": "Osisi na-enyere aka belata carbon emissions site n’ịmị CO2 na ịtụpụ oxygen.",
               "ha": "Itatuwa yana taimakawa rage carbon ta hanyar shan carbon dioxide da fitar da oxygen."
-            }
+            },
+            "level": 1
   
           }
         ],
@@ -193,7 +195,8 @@
               "yo": "Ẹ̀rọ ina monamona tí a máa ń lo nígbà tí agbára jẹ̀ aiṣe-dáṣọ̀tọ̀ ń tú oksailu kọnkẹẹdi ní àwọn ìlú ńlá Nàìjíríà.",
               "ig": "Jeniretọ ndị a na-eji maka enweghị ọkụ na-akpọpụta nnukwu CO2 na obodo dị na Nigeria.",
               "ha": "Janareto yana haifar da yawan fitar da carbon dioxide saboda rashin wutan lantarki mai tsaro."
-            }
+           },
+            "level": 2
   
           },
           {
@@ -241,7 +244,8 @@
               "yo": "Sisun àwòkọse máa ń tú gaasi tó ṣe ipalara, pẹ̀lú oksailu kọnkẹẹdi, tó ń mú àpáta ayé bàjẹ́.",
               "ig": "Ịkụ ọkụ mkpofu na-atụpụ ikuku ndị na-egbu egbu, tinyere CO2, nke na-eduga na mmetọ gburugburu ebe obibi.",
               "ha": "Kona shara yana sakin iskar gas mai cutarwa kamar carbon dioxide wanda ke lalata muhalli."
-            }
+            },
+            "level": 2
   
           },
           {
@@ -289,7 +293,8 @@
               "yo": "Àtúnjúwe gasi ní ilé-iṣẹ́ epo Nàìjíríà ń mú àìdá ilé-ọjọ́ kún fún àpáta ayé, tó ń nípa ayé.",
               "ig": "Ịtụpụ gas na ụlọ ọrụ mmanụ Nigeria na-akpọpụta nnukwu ikuku ụlọ ọkụ nke na-emetụta mgbanwe ihu igwe.",
               "ha": "Flare na gas daga masana'antar man Najeriya yana taimakawa haifar da sauyin yanayi ta hanyar sakin iskar gas mai kara dumamar duniya."
-            }
+           },
+            "level": 2
   
           }
         ],
@@ -339,7 +344,8 @@
               "yo": "Ẹ̀gbẹ́gbọ̀n àti sísun máa ń tú oksailu kọnkẹẹdi àti gaasi mìíràn tó ṣe ipalara sí ayé.",
               "ig": "Ọrụ ọkụ ala na-atụpụ CO2 na ikuku ndị ọzọ na-egbu egbu site na ọkụ osisi.",
               "ha": "Noma kona kasa yana sakin iskar carbon dioxide da wasu iskar gas masu cutarwa saboda kona tsirrai."
-            }
+            },
+            "level": 3
   
           },
           {
@@ -387,7 +393,8 @@
               "yo": "Ìbájẹ́ igbó máa ń dinku iye igi tó ń wọ́n oksailu kọnkẹẹdi, tó ń mú kárbọnu pọ̀ sí afẹ́fẹ́.",
               "ig": "Ibelata ọhịa na-eme ka ọnụ ọgụgụ osisi na-etinye CO2 dị obere, nke na-eme ka carbon dị n'ikuku bawanye.",
               "ha": "Sare daji yana rage bishiyoyin dake shakar carbon dioxide wanda hakan ke kara iskar carbon a sararin samaniya."
-            }
+            },
+            "level": 3
   
           },
           {
@@ -435,7 +442,8 @@
               "yo": "Agbára itanna gasi máa ń tú gaasi ilé-ọjọ́ pẹ̀lú ìfunpọ̀, gẹ́gẹ́ bí agbára oorun tó mọ́ àti àtúnṣe.",
               "ig": "Ọkụ eletrik sitere na gas na-eme ka ikuku ụlọ ọkụ buru ibu, ebe ọkụ anyanwụ dị ọcha na nke nwere ike ịzọpụta.",
               "ha": "Amfani da gas wajen samar da wuta yana haifar da sakin iskar greehouse mai yawa fiye da amfani da wutar rana wacce bata fitar da iskar gas."
-            }
+            },
+            "level": 3
   
           }
         ]

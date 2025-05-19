@@ -882,6 +882,9 @@ button[type="submit"]:hover {
 }
 
 
+
+
+
 .badge-popup {
   position: fixed;
   top: 0;
@@ -933,3 +936,46 @@ button[type="submit"]:hover {
   opacity: 0;
   transition: opacity 0.4s ease, transform 0.4s ease;
 }
+
+
+/* Container to center the button */
+.next-level-container {
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+/* Next Level button style */
+.next-level-btn {
+  background-color: #28a745; /* fresh green */
+  color: white;
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(40, 167, 69, 0.4);
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  user-select: none;
+}
+
+/* Hover effect */
+.next-level-btn:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+/* Focus outline for accessibility */
+.next-level-btn:focus {
+  outline: 3px solid #155724;
+  outline-offset: 2px;
+}
+
+/* Disabled state (if needed) */
+.next-level-btn:disabled {
+  background-color: #94d3a2;
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+}
+

@@ -10,24 +10,25 @@
 
     <!-- Quit Button -->
     <div class="quit-btn-container">
-        <button id="dynamicButton" class="quit-btn">{{ ui_text.get('quit') }}</button>
+        <button id="quitButton" class="quit-btn">{{ ui_text.get('quit') }}</button>
+    </div>
+
+    <!-- Next Level Button (initially hidden) -->
+    <div class="next-level-container" style="text-align: center; margin-top: 1em;">
+        <button id="nextLevelButton" class="next-level-btn" style="display: none;">
+            {{ ui_text.get('next_level') }}
+        </button>
     </div>
 
     <!-- Game Header -->
     <div class="game-header">
         <h2 class="category-title">{{ ui_text.get(category, category.replace('_', ' ').title()) }}</h2>
-
         <div class="level-indicator">{{ ui_text.get(level, level.replace('_', ' ').title()) }}</div>
         <div class="points-display">
             🏆 {{ ui_text.get('points') }}: <span id="pointsValue">{{ user_points }}</span>
             <span id="pointsChange" class="points-change"></span>
         </div>
     </div>
-
-    <!-- Optional: Progress Bar -->
-    <!-- <div class="progress-bar-container">
-        <div class="progress-bar" style="width: {{ (current_page / total_pages) * 100 }}%;"></div>
-    </div> -->
 
     <!-- Game Form -->
     <form id="gameForm">
@@ -49,8 +50,8 @@
     <!-- Explanation Popup -->
     <div id="explanationPopup">
         <p id="explanationText"></p>
-        <button id="nextQuestionButton">{{ ui_text.get('next_question') }}</button>
-        <button id="tryAgainButton" style="display: none;">{{ ui_text.get('try_again') }}</button>
+        <button id="nextQuestionButton">{{ ui_text.get('next_question', 'Next Question') }}</button>
+        <button id="tryAgainButton" style="display: none;">{{ ui_text.get('try_again', 'Try Again') }}</button>
     </div>
 
     <!-- Pagination Controls -->
@@ -72,183 +73,214 @@
         {% endif %}
     </div>
 
-    <!-- Celebration Popup -->
+   <!-- Celebration Popup -->
     <div id="badgePopup" class="badge-popup" style="display: none;">
-        <div class="popup-content">
+        <div class="popup-content animated">
             <h3>🎉 Congratulations! 🎉</h3>
             <p id="badgeText"></p>
-            <img id="badgeImage" src="" alt="Badge Icon" class="badge-img">
-            <button onclick="closeBadgePopup()">Continue</button>
+            <!-- <img id="badgeImage" src="" alt="Badge Icon" class="badge-img"> -->
+            <button id="nextLevelFromBadgeBtn" class="next-level-btn" style="display: none;">
+                {{ ui_text.get('next_level') }}
+            </button>
+            <button id="backToCategoryBtn" class="next-level-btn" style="display: none;">
+                {{ ui_text.get('back_to_category', 'Back to Category ') }}
+            </button>
         </div>
     </div>
 
 
-    
-
-
 </div>
 
-
 <script>
-    document.addEventListener("DOMContentLoaded", () => {
-        const form = document.getElementById("gameForm");
-        const popup = document.getElementById("explanationPopup");
-        const explanationText = document.getElementById("explanationText");
-        const nextButton = document.getElementById("nextQuestionButton");
-        const tryAgainButton = document.getElementById("tryAgainButton");
+document.addEventListener("DOMContentLoaded", () => {
+    const form = document.getElementById("gameForm");
+    const popup = document.getElementById("explanationPopup");
+    const explanationText = document.getElementById("explanationText");
+    const nextButton = document.getElementById("nextQuestionButton");
+    const tryAgainButton = document.getElementById("tryAgainButton");
+    const nextLevelBtn = document.getElementById("nextLevelButton");
+
     
-        form.addEventListener("submit", async (e) => {
-            e.preventDefault();
     
-            const formData = new FormData(form);
-            const answers = {};
-            let questionId = "";
-    
-            formData.forEach((value, key) => {
-                if (key.startsWith("answer_")) {
-                    answers["answer"] = value;
-                    questionId = key.split("_")[1];
-                } else if (key === "question_id") {
-                    answers["question_id"] = value;
-                }
-            });
-    
-            // Add current category and level from template variables
-            answers["category"] = "{{ category }}";
-            answers["level"] = "{{ level }}";
-    
-            const response = await fetch("{{ url_for('submit_answer') }}", {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                body: JSON.stringify(answers)
-            });
-    
-            const result = await response.json();
-    
-            if (result.error) {
-                alert(result.error);
-                return;
+
+    form.addEventListener("submit", async (e) => {
+        e.preventDefault();
+
+        const formData = new FormData(form);
+        const answers = {};
+        let questionId = "";
+
+        formData.forEach((value, key) => {
+            if (key.startsWith("answer_")) {
+                answers["answer"] = value;
+                questionId = key.split("_")[1];
+            } else if (key === "question_id") {
+                answers["question_id"] = value;
             }
-    
-            // Show the explanation popup
-            document.getElementById('explanationText').innerHTML = result.correct
-                ? "✅ Correct!<br>" + result.explanation
+        });
+
+        answers["category"] = "{{ category }}";
+        answers["level"] = "{{ level }}";
+
+        const response = await fetch("{{ url_for('submit_answer') }}", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(answers)
+        });
+
+        const result = await response.json();
+
+        if (result.error) {
+            alert(result.error);
+            return;
+        }
+
+        // Show explanation popup
+        explanationText.innerHTML = result.correct
+            ? "✅ Correct!<br>" + result.explanation
             : "❌ Incorrect.<br>" + result.explanation;
 
-            document.getElementById('explanationPopup').style.display = 'block';
+        popup.style.display = 'block';
 
-              // Handle button visibility
         if (result.correct) {
-            document.getElementById('nextQuestionButton').style.display = 'inline-block';
-            document.getElementById('tryAgainButton').style.display = 'none';
-            
-            // Update dynamic button if level is complete
+            nextButton.style.display = 'inline-block';
+            tryAgainButton.style.display = 'none';
+
             if (result.level_completed) {
-                const dynamicBtn = document.getElementById('dynamicButton');
-                dynamicBtn.textContent = "{{ _('Next Level') }}";
-                dynamicBtn.classList.add('next-level');
-                dynamicBtn.onclick = function() {
-                    window.location.href = "{{ url_for('play_game', category=category, level=next_level, page=1) }}";
+                nextLevelBtn.style.display = 'inline-block';
+                nextLevelBtn.onclick = () => {
+                    window.location.href = `/game?category={{ category }}&level=${result.next_level}&page=1`;
                 };
             }
         } else {
-            document.getElementById('nextQuestionButton').style.display = 'none';
-            document.getElementById('tryAgainButton').style.display = 'inline-block';
+            nextButton.style.display = 'none';
+            tryAgainButton.style.display = 'inline-block';
         }
 
-        });
-    
-        nextButton.addEventListener("click", () => {
-            // Reload page to next question (handled by server pagination)
-            window.location.href = "{{ url_for('play_game', category=category, level=level, page=current_page + 1) }}";
-        });
-    
-        tryAgainButton.addEventListener("click", () => {
-            popup.style.display = "none";
-        });
-    
-        // Quit button functionality
-        document.getElementById("dynamicButton").addEventListener("click", () => {
-            if (confirm("Are you sure you want to quit? Your progress will be saved.")) {
-                window.location.href = "{{ url_for('main') }}";
-            }
-        });
-      
-
+        // Points animation
         if (result.points !== undefined) {
-    const pointsValue = document.getElementById('pointsValue');
-    const pointsChange = document.getElementById('pointsChange');
+            const pointsValue = document.getElementById('pointsValue');
+            const pointsChange = document.getElementById('pointsChange');
+            const prevPoints = parseInt(pointsValue.textContent);
+            const newPoints = result.points;
+            const delta = newPoints - prevPoints;
 
-    const previousPoints = parseInt(pointsValue.textContent);
-    const newPoints = result.points;
-    const delta = newPoints - previousPoints;
+            pointsValue.textContent = newPoints;
 
-    // Update visible total points
-    pointsValue.textContent = newPoints;
+            if (delta > 0) {
+                pointsChange.textContent = `+${delta}`;
+                pointsChange.style.opacity = 1;
+                pointsChange.style.transform = "translateY(-10px)";
+                setTimeout(() => {
+                    pointsChange.style.opacity = 0;
+                    pointsChange.style.transform = "translateY(0)";
+                }, 1000);
+            }
 
-    if (delta > 0) {
-        // Show "+X"
-        pointsChange.textContent = `+${delta}`;
-        pointsChange.style.opacity = 1;
-        pointsChange.style.transform = "translateY(-10px)";
+            pointsValue.style.transition = "transform 0.3s ease";
+            pointsValue.style.transform = "scale(1.3)";
+            setTimeout(() => {
+                pointsValue.style.transform = "scale(1)";
+            }, 300);
+        }
 
-        // Hide after a short delay
-        setTimeout(() => {
-            pointsChange.style.opacity = 0;
-            pointsChange.style.transform = "translateY(0)";
-        }, 1000);
-    }
+        // Play sounds
+        const correctSound = new Audio('{{ url_for("static", filename="sounds/correct.mp3") }}');
+        const incorrectSound = new Audio('{{ url_for("static", filename="sounds/incorrect.mp3") }}');
+        const levelCompleteSound = new Audio('{{ url_for("static", filename="sounds/level_complete.mp3") }}');
 
-    // Animate main points value
-    pointsValue.style.transition = "transform 0.3s ease";
-    pointsValue.style.transform = "scale(1.3)";
-    setTimeout(() => {
-        pointsValue.style.transform = "scale(1)";
-    }, 300);
-    }
+        if (result.correct) {
+            correctSound.play();
+            if (result.level_completed) {
+                setTimeout(() => levelCompleteSound.play(), 500);
+            }
+        } else {
+            incorrectSound.play();
+        }
 
+      // Show badge popup if any
+        if (result.badge) {
+            const badgeText = document.getElementById('badgeText');
+            const badgeImage = document.getElementById('badgeImage');
+            const badgePopup = document.getElementById('badgePopup');
+            const popupContent = document.querySelector('.popup-content');
+            const nextLevelBadgeBtn = document.getElementById('nextLevelFromBadgeBtn');
+            const backToCategoryBtn = document.getElementById('backToCategoryBtn');
 
-    if (result.badge) {
-    const badgeText = document.getElementById('badgeText');
-    const badgeImage = document.getElementById('badgeImage');
-    const badgePopup = document.getElementById('badgePopup');
+            badgeText.textContent = `You've earned a badge for completing ${result.badge.replace(/_/g, ' ')}! Check Your Profile To View Your Badge`;
+            // badgeImage.src = `/static/images/badges/badge.png`;  // ✅ correct
 
-    badgeText.textContent = `You've earned a badge for completing ${result.badge.replace(/_/g, ' ')}!`;
-    badgeImage.src = `/static/badges/${result.badge}.png`;  // Make sure image exists
+            badgePopup.style.display = 'flex';
 
-    badgePopup.style.display = 'block';
-    }
+            // Animate popup
+            setTimeout(() => popupContent.classList.add('show'), 50);
 
-    function closeBadgePopup() {
-    document.getElementById("badgePopup").style.display = "none";
-    }
-
-
-
-
-    const correctSound = new Audio('{{ url_for("static", filename="sounds/correct.mp3") }}');
-    const incorrectSound = new Audio('{{ url_for("static", filename="sounds/incorrect.mp3") }}');
-    const levelCompleteSound = new Audio('{{ url_for("static", filename="sounds/level_complete.mp3") }}');
-
-    
-    if (result.correct) {
-    correctSound.play();
-
-    if (result.level_completed) {
-        setTimeout(() => levelCompleteSound.play(), 500);  // Slight delay
-    }
-    } else {
-    incorrectSound.play();
-    }
+            if (result.level_completed && result.next_level) {
+                nextLevelBadgeBtn.style.display = 'inline-block';
+                nextLevelBadgeBtn.onclick = () =>  {
+                    window.location.href = "{{ url_for('play_game', category=category, level=next_level, page=1) }}";
+                };
+            } else {
+                backToCategoryBtn.style.display = 'inline-block';
+                backToCategoryBtn.onclick = () => {
+                    window.location.href = "{{ url_for('main') }}";
+                };
+            }
+        }
 
 
+        
+         // Badge popup: Already earned badge
+        else if (result.badge_already_earned) {
+            const badgeText = document.getElementById('badgeText');
+            const badgeImage = document.getElementById('badgeImage');
+            const badgePopup = document.getElementById('badgePopup');
+            const popupContent = document.querySelector('.popup-content');
+            const nextLevelBadgeBtn = document.getElementById('nextLevelFromBadgeBtn');
+            const backToCategoryBtn = document.getElementById('backToCategoryBtn');
+
+            badgeText.textContent = "✅ You've already earned the badge for this level. Great job reviewing!";
+            badgePopup.style.display = 'flex';
+            setTimeout(() => popupContent.classList.add('show'), 50);
+
+            if (result.level_completed && result.next_level) {
+                nextLevelBadgeBtn.style.display = 'inline-block';
+                nextLevelBadgeBtn.onclick = () =>  {
+                    window.location.href = "{{ url_for('play_game', category=category, level=next_level, page=1) }}";
+                };
+            } else {
+                backToCategoryBtn.style.display = 'inline-block';
+                backToCategoryBtn.onclick = () => {
+                    window.location.href = "{{ url_for('main') }}";
+                };
+            }
+        }
 
 
     });
-    </script>
-    
-</div>
-{% endblock %}
 
+    nextButton.addEventListener("click", () => {
+        window.location.href = "{{ url_for('play_game', category=category, level=level, page=current_page + 1) }}";
+    });
+
+    tryAgainButton.addEventListener("click", () => {
+        popup.style.display = "none";
+    });
+
+    document.getElementById("quitButton").addEventListener("click", () => {
+        if (confirm("Are you sure you want to quit? Your progress will be saved.")) {
+            window.location.href = "{{ url_for('main') }}";
+        }
+    });
+
+    window.closeBadgePopup = function () {
+        document.getElementById("badgePopup").style.display = "none";
+
+    
+    
+    };
+});
+</script>
+{% endblock %}

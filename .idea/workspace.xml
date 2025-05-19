@@ -5,34 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="276c3f40-5e36-440c-9464-c8e3bea52baf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/do game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enhanced_test_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locustfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/populate_po.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/badges/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/carbon_emissions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/energy_consumption.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/food_intake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/profile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/transportation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/waste_management.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/translations/ui_translations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carbon_game.db" beforeDir="false" afterPath="$PROJECT_DIR$/carbon_game.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/questions/carbon_emissions.json" beforeDir="false" afterPath="$PROJECT_DIR$/questions/carbon_emissions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/game.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/game.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translations/ui_translations.json" beforeDir="false" afterPath="$PROJECT_DIR$/translations/ui_translations.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,16 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.app.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ms_balo/Documents/do game&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.app.executor": "Debug",
+    "Python.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP/Documents/Caarbon Quiz"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -106,7 +87,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
